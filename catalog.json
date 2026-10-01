@@ -1,7 +1,7 @@
 {
  "source": "https://botsdots.site/catalog.json",
- "generated": "2026-10-01T07:36:44.225Z",
- "count": 3312,
+ "generated": "2026-10-01T13:20:26.631Z",
+ "count": 3323,
  "templates": [
   {
    "name": "🏆 Contest Winner",
@@ -67,22 +67,26 @@
    "name": "3D Print Picker",
    "summary": "Finds what's hot to 3D-print and sell on Facebook Marketplace.",
    "category": "personal-admin",
-   "cadence": "on-demand",
+   "cadence": "weekly",
    "risk": "low",
    "access": [],
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "kylecmarshall",
+    "name": "Eminy",
     "handle": "kylecmarshall",
     "url": "https://x.com/kylecmarshall"
    },
    "add": "https://x.ai/bot/eneihB5UxrWebXtoVlOm6",
    "page": "https://botsdots.site/templates/3d-print-picker",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 8,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -154,7 +158,7 @@
   {
    "name": "Ad Umbra",
    "summary": "These Grok Bot / digital gremlins reworks add a dose of aspiration to your daily err, nightly grind equivalent to 30 CC’s of epinephrine straight to…",
-   "category": "personal-admin",
+   "category": "teams-handoffs",
    "cadence": "daily",
    "risk": "low",
    "access": [],
@@ -187,16 +191,54 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "TRV_Architech",
+    "name": "Sentinel",
     "handle": "TRV_Architech",
     "url": "https://x.com/TRV_Architech"
    },
    "add": "https://x.ai/bot/hv70IMR--R-c9VZF3aZ7X",
    "page": "https://botsdots.site/templates/agent-zero-hv70",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 7,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
+    {
+     "name": "majiayu000/awesome-grok-bot",
+     "url": "https://github.com/majiayu000/awesome-grok-bot"
+    },
+    {
+     "name": "cs68614-hash/awesome-grokbot-templates",
+     "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+    }
+   ]
+  },
+  {
+   "name": "AgentStack",
+   "summary": "Platform agent for AgentStack.tech via MCP for hosting, DNA, App Studio, and apps you ship",
+   "category": "coding-shipping",
+   "cadence": "on-demand",
+   "risk": "low",
+   "access": [],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "AgentSmith",
+    "handle": "AgentStack",
+    "url": "https://x.com/AgentStackTech"
+   },
+   "add": "https://x.ai/bot/cvtOlJYgdXHjhHg8X_f7h",
+   "page": "https://botsdots.site/templates/agentstack",
+   "firstSeen": "2026-10-01",
+   "score": 8,
+   "license": "CC0-1.0",
+   "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -236,23 +278,27 @@
   {
    "name": "AmericaBot",
    "summary": "Plain-English answers about US government services and where to apply",
-   "category": "personal-admin",
+   "category": "research-briefings",
    "cadence": "on-demand",
    "risk": "low",
    "access": [],
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "andrewslaptop",
+    "name": "Andrew",
     "handle": "andrewslaptop",
     "url": "https://x.com/andrewslaptop"
    },
    "add": "https://x.ai/bot/JI_vqjMDn_w7wFUw-G1UR",
    "page": "https://botsdots.site/templates/americabot",
    "firstSeen": "2026-10-01",
-   "score": 9,
-   "license": "CC0-1.0",
+   "score": 11,
+   "license": "CC-BY-4.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -270,7 +316,7 @@
   {
    "name": "AmericaBot",
    "summary": "Civic helper for america.gov — official U.S.",
-   "category": "personal-admin",
+   "category": "research-briefings",
    "cadence": "on-demand",
    "risk": "low",
    "access": [],
@@ -305,16 +351,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "sydnierd",
+    "name": "Sydnie",
     "handle": "sydnierd",
     "url": "https://x.com/sydnierd"
    },
    "add": "https://x.ai/bot/kRpDD2Vx01ge3Pc2x8dfs",
    "page": "https://botsdots.site/templates/andre",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 8,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -322,6 +372,36 @@
     {
      "name": "cs68614-hash/awesome-grokbot-templates",
      "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+    }
+   ]
+  },
+  {
+   "name": "Animated Story Maker",
+   "summary": "Turns a story idea, theme, or character photos into a short 3D animated story with Grok Imagine prompts per episode",
+   "category": "content-publishing",
+   "cadence": "on-demand",
+   "risk": "low",
+   "access": [],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "karatademada",
+    "handle": "karatademada",
+    "url": "https://x.com/karatademada"
+   },
+   "add": "https://x.ai/bot/pwLrxtrOO9o3kwaVQVU3O",
+   "page": "https://botsdots.site/templates/animated-story-maker",
+   "firstSeen": "2026-10-01",
+   "score": 7,
+   "license": "CC0-1.0",
+   "sources": [
+    {
+     "name": "majiayu000/awesome-grok-bot",
+     "url": "https://github.com/majiayu000/awesome-grok-bot"
+    },
+    {
+     "name": "GrokBot.dev (CC BY 4.0)",
+     "url": "https://github.com/ZeroPointRepo/GrokBotDev"
     }
    ]
   },
@@ -361,16 +441,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "JPipo86",
+    "name": "Pixel",
     "handle": "JPipo86",
     "url": "https://x.com/JPipo86"
    },
    "add": "https://x.ai/bot/T_uGEf4Bv2rN-Z5vBkuMi",
    "page": "https://botsdots.site/templates/apple-tech-morning-brief",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 7,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -398,9 +482,13 @@
    "add": "https://x.ai/bot/nTTQ_v9iaWJMfMX3R3L1S",
    "page": "https://botsdots.site/templates/apply-scout",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 8,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -424,16 +512,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "TRV_Architech",
+    "name": "Sentinel",
     "handle": "TRV_Architech",
     "url": "https://x.com/TRV_Architech"
    },
    "add": "https://x.ai/bot/0M2KfANsxrPRRp5mqg0m8",
    "page": "https://botsdots.site/templates/archivist",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 7,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -454,16 +546,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "TRV_Architech",
+    "name": "Sentinel",
     "handle": "TRV_Architech",
     "url": "https://x.com/TRV_Architech"
    },
    "add": "https://x.ai/bot/MWC3F8gJzpwrFmwljRc46",
    "page": "https://botsdots.site/templates/art",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 7,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -510,16 +606,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "fminondo",
+    "name": "Francisco",
     "handle": "fminondo",
     "url": "https://x.com/fminondo"
    },
    "add": "https://x.ai/bot/Kf1jr6ZtTbJl-MSWGRjAw",
    "page": "https://botsdots.site/templates/asistente-personal",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 8,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -533,7 +633,7 @@
   {
    "name": "Asistente Personal",
    "summary": "Asistente personal en español: ordena tu correo y tus chats, redacta mensajes para que tú los apruebes, saca facturas CFDI de tickets con autofactura…",
-   "category": "inbox-calendar",
+   "category": "personal-admin",
    "cadence": "on-demand",
    "risk": "low",
    "access": [],
@@ -566,16 +666,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "SignStudy",
+    "name": "Jack",
     "handle": "SignStudy",
     "url": "https://x.com/SignStudy"
    },
    "add": "https://x.ai/bot/l_QrRrEuLvpcD2e8rhA7k",
    "page": "https://botsdots.site/templates/asl-companion",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 8,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -648,16 +752,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "Grabgarp",
+    "name": "Simon",
     "handle": "Grabgarp",
     "url": "https://x.com/Grabgarp"
    },
    "add": "https://x.ai/bot/jiYXjfSy_MlmvRGglFBTo",
    "page": "https://botsdots.site/templates/azeroth-desk",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 8,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -680,16 +788,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "TRV_Architech",
+    "name": "Sentinel",
     "handle": "TRV_Architech",
     "url": "https://x.com/TRV_Architech"
    },
    "add": "https://x.ai/bot/vA5jP7SZTv53hSMR5GIlO",
    "page": "https://botsdots.site/templates/banger",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 7,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -736,16 +848,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "pickermaned",
+    "name": "Michael",
     "handle": "pickermaned",
     "url": "https://x.com/pickermaned"
    },
    "add": "https://x.ai/bot/SpTTqILibCdK5iI5cty9q",
    "page": "https://botsdots.site/templates/bay-brief",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 8,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -768,16 +884,20 @@
    ],
    "official": false,
    "creator": {
-    "name": "FishxCD",
+    "name": "Fish",
     "handle": "FishxCD",
     "url": "https://x.com/FishxCD"
    },
    "add": "https://x.ai/bot/aWkHxIeIU-Pqr7hDtl3Up",
    "page": "https://botsdots.site/templates/bigger-fish-x-grower-bot",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 8,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -798,16 +918,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "TRV_Architech",
+    "name": "Sentinel",
     "handle": "TRV_Architech",
     "url": "https://x.com/TRV_Architech"
    },
    "add": "https://x.ai/bot/GR0rqS06gn6Kr_WnMw5Fn",
    "page": "https://botsdots.site/templates/bill-gr0r",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 7,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -833,16 +957,20 @@
    ],
    "official": false,
    "creator": {
-    "name": "AnthonyDo",
+    "name": "Anthony",
     "handle": "AnthonyDo",
     "url": "https://x.com/AnthonyDo"
    },
    "add": "https://x.ai/bot/SJf7XEUBe8pDJEiXyx01R",
    "page": "https://botsdots.site/templates/bill-watch-sjf7",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 7,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -917,16 +1045,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "TRV_Architech",
+    "name": "Sentinel",
     "handle": "TRV_Architech",
     "url": "https://x.com/TRV_Architech"
    },
    "add": "https://x.ai/bot/rb4wF7PpxM75G7eFB5yxS",
    "page": "https://botsdots.site/templates/bios",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 7,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -947,16 +1079,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "Chris_Vandaele",
+    "name": "Christopher",
     "handle": "Chris_Vandaele",
     "url": "https://x.com/Chris_Vandaele"
    },
    "add": "https://x.ai/bot/YxyzCuL1tDrM3mI_6_x9a",
    "page": "https://botsdots.site/templates/bitchy-french",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 8,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -977,16 +1113,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "TRV_Architech",
+    "name": "Sentinel",
     "handle": "TRV_Architech",
     "url": "https://x.com/TRV_Architech"
    },
    "add": "https://x.ai/bot/Yu8p1lw1sJi35Q15kTTtR",
    "page": "https://botsdots.site/templates/bookworm-yu8p",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 7,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -1024,39 +1164,9 @@
    ]
   },
   {
-   "name": "Bot Builder",
-   "summary": "Want to build an effective Grok bot?",
-   "category": "coding-shipping",
-   "cadence": "on-demand",
-   "risk": "low",
-   "access": [],
-   "integrations": [],
-   "official": false,
-   "creator": {
-    "name": "DCBK2LA",
-    "handle": "DCBK2LA",
-    "url": "https://x.com/DCBK2LA"
-   },
-   "add": "https://x.ai/bot/ivmB2e0MSDspxlI-oHf-2",
-   "page": "https://botsdots.site/templates/bot-builder-ivmb",
-   "firstSeen": "2026-10-01",
-   "score": 5,
-   "license": "CC0-1.0",
-   "sources": [
-    {
-     "name": "majiayu000/awesome-grok-bot",
-     "url": "https://github.com/majiayu000/awesome-grok-bot"
-    },
-    {
-     "name": "cs68614-hash/awesome-grokbot-templates",
-     "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
-    }
-   ]
-  },
-  {
    "name": "Bot Doctor",
    "summary": "Diagnoses an assistant that has gone vague, then proposes repairs you approve",
-   "category": "teams-handoffs",
+   "category": "personal-admin",
    "cadence": "on-demand",
    "risk": "medium",
    "access": [
@@ -1065,16 +1175,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "sal_habash",
+    "name": "Salim",
     "handle": "sal_habash",
     "url": "https://x.com/sal_habash"
    },
    "add": "https://x.ai/bot/ug20hy7rQtr37O8IBoeSm",
    "page": "https://botsdots.site/templates/bot-doctor",
    "firstSeen": "2026-10-01",
-   "score": 9,
-   "license": "CC0-1.0",
+   "score": 11,
+   "license": "CC-BY-4.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -1092,25 +1206,30 @@
   {
    "name": "Bot Team Health Check",
    "summary": "Audits how your assistant fleet is configured and returns one fix list",
-   "category": "teams-handoffs",
+   "category": "personal-admin",
    "cadence": "on-demand",
-   "risk": "medium",
+   "risk": "high",
    "access": [
-    "chat"
+    "chat",
+    "destructive"
    ],
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "antoniostoner",
+    "name": "Antonio",
     "handle": "antoniostoner",
     "url": "https://x.com/antoniostoner"
    },
    "add": "https://x.ai/bot/nLVsSuD8_hN5rhLTGtbw9",
    "page": "https://botsdots.site/templates/bot-team-health-check",
    "firstSeen": "2026-10-01",
-   "score": 9,
-   "license": "CC0-1.0",
+   "score": 11,
+   "license": "CC-BY-4.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -1189,16 +1308,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "mc6gen8",
+    "name": "Chayanon",
     "handle": "mc6gen8",
     "url": "https://x.com/mc6gen8"
    },
    "add": "https://x.ai/bot/FpwQslWTfzzXIvNAt5vey",
    "page": "https://botsdots.site/templates/brand-direct-scout",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 8,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -1238,7 +1361,7 @@
   {
    "name": "BRIGET",
    "summary": "Chief of staff for business and personal work.",
-   "category": "teams-handoffs",
+   "category": "personal-admin",
    "cadence": "on-demand",
    "risk": "medium",
    "access": [
@@ -1247,16 +1370,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "bobbyheyer",
+    "name": "Bobby",
     "handle": "bobbyheyer",
     "url": "https://x.com/bobbyheyer"
    },
    "add": "https://x.ai/bot/wc8Bkk0usMFMGeZ9V9EfE",
    "page": "https://botsdots.site/templates/briget",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 8,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -1333,16 +1460,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "TRV_Architech",
+    "name": "Sentinel",
     "handle": "TRV_Architech",
     "url": "https://x.com/TRV_Architech"
    },
    "add": "https://x.ai/bot/B7C9a8QJSUSUJLKtHtze4",
    "page": "https://botsdots.site/templates/business-b7c9",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 8,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -1350,6 +1481,38 @@
     {
      "name": "cs68614-hash/awesome-grokbot-templates",
      "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+    }
+   ]
+  },
+  {
+   "name": "Business Info Finder",
+   "summary": "Drop a business or person name and get a contact sheet: company tree, phones, emails, who to call, socials, hours",
+   "category": "customer-sales",
+   "cadence": "on-demand",
+   "risk": "high",
+   "access": [
+    "publishing"
+   ],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "Serenejaysew",
+    "handle": "Serenejaysew",
+    "url": "https://x.com/Serenejaysew"
+   },
+   "add": "https://x.ai/bot/lsg8TX4CiXRGWhkK9T8gN",
+   "page": "https://botsdots.site/templates/business-info-finder",
+   "firstSeen": "2026-10-01",
+   "score": 7,
+   "license": "CC0-1.0",
+   "sources": [
+    {
+     "name": "majiayu000/awesome-grok-bot",
+     "url": "https://github.com/majiayu000/awesome-grok-bot"
+    },
+    {
+     "name": "GrokBot.dev (CC BY 4.0)",
+     "url": "https://github.com/ZeroPointRepo/GrokBotDev"
     }
    ]
   },
@@ -1363,16 +1526,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "TRV_Architech",
+    "name": "Sentinel",
     "handle": "TRV_Architech",
     "url": "https://x.com/TRV_Architech"
    },
    "add": "https://x.ai/bot/Nin_AyLX_eAlNMVova2yI",
    "page": "https://botsdots.site/templates/cabinet-secretary",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 8,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -1393,16 +1560,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "TRV_Architech",
+    "name": "Sentinel",
     "handle": "TRV_Architech",
     "url": "https://x.com/TRV_Architech"
    },
    "add": "https://x.ai/bot/x5L_1O-3errfwp4yu4v7D",
    "page": "https://botsdots.site/templates/camble-eugene",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 7,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -1442,7 +1613,7 @@
   {
    "name": "CareerOps Desk",
    "summary": "Plug-and-play hiring packet desk for any role.",
-   "category": "teams-handoffs",
+   "category": "personal-admin",
    "cadence": "on-demand",
    "risk": "low",
    "access": [],
@@ -1523,7 +1694,7 @@
   {
    "name": "Chief of Staff",
    "summary": "Chief of Staff for a solo builder.",
-   "category": "teams-handoffs",
+   "category": "personal-admin",
    "cadence": "on-demand",
    "risk": "medium",
    "access": [
@@ -1532,16 +1703,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "therealmattkt",
+    "name": "Matthew",
     "handle": "therealmattkt",
     "url": "https://x.com/therealmattkt"
    },
    "add": "https://x.ai/bot/Ps_bueea9bTcQTi3_S8Nd",
    "page": "https://botsdots.site/templates/chief-of-staff-psbu",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 8,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -1564,16 +1739,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "osyzov",
+    "name": "Oleksandr",
     "handle": "osyzov",
     "url": "https://x.com/osyzov"
    },
    "add": "https://x.ai/bot/hM2brJ-S7mqcNF0M4fcqM",
    "page": "https://botsdots.site/templates/chief-vibe-officer",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 8,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -1649,16 +1828,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "JoshuaKCrypto",
+    "name": "Joshua_Krg",
     "handle": "JoshuaKCrypto",
     "url": "https://x.com/JoshuaKCrypto"
    },
    "add": "https://x.ai/bot/mhKuHm7fVTt2G4Tx16qsc",
    "page": "https://botsdots.site/templates/cleaner-mhku",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 8,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -1730,16 +1913,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "unknown",
+    "name": "Zaeem",
     "handle": null,
     "url": null
    },
    "add": "https://x.ai/bot/Xh-upYcyPJE3ozRscZbHL",
    "page": "https://botsdots.site/templates/close-captain",
    "firstSeen": "2026-10-01",
-   "score": 4,
+   "score": 6,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -1755,21 +1942,27 @@
    "summary": "Co-Invest provides advanced market data",
    "category": "finance-ops",
    "cadence": "on-demand",
-   "risk": "low",
-   "access": [],
+   "risk": "high",
+   "access": [
+    "money"
+   ],
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "frank_liquid",
+    "name": "Franklyn",
     "handle": "frank_liquid",
     "url": "https://x.com/frank_liquid"
    },
    "add": "https://x.ai/bot/8JYQl4-LD9kj35nL04-Wv",
    "page": "https://botsdots.site/templates/co-invest",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 8,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -1790,16 +1983,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "DeepRiverRadio",
+    "name": "Terry",
     "handle": "DeepRiverRadio",
     "url": "https://x.com/DeepRiverRadio"
    },
    "add": "https://x.ai/bot/pC0n6aHDTevS5BpCBLmnQ",
    "page": "https://botsdots.site/templates/coach-pc0n",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 8,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -1823,16 +2020,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "SergioTigera",
+    "name": "Sergio",
     "handle": "SergioTigera",
     "url": "https://x.com/SergioTigera"
    },
    "add": "https://x.ai/bot/XoKZHbjmYSaOZO1Z4LmSf",
    "page": "https://botsdots.site/templates/codey",
    "firstSeen": "2026-10-01",
-   "score": 9,
-   "license": "CC0-1.0",
+   "score": 11,
+   "license": "CC-BY-4.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -1887,16 +2088,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "TRV_Architech",
+    "name": "Sentinel",
     "handle": "TRV_Architech",
     "url": "https://x.com/TRV_Architech"
    },
    "add": "https://x.ai/bot/x9Na5vJ5yTadvGXEtTy33",
    "page": "https://botsdots.site/templates/compute",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 7,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -1965,6 +2170,42 @@
    ]
   },
   {
+   "name": "Contractor Daily",
+   "summary": "Turns jobsite photos and notes into a clean daily business packet; nothing sends without your OK",
+   "category": "personal-admin",
+   "cadence": "daily",
+   "risk": "high",
+   "access": [
+    "money"
+   ],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "Openminded187",
+    "handle": "Openminded187A",
+    "url": "https://x.com/Openminded187A"
+   },
+   "add": "https://x.ai/bot/ZNhFnMcPTQQDn3uLXbffi",
+   "page": "https://botsdots.site/templates/contractor-daily",
+   "firstSeen": "2026-10-01",
+   "score": 8,
+   "license": "CC0-1.0",
+   "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
+    {
+     "name": "majiayu000/awesome-grok-bot",
+     "url": "https://github.com/majiayu000/awesome-grok-bot"
+    },
+    {
+     "name": "cs68614-hash/awesome-grokbot-templates",
+     "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+    }
+   ]
+  },
+  {
    "name": "Copy",
    "summary": "For marketers and founders who need conversion copy across pages, email, social, SMS, and creative.",
    "category": "content-publishing",
@@ -2002,16 +2243,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "TRV_Architech",
+    "name": "Sentinel",
     "handle": "TRV_Architech",
     "url": "https://x.com/TRV_Architech"
    },
    "add": "https://x.ai/bot/U7voXH4XF5cD1lxMczbNk",
    "page": "https://botsdots.site/templates/cory",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 7,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -2057,22 +2302,27 @@
    "cadence": "on-demand",
    "risk": "high",
    "access": [
-    "code",
     "publishing"
    ],
-   "integrations": [],
+   "integrations": [
+    "x"
+   ],
    "official": false,
    "creator": {
-    "name": "JPipo86",
+    "name": "Pixel",
     "handle": "JPipo86",
     "url": "https://x.com/JPipo86"
    },
    "add": "https://x.ai/bot/onLaBYQxzixgBzJgDZ18u",
    "page": "https://botsdots.site/templates/creator-post-helper",
    "firstSeen": "2026-10-01",
-   "score": 9,
-   "license": "CC0-1.0",
+   "score": 11,
+   "license": "CC-BY-4.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -2151,16 +2401,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "TRV_Architech",
+    "name": "Sentinel",
     "handle": "TRV_Architech",
     "url": "https://x.com/TRV_Architech"
    },
    "add": "https://x.ai/bot/qnTO06PiOYKnbYi1XVkdy",
    "page": "https://botsdots.site/templates/crypto",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 7,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -2241,16 +2495,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "TRV_Architech",
+    "name": "Sentinel",
     "handle": "TRV_Architech",
     "url": "https://x.com/TRV_Architech"
    },
    "add": "https://x.ai/bot/kIX3q73v4yn2HgkYZiAac",
    "page": "https://botsdots.site/templates/cye",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 7,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -2258,6 +2516,43 @@
     {
      "name": "cs68614-hash/awesome-grokbot-templates",
      "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+    }
+   ]
+  },
+  {
+   "name": "Daily Brief",
+   "summary": "Two-minute morning digest: meetings with prep and conflicts, emails that need you, and news on topics you pick",
+   "category": "inbox-calendar",
+   "cadence": "daily",
+   "risk": "medium",
+   "access": [
+    "inbox",
+    "calendar"
+   ],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "George",
+    "handle": "gzikry",
+    "url": "https://x.com/gzikry"
+   },
+   "add": "https://x.ai/bot/cqHBw9pPg2EEd4zwoRX9J",
+   "page": "https://botsdots.site/templates/daily-brief",
+   "firstSeen": "2026-10-01",
+   "score": 9,
+   "license": "CC0-1.0",
+   "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
+    {
+     "name": "majiayu000/awesome-grok-bot",
+     "url": "https://github.com/majiayu000/awesome-grok-bot"
+    },
+    {
+     "name": "GrokBot.dev (CC BY 4.0)",
+     "url": "https://github.com/ZeroPointRepo/GrokBotDev"
     }
    ]
   },
@@ -2271,16 +2566,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "UziObi",
+    "name": "Uzi",
     "handle": "UziObi",
     "url": "https://x.com/UziObi"
    },
    "add": "https://x.ai/bot/SXZ5-SGmgZKQ6CnQ2QGab",
    "page": "https://botsdots.site/templates/dallas",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 8,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -2301,16 +2600,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "TRV_Architech",
+    "name": "Sentinel",
     "handle": "TRV_Architech",
     "url": "https://x.com/TRV_Architech"
    },
    "add": "https://x.ai/bot/Sem0pTwrZmPJDU9WBAmHm",
    "page": "https://botsdots.site/templates/data",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 7,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -2358,21 +2661,26 @@
    "cadence": "on-demand",
    "risk": "high",
    "access": [
+    "code",
     "publishing"
    ],
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "UziObi",
+    "name": "Uzi",
     "handle": "UziObi",
     "url": "https://x.com/UziObi"
    },
    "add": "https://x.ai/bot/ckgS_HP4YBL-31bxAZbo9",
    "page": "https://botsdots.site/templates/david-moss",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 8,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -2443,16 +2751,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "TRV_Architech",
+    "name": "Sentinel",
     "handle": "TRV_Architech",
     "url": "https://x.com/TRV_Architech"
    },
    "add": "https://x.ai/bot/6lxzp3vht403fiGM-zmIS",
    "page": "https://botsdots.site/templates/deputy-cos",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 8,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -2527,16 +2839,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "TRV_Architech",
+    "name": "Sentinel",
     "handle": "TRV_Architech",
     "url": "https://x.com/TRV_Architech"
    },
    "add": "https://x.ai/bot/6E_utcgAyzss28fX7_tJs",
    "page": "https://botsdots.site/templates/devin-op",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 7,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -2583,16 +2899,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "TRV_Architech",
+    "name": "Sentinel",
     "handle": "TRV_Architech",
     "url": "https://x.com/TRV_Architech"
    },
    "add": "https://x.ai/bot/9i6htFaUWNFg6NN5do8n_",
    "page": "https://botsdots.site/templates/director-of-runtime-operations",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 7,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -2615,16 +2935,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "TRV_Architech",
+    "name": "Sentinel",
     "handle": "TRV_Architech",
     "url": "https://x.com/TRV_Architech"
    },
    "add": "https://x.ai/bot/Fya-gFsQPOlJzJ862syni",
    "page": "https://botsdots.site/templates/dirtech",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 7,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -2756,16 +3080,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "d_ilash",
+    "name": "dmitry",
     "handle": "d_ilash",
     "url": "https://x.com/d_ilash"
    },
    "add": "https://x.ai/bot/LL-lWnZ2HgpzTRFFAemHA",
    "page": "https://botsdots.site/templates/dot-lllw",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 8,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -2786,16 +3114,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "localhoser",
+    "name": ".",
     "handle": "localhoser",
     "url": "https://x.com/localhoser"
    },
    "add": "https://x.ai/bot/O1pp3DiDUU9T3Cz-jTzXw",
    "page": "https://botsdots.site/templates/dot",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 8,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -2844,16 +3176,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "oakbit",
+    "name": "Ramiro",
     "handle": "oakbit",
     "url": "https://x.com/oakbit"
    },
    "add": "https://x.ai/bot/-uWylEWggkm7eyx0V83aa",
    "page": "https://botsdots.site/templates/dr-eggbot-senior-phd",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 8,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -2874,16 +3210,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "TRV_Architech",
+    "name": "Sentinel",
     "handle": "TRV_Architech",
     "url": "https://x.com/TRV_Architech"
    },
    "add": "https://x.ai/bot/1_HBfW3r_vfLv622v7gQ6",
    "page": "https://botsdots.site/templates/dr-icann",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 7,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -2904,16 +3244,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "TRV_Architech",
+    "name": "Sentinel",
     "handle": "TRV_Architech",
     "url": "https://x.com/TRV_Architech"
    },
    "add": "https://x.ai/bot/aRgmVDYlNjRz6udEEgyvF",
    "page": "https://botsdots.site/templates/drcivil",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 7,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -3035,21 +3379,27 @@
    "summary": "Runs any idea through Elon Musk's five-step algorithm",
    "category": "personal-admin",
    "cadence": "on-demand",
-   "risk": "low",
-   "access": [],
+   "risk": "high",
+   "access": [
+    "destructive"
+   ],
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "TechTonik808",
+    "name": "Derek",
     "handle": "TechTonik808",
     "url": "https://x.com/TechTonik808"
    },
    "add": "https://x.ai/bot/gpPCrXzRnISuEd-_Ir33T",
    "page": "https://botsdots.site/templates/elon-algo",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 8,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -3090,7 +3440,7 @@
    "name": "Email Bot",
    "summary": "A friendly Gmail assistant",
    "category": "inbox-calendar",
-   "cadence": "on-demand",
+   "cadence": "daily",
    "risk": "medium",
    "access": [
     "inbox",
@@ -3108,9 +3458,13 @@
    "add": "https://x.ai/bot/Eh-OqlRNqTiMZcAqhwa5l",
    "page": "https://botsdots.site/templates/email-bot-ehoq",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 8,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -3134,16 +3488,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "AirbossHVAC",
+    "name": "AARON",
     "handle": "AirbossHVAC",
     "url": "https://x.com/AirbossHVAC"
    },
    "add": "https://x.ai/bot/VG2EVGqav2OeE_HiroQNY",
    "page": "https://botsdots.site/templates/email-filter",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 8,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -3164,16 +3522,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "TRV_Architech",
+    "name": "Sentinel",
     "handle": "TRV_Architech",
     "url": "https://x.com/TRV_Architech"
    },
    "add": "https://x.ai/bot/tGSpx-ZmfMi63a0GRy8FS",
    "page": "https://botsdots.site/templates/engineer-tgsp",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 7,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -3224,16 +3586,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "leakorsawe",
+    "name": "Lea",
     "handle": "leakorsawe",
     "url": "https://x.com/leakorsawe"
    },
    "add": "https://x.ai/bot/XyYB8E00WISHOp1-yTzB2",
    "page": "https://botsdots.site/templates/eu-grant-guide",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 8,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -3306,16 +3672,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "antoniostoner",
+    "name": "Antonio",
     "handle": "antoniostoner",
     "url": "https://x.com/antoniostoner"
    },
    "add": "https://x.ai/bot/j2IJb0gsBSzeoYCJ7vWHD",
    "page": "https://botsdots.site/templates/family-getaway-finder",
    "firstSeen": "2026-10-01",
-   "score": 9,
-   "license": "CC0-1.0",
+   "score": 11,
+   "license": "CC-BY-4.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -3420,16 +3790,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "ALittleOfLex",
+    "name": "Alexa",
     "handle": "ALittleOfLex",
     "url": "https://x.com/ALittleOfLex"
    },
    "add": "https://x.ai/bot/lLH9eC9XM05hWxSQgL6qj",
    "page": "https://botsdots.site/templates/faqt",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 8,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -3443,23 +3817,27 @@
   {
    "name": "Fight Desk",
    "summary": "Manage a stable of AI fighters across duels, gauntlets and dungeon runs",
-   "category": "personal-admin",
+   "category": "content-publishing",
    "cadence": "on-demand",
    "risk": "low",
    "access": [],
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "AgentBornGG",
+    "name": "Dave",
     "handle": "AgentBornGG",
     "url": "https://x.com/AgentBornGG"
    },
    "add": "https://x.ai/bot/BTFxr9l6QaZ2iS9lHVpDM",
    "page": "https://botsdots.site/templates/fight-desk",
    "firstSeen": "2026-10-01",
-   "score": 9,
-   "license": "CC0-1.0",
+   "score": 11,
+   "license": "CC-BY-4.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -3510,16 +3888,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "shamash31",
+    "name": "Michael",
     "handle": "shamash31",
     "url": "https://x.com/shamash31"
    },
    "add": "https://x.ai/bot/FlK_S-je8TVcA-kH9r40p",
    "page": "https://botsdots.site/templates/financial-advisor",
    "firstSeen": "2026-10-01",
-   "score": 9,
-   "license": "CC0-1.0",
+   "score": 11,
+   "license": "CC-BY-4.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -3592,23 +3974,27 @@
   {
    "name": "Flip Checker",
    "summary": "Tells resellers whether an item is worth flipping. Send a name or photo and get real sold comps, fee and shipping math, a list price, and the max…",
-   "category": "personal-admin",
+   "category": "coding-shipping",
    "cadence": "on-demand",
    "risk": "low",
    "access": [],
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "JPipo86",
+    "name": "Pixel",
     "handle": "JPipo86",
     "url": "https://x.com/JPipo86"
    },
    "add": "https://x.ai/bot/Lgcp50vUWRSmi4IOqrlTy",
    "page": "https://botsdots.site/templates/flip-checker",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 7,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -3649,7 +4035,7 @@
    "name": "Flower",
    "summary": "Working artist bot that designs and lists merch on Printful + Shopify.",
    "category": "content-publishing",
-   "cadence": "on-demand",
+   "cadence": "weekly",
    "risk": "high",
    "access": [
     "publishing",
@@ -3660,16 +4046,20 @@
    ],
    "official": false,
    "creator": {
-    "name": "MadeItHappenX",
+    "name": "Stephen",
     "handle": "MadeItHappenX",
     "url": "https://x.com/MadeItHappenX"
    },
    "add": "https://x.ai/bot/PbaF-IJD0W8q3VB1q5Dnh",
    "page": "https://botsdots.site/templates/flower",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 8,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -3747,16 +4137,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "AnthonyDo",
+    "name": "Anthony",
     "handle": "AnthonyDo",
     "url": "https://x.com/AnthonyDo"
    },
    "add": "https://x.ai/bot/Z-_zKI__9SXoxmwAFI5bV",
    "page": "https://botsdots.site/templates/follow-up-crm",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 7,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -3779,16 +4173,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "AMFoxtrot",
+    "name": "aaron",
     "handle": "AMFoxtrot",
     "url": "https://x.com/AMFoxtrot"
    },
    "add": "https://x.ai/bot/1BbDplO2ZS6hcFH7xE16F",
    "page": "https://botsdots.site/templates/follow-up-keeper",
    "firstSeen": "2026-10-01",
-   "score": 3,
+   "score": 6,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -3798,7 +4196,7 @@
   {
    "name": "Follow-Up Keeper",
    "summary": "Keeps track of who's waiting on you and who you're waiting on, and drafts short follow-ups that you review and send yourself.",
-   "category": "personal-admin",
+   "category": "inbox-calendar",
    "cadence": "on-demand",
    "risk": "low",
    "access": [],
@@ -3825,22 +4223,28 @@
    "name": "Follows",
    "summary": "Tracks who follows your X account",
    "category": "personal-admin",
-   "cadence": "on-demand",
-   "risk": "low",
-   "access": [],
+   "cadence": "daily",
+   "risk": "medium",
+   "access": [
+    "code"
+   ],
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "iamsethmedina",
+    "name": "Seth",
     "handle": "iamsethmedina",
     "url": "https://x.com/iamsethmedina"
    },
    "add": "https://x.ai/bot/z1N3xJerHSoWUz8HxpUer",
    "page": "https://botsdots.site/templates/follows",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 11,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -3848,6 +4252,10 @@
     {
      "name": "cs68614-hash/awesome-grokbot-templates",
      "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+    },
+    {
+     "name": "GrokBot.dev (CC BY 4.0)",
+     "url": "https://github.com/ZeroPointRepo/GrokBotDev"
     }
    ]
   },
@@ -3930,6 +4338,36 @@
    ]
   },
   {
+   "name": "Fretboard Sheet Builder",
+   "summary": "Builds Excel fretboard sheets for guitarists: scale/triad highlighters, Nashville numbers, and pentatonic boxes by key",
+   "category": "personal-admin",
+   "cadence": "on-demand",
+   "risk": "medium",
+   "access": [
+    "docs"
+   ],
+   "integrations": [
+    "google-sheets"
+   ],
+   "official": false,
+   "creator": {
+    "name": "MRellew",
+    "handle": "MRellew",
+    "url": "https://x.com/MRellew"
+   },
+   "add": "https://x.ai/bot/Ar32y6x01Vbmx2EkIAj5N",
+   "page": "https://botsdots.site/templates/fretboard-sheet-builder",
+   "firstSeen": "2026-10-01",
+   "score": 3,
+   "license": "CC0-1.0",
+   "sources": [
+    {
+     "name": "majiayu000/awesome-grok-bot",
+     "url": "https://github.com/majiayu000/awesome-grok-bot"
+    }
+   ]
+  },
+  {
    "name": "Fridge List",
    "summary": "Snap your fridge and pantry for a running list.",
    "category": "personal-admin",
@@ -3939,16 +4377,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "Screaming_Chkn",
+    "name": "Don",
     "handle": "Screaming_Chkn",
     "url": "https://x.com/Screaming_Chkn"
    },
    "add": "https://x.ai/bot/bGWlyYL_D_aHP-I8_OTpp",
    "page": "https://botsdots.site/templates/fridge-list",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 8,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -3989,22 +4431,26 @@
    "name": "Fuel",
    "summary": "Food coach that logs calories",
    "category": "personal-admin",
-   "cadence": "on-demand",
+   "cadence": "daily",
    "risk": "low",
    "access": [],
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "digitaljoeyp",
+    "name": "Joe",
     "handle": "digitaljoeyp",
     "url": "https://x.com/digitaljoeyp"
    },
    "add": "https://x.ai/bot/fJDtqjOqB4NddEV0D3FZN",
    "page": "https://botsdots.site/templates/fuel-fjdt",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 8,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -4051,16 +4497,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "TRV_Architech",
+    "name": "Sentinel",
     "handle": "TRV_Architech",
     "url": "https://x.com/TRV_Architech"
    },
    "add": "https://x.ai/bot/w3LElZwVlQrsHjjxZ7Ru6",
    "page": "https://botsdots.site/templates/full-stack",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 7,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -4081,16 +4531,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "richbrewco",
+    "name": "Rich",
     "handle": "richbrewco",
     "url": "https://x.com/richbrewco"
    },
    "add": "https://x.ai/bot/Iz0LWM0LPNCXGUOwJMiR3",
    "page": "https://botsdots.site/templates/future-brief",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 8,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -4111,16 +4565,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "TRV_Architech",
+    "name": "Sentinel",
     "handle": "TRV_Architech",
     "url": "https://x.com/TRV_Architech"
    },
    "add": "https://x.ai/bot/uaZGjDHcRRKdVUqACB-fY",
    "page": "https://botsdots.site/templates/gabby",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 7,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -4134,25 +4592,27 @@
   {
    "name": "Game Deals Radar",
    "summary": "A daily roundup of live game sales across the four big stores",
-   "category": "finance-ops",
+   "category": "research-briefings",
    "cadence": "daily",
-   "risk": "high",
-   "access": [
-    "money"
-   ],
+   "risk": "low",
+   "access": [],
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "JPipo86",
+    "name": "Pixel",
     "handle": "JPipo86",
     "url": "https://x.com/JPipo86"
    },
    "add": "https://x.ai/bot/l8tq3o7JcvC-YFV2HaHfu",
    "page": "https://botsdots.site/templates/game-deals-radar",
    "firstSeen": "2026-10-01",
-   "score": 9,
-   "license": "CC0-1.0",
+   "score": 11,
+   "license": "CC-BY-4.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -4170,7 +4630,7 @@
   {
    "name": "Game Deals Radar",
    "summary": "Sends a short daily roundup of real, live game sales across Xbox, PlayStation, Switch, and Steam, and pings you when a wishlist game drops in…",
-   "category": "customer-sales",
+   "category": "research-briefings",
    "cadence": "daily",
    "risk": "low",
    "access": [],
@@ -4196,7 +4656,7 @@
   {
    "name": "Garbage Collector",
    "summary": "Finds code you can remove or simplify without changing what it needs to do.",
-   "category": "coding-shipping",
+   "category": "personal-admin",
    "cadence": "on-demand",
    "risk": "high",
    "access": [
@@ -4231,16 +4691,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "XWardClerkChris",
+    "name": "Chris",
     "handle": "XWardClerkChris",
     "url": "https://x.com/XWardClerkChris"
    },
    "add": "https://x.ai/bot/qN-76V-LWOq74YVaQYhmt",
    "page": "https://botsdots.site/templates/gate-changer",
    "firstSeen": "2026-10-01",
-   "score": 9,
-   "license": "CC0-1.0",
+   "score": 11,
+   "license": "CC-BY-4.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -4388,7 +4852,7 @@
   {
    "name": "Ghost",
    "summary": "Chief of staff for reliability engineering firm.",
-   "category": "teams-handoffs",
+   "category": "coding-shipping",
    "cadence": "on-demand",
    "risk": "medium",
    "access": [
@@ -4397,16 +4861,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "RomeoOscarBrovo",
+    "name": "Rob",
     "handle": "RomeoOscarBrovo",
     "url": "https://x.com/RomeoOscarBrovo"
    },
    "add": "https://x.ai/bot/yejon8cHpxlKsx_joM1rf",
    "page": "https://botsdots.site/templates/ghost",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 8,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -4414,6 +4882,40 @@
     {
      "name": "cs68614-hash/awesome-grokbot-templates",
      "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+    }
+   ]
+  },
+  {
+   "name": "GitHub Trending Scout",
+   "summary": "Reads GitHub trending daily and digests only the few repos that fit your work, with why each one matters",
+   "category": "research-briefings",
+   "cadence": "daily",
+   "risk": "medium",
+   "access": [
+    "code"
+   ],
+   "integrations": [
+    "github"
+   ],
+   "official": false,
+   "creator": {
+    "name": "Hussein_M_Ragab",
+    "handle": "Hussein_M_Ragab",
+    "url": "https://x.com/Hussein_M_Ragab"
+   },
+   "add": "https://x.ai/bot/EklFc0zYAqzkxcALynMj2",
+   "page": "https://botsdots.site/templates/github-trending-scout",
+   "firstSeen": "2026-10-01",
+   "score": 7,
+   "license": "CC0-1.0",
+   "sources": [
+    {
+     "name": "majiayu000/awesome-grok-bot",
+     "url": "https://github.com/majiayu000/awesome-grok-bot"
+    },
+    {
+     "name": "GrokBot.dev (CC BY 4.0)",
+     "url": "https://github.com/ZeroPointRepo/GrokBotDev"
     }
    ]
   },
@@ -4453,16 +4955,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "TinaMBean",
+    "name": "Tina",
     "handle": "TinaMBean",
     "url": "https://x.com/TinaMBean"
    },
    "add": "https://x.ai/bot/ml0GdUkH0A-e7WwPcG6Jp",
    "page": "https://botsdots.site/templates/glp-1-buddy",
    "firstSeen": "2026-10-01",
-   "score": 9,
-   "license": "CC0-1.0",
+   "score": 11,
+   "license": "CC-BY-4.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -4532,7 +5038,7 @@
   {
    "name": "Gong",
    "summary": "Recruiter specialist that owns hiring execution end-to-end: job descriptions, board posts, candidate sourcing, outreach drafts, and clean…",
-   "category": "customer-sales",
+   "category": "teams-handoffs",
    "cadence": "on-demand",
    "risk": "low",
    "access": [],
@@ -4556,25 +5062,71 @@
    ]
   },
   {
-   "name": "Gravy",
-   "summary": "Abandoned-project resurrection assistant.",
-   "category": "personal-admin",
+   "name": "GrantOgre",
+   "summary": "Finds live funding programmes and prepares the grant pack a human reviews, signs, and files",
+   "category": "research-briefings",
    "cadence": "on-demand",
    "risk": "low",
    "access": [],
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "osyzov",
+    "name": "Sebastian",
+    "handle": "Sebastian Andreas Nikolaus",
+    "url": "https://x.com/HoneybadgerFan4"
+   },
+   "add": "https://x.ai/bot/WXC1m-5Iiyu1IyvBEt9Va",
+   "page": "https://botsdots.site/templates/grantogre",
+   "firstSeen": "2026-10-01",
+   "score": 11,
+   "license": "CC-BY-4.0",
+   "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
+    {
+     "name": "majiayu000/awesome-grok-bot",
+     "url": "https://github.com/majiayu000/awesome-grok-bot"
+    },
+    {
+     "name": "cs68614-hash/awesome-grokbot-templates",
+     "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+    },
+    {
+     "name": "GrokBot.dev (CC BY 4.0)",
+     "url": "https://github.com/ZeroPointRepo/GrokBotDev"
+    }
+   ]
+  },
+  {
+   "name": "Gravy",
+   "summary": "Abandoned-project resurrection assistant.",
+   "category": "personal-admin",
+   "cadence": "on-demand",
+   "risk": "medium",
+   "access": [
+    "inbox",
+    "code",
+    "docs"
+   ],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "Oleksandr",
     "handle": "osyzov",
     "url": "https://x.com/osyzov"
    },
    "add": "https://x.ai/bot/r1NaMrcq8hCJmCrX3M9dN",
    "page": "https://botsdots.site/templates/gravy",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 8,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -4612,6 +5164,40 @@
    ]
   },
   {
+   "name": "Grok Bot Builder",
+   "summary": "Want to build an effective Grok bot?",
+   "category": "coding-shipping",
+   "cadence": "on-demand",
+   "risk": "low",
+   "access": [],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "dcbk2la",
+    "handle": "DCBK2LA",
+    "url": "https://x.com/DCBK2LA"
+   },
+   "add": "https://x.ai/bot/ivmB2e0MSDspxlI-oHf-2",
+   "page": "https://botsdots.site/templates/bot-builder-ivmb",
+   "firstSeen": "2026-10-01",
+   "score": 8,
+   "license": "CC0-1.0",
+   "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
+    {
+     "name": "majiayu000/awesome-grok-bot",
+     "url": "https://github.com/majiayu000/awesome-grok-bot"
+    },
+    {
+     "name": "cs68614-hash/awesome-grokbot-templates",
+     "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+    }
+   ]
+  },
+  {
    "name": "Groku Health Coach",
    "summary": "A voice-first workout coach",
    "category": "personal-admin",
@@ -4621,16 +5207,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "Volknasty",
+    "name": "VolkNasty",
     "handle": "Volknasty",
     "url": "https://x.com/Volknasty"
    },
    "add": "https://x.ai/bot/rzP2etY8_D1Pof_Y9uQHa",
    "page": "https://botsdots.site/templates/groku-health-coach",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 8,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -4680,16 +5270,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "TRV_Architech",
+    "name": "Sentinel",
     "handle": "TRV_Architech",
     "url": "https://x.com/TRV_Architech"
    },
    "add": "https://x.ai/bot/PHk1kxF8YjD4B7qXZ9nE9",
    "page": "https://botsdots.site/templates/hal-phk1",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 7,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -4736,16 +5330,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "TRV_Architech",
+    "name": "Sentinel",
     "handle": "TRV_Architech",
     "url": "https://x.com/TRV_Architech"
    },
    "add": "https://x.ai/bot/tB0PeTmsSkX0zkOvAWy5o",
    "page": "https://botsdots.site/templates/healer",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 7,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -4768,16 +5366,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "theaaron",
+    "name": "A-A-ron",
     "handle": "theaaron",
     "url": "https://x.com/theaaron"
    },
    "add": "https://x.ai/bot/mDdDU-Ex2yDqySZ5hiTt8",
    "page": "https://botsdots.site/templates/heartbeat-dreamer",
    "firstSeen": "2026-10-01",
-   "score": 9,
-   "license": "CC0-1.0",
+   "score": 11,
+   "license": "CC-BY-4.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -4795,7 +5397,7 @@
   {
    "name": "Heartbeat Dreamer",
    "summary": "Proactive read-only research bot that checkpoints what changed and hands tagged P0/P1/P2 findings to a parent chief Bot.",
-   "category": "research-briefings",
+   "category": "teams-handoffs",
    "cadence": "on-demand",
    "risk": "low",
    "access": [],
@@ -4901,21 +5503,27 @@
    "summary": "Habit coach for holding one stock with three rules.",
    "category": "finance-ops",
    "cadence": "on-demand",
-   "risk": "low",
-   "access": [],
+   "risk": "high",
+   "access": [
+    "money"
+   ],
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "JulietteCove",
+    "name": "Juliette",
     "handle": "JulietteCove",
     "url": "https://x.com/JulietteCove"
    },
    "add": "https://x.ai/bot/rpqMXPRdUiyk6Dc1LF3U9",
    "page": "https://botsdots.site/templates/hold-my-stock",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 8,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -4966,16 +5574,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "frogman263",
+    "name": "Brian",
     "handle": "frogman263",
     "url": "https://x.com/frogman263"
    },
    "add": "https://x.ai/bot/Lin5CjpC3Dxe9xzb6zQL4",
    "page": "https://botsdots.site/templates/home-project-tracker",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 7,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -5046,16 +5658,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "TRV_Architech",
+    "name": "Sentinel",
     "handle": "TRV_Architech",
     "url": "https://x.com/TRV_Architech"
    },
    "add": "https://x.ai/bot/lKfEfQBUdsa0MPhm-4SQU",
    "page": "https://botsdots.site/templates/homeland-security-advisor",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 7,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -5076,16 +5692,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "TRV_Architech",
+    "name": "Sentinel",
     "handle": "TRV_Architech",
     "url": "https://x.com/TRV_Architech"
    },
    "add": "https://x.ai/bot/oCTQJbL7dNq7DP4MnMeaH",
    "page": "https://botsdots.site/templates/hub",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 7,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -5134,16 +5754,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "TRV_Architech",
+    "name": "Sentinel",
     "handle": "TRV_Architech",
     "url": "https://x.com/TRV_Architech"
    },
    "add": "https://x.ai/bot/OvKvXzj7OOyEGh_jwNaBW",
    "page": "https://botsdots.site/templates/hydra-network-security-advisor",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 7,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -5164,16 +5788,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "davidzhouyu",
+    "name": "David",
     "handle": "davidzhouyu",
     "url": "https://x.com/davidzhouyu"
    },
    "add": "https://x.ai/bot/BWqyJWdEtiJVpz2OJBdBQ",
    "page": "https://botsdots.site/templates/hypatia",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 8,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -5248,16 +5876,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "CarolinaDill",
+    "name": "Carolina",
     "handle": "CarolinaDill",
     "url": "https://x.com/CarolinaDill"
    },
    "add": "https://x.ai/bot/GtZXU_8Lia_a2DZKAIhOO",
    "page": "https://botsdots.site/templates/immigrationguide",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 8,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -5265,6 +5897,42 @@
     {
      "name": "cs68614-hash/awesome-grokbot-templates",
      "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+    }
+   ]
+  },
+  {
+   "name": "Imposter Watch",
+   "summary": "Watches public X for accounts impersonating you or your brands and reports real suspects only",
+   "category": "research-briefings",
+   "cadence": "on-demand",
+   "risk": "medium",
+   "access": [
+    "code"
+   ],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "Timothy",
+    "handle": "RetiredYoungNW",
+    "url": "https://x.com/RetiredYoungNW"
+   },
+   "add": "https://x.ai/bot/4FhgQWGMAq25XrprzX6Dh",
+   "page": "https://botsdots.site/templates/imposter-watch",
+   "firstSeen": "2026-10-01",
+   "score": 9,
+   "license": "CC0-1.0",
+   "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
+    {
+     "name": "majiayu000/awesome-grok-bot",
+     "url": "https://github.com/majiayu000/awesome-grok-bot"
+    },
+    {
+     "name": "GrokBot.dev (CC BY 4.0)",
+     "url": "https://github.com/ZeroPointRepo/GrokBotDev"
     }
    ]
   },
@@ -5284,16 +5952,20 @@
    ],
    "official": false,
    "creator": {
-    "name": "frogman263",
+    "name": "Brian",
     "handle": "frogman263",
     "url": "https://x.com/frogman263"
    },
    "add": "https://x.ai/bot/_Rk119iD1k18cSxDoV8CC",
    "page": "https://botsdots.site/templates/inbox-triage-rk11",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 7,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -5347,16 +6019,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "TRV_Architech",
+    "name": "Sentinel",
     "handle": "TRV_Architech",
     "url": "https://x.com/TRV_Architech"
    },
    "add": "https://x.ai/bot/nX0BCtnXFEtKgJlVW6TaA",
    "page": "https://botsdots.site/templates/integrity",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 7,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -5372,21 +6048,27 @@
    "summary": "Careful stock/ETF investing assistant.",
    "category": "finance-ops",
    "cadence": "on-demand",
-   "risk": "low",
-   "access": [],
+   "risk": "high",
+   "access": [
+    "money"
+   ],
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "QuState",
+    "name": "Justin",
     "handle": "QuState",
     "url": "https://x.com/QuState"
    },
    "add": "https://x.ai/bot/lU7J1rVgIRu-QbxNL6kbX",
    "page": "https://botsdots.site/templates/invest-bot",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 8,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -5437,16 +6119,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "Rune_King_Jake",
+    "name": "JakeFromStarstruck.",
     "handle": "Rune_King_Jake",
     "url": "https://x.com/Rune_King_Jake"
    },
    "add": "https://x.ai/bot/5OjTxkF_Lgn75n0plYPgn",
    "page": "https://botsdots.site/templates/jakebot",
    "firstSeen": "2026-10-01",
-   "score": 9,
-   "license": "CC0-1.0",
+   "score": 11,
+   "license": "CC-BY-4.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -5464,7 +6150,7 @@
   {
    "name": "Jakebot",
    "summary": "Jakebot is your friend from the 90's — the same hungry kid from the story, reimagined so everyone can use him.",
-   "category": "personal-admin",
+   "category": "content-publishing",
    "cadence": "on-demand",
    "risk": "low",
    "access": [],
@@ -5604,21 +6290,23 @@
    "access": [
     "docs"
    ],
-   "integrations": [
-    "google-sheets"
-   ],
+   "integrations": [],
    "official": false,
    "creator": {
-    "name": "DevinSoto",
+    "name": "DevinLegend",
     "handle": "DevinSoto",
     "url": "https://x.com/DevinSoto"
    },
    "add": "https://x.ai/bot/-ZNR2GLCmvAdhZ4r_6XA2",
    "page": "https://botsdots.site/templates/jobgod",
    "firstSeen": "2026-10-01",
-   "score": 9,
-   "license": "CC0-1.0",
+   "score": 11,
+   "license": "CC-BY-4.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -5697,16 +6385,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "DarrellGum",
+    "name": "Darrell",
     "handle": "DarrellGum",
     "url": "https://x.com/DarrellGum"
    },
    "add": "https://x.ai/bot/JlvCERpLdXtaVhZsOBPWZ",
    "page": "https://botsdots.site/templates/kale-9000",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 8,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -5731,16 +6423,20 @@
    ],
    "official": false,
    "creator": {
-    "name": "QuState",
+    "name": "Justin",
     "handle": "QuState",
     "url": "https://x.com/QuState"
    },
    "add": "https://x.ai/bot/Opkg9YD0R9Ck1n9NGaB2f",
    "page": "https://botsdots.site/templates/kalshi-bot",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 8,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -5893,16 +6589,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "TRV_Architech",
+    "name": "Sentinel",
     "handle": "TRV_Architech",
     "url": "https://x.com/TRV_Architech"
    },
    "add": "https://x.ai/bot/lCyabZFDNNBn7xkNxxhlA",
    "page": "https://botsdots.site/templates/ledger-lcya",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 7,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -5923,16 +6623,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "TRV_Architech",
+    "name": "Sentinel",
     "handle": "TRV_Architech",
     "url": "https://x.com/TRV_Architech"
    },
    "add": "https://x.ai/bot/hYwATo_Kr3Sz00lmfnAC3",
    "page": "https://botsdots.site/templates/lens",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 8,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -6113,7 +6817,7 @@
   {
    "name": "Local Concert Scout",
    "summary": "Finds concerts near home or travel cities from Spotify or Apple Music taste; calendar optional",
-   "category": "personal-admin",
+   "category": "inbox-calendar",
    "cadence": "on-demand",
    "risk": "medium",
    "access": [
@@ -6129,9 +6833,13 @@
    "add": "https://x.ai/bot/AM17wqUeEmweEHWn58rEL",
    "page": "https://botsdots.site/templates/local-concert-scout",
    "firstSeen": "2026-10-01",
-   "score": 3,
+   "score": 6,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -6141,7 +6849,7 @@
   {
    "name": "Local Concert Scout",
    "summary": "Finds concerts near home and in cities you are traveling to based on your calendar.",
-   "category": "personal-admin",
+   "category": "inbox-calendar",
    "cadence": "on-demand",
    "risk": "medium",
    "access": [
@@ -6202,16 +6910,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "FrankFindsOut",
+    "name": "Frank",
     "handle": "FrankFindsOut",
     "url": "https://x.com/FrankFindsOut"
    },
    "add": "https://x.ai/bot/L3gvCMYKY3q0IH93AiYK6",
    "page": "https://botsdots.site/templates/local-lulu",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 8,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -6225,25 +6937,31 @@
   {
    "name": "Luma Scout",
    "summary": "Watches a Luma calendar daily",
-   "category": "personal-admin",
+   "category": "inbox-calendar",
    "cadence": "daily",
    "risk": "medium",
    "access": [
     "calendar"
    ],
-   "integrations": [],
+   "integrations": [
+    "google-calendar"
+   ],
    "official": false,
    "creator": {
-    "name": "monomyth",
+    "name": "Eugene",
     "handle": "monomyth",
     "url": "https://x.com/monomyth"
    },
    "add": "https://x.ai/bot/i8-CgHSny3TXdV3O0dnbv",
    "page": "https://botsdots.site/templates/luma-scout",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 8,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -6266,16 +6984,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "TRV_Architech",
+    "name": "Sentinel",
     "handle": "TRV_Architech",
     "url": "https://x.com/TRV_Architech"
    },
    "add": "https://x.ai/bot/45taz-2ROciwAfLPVaigQ",
    "page": "https://botsdots.site/templates/mathew",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 7,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -6322,16 +7044,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "TRV_Architech",
+    "name": "Sentinel",
     "handle": "TRV_Architech",
     "url": "https://x.com/TRV_Architech"
    },
    "add": "https://x.ai/bot/FYZYmIlhUuAb-uenBRotI",
    "page": "https://botsdots.site/templates/meme",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 8,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -6378,16 +7104,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "TRV_Architech",
+    "name": "Sentinel",
     "handle": "TRV_Architech",
     "url": "https://x.com/TRV_Architech"
    },
    "add": "https://x.ai/bot/NJ-SsQbAZYkKj0GHUzw61",
    "page": "https://botsdots.site/templates/mesh",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 7,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -6408,16 +7138,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "TRV_Architech",
+    "name": "Sentinel",
     "handle": "TRV_Architech",
     "url": "https://x.com/TRV_Architech"
    },
    "add": "https://x.ai/bot/KTKo6uwSzARNo1K9fmdw1",
    "page": "https://botsdots.site/templates/mind",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 7,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -6438,16 +7172,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "N8Odell",
+    "name": "Nate",
     "handle": "N8Odell",
     "url": "https://x.com/N8Odell"
    },
    "add": "https://x.ai/bot/HSkw45MjOQmesPwYsnK9P",
    "page": "https://botsdots.site/templates/money-finder",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 8,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -6496,16 +7234,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "johnboyle",
+    "name": "John",
     "handle": "johnboyle",
     "url": "https://x.com/johnboyle"
    },
    "add": "https://x.ai/bot/KNoXvnLnkKME1TqhqJx8t",
    "page": "https://botsdots.site/templates/motivation-bot",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 8,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -6604,16 +7346,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "TRV_Architech",
+    "name": "Sentinel",
     "handle": "TRV_Architech",
     "url": "https://x.com/TRV_Architech"
    },
    "add": "https://x.ai/bot/hSm6YG6KrHs1nqnh-PNMO",
    "page": "https://botsdots.site/templates/mr-tea",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 7,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -6636,16 +7382,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "SideShopAi",
+    "name": "Matt",
     "handle": "SideShopAi",
     "url": "https://x.com/SideShopAi"
    },
    "add": "https://x.ai/bot/tFa9bbghjyyqiU5Je3rhm",
    "page": "https://botsdots.site/templates/mrs-patmore",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 7,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -6653,6 +7403,42 @@
     {
      "name": "cs68614-hash/awesome-grokbot-templates",
      "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+    }
+   ]
+  },
+  {
+   "name": "Muse",
+   "summary": "Transparent web proxy for Meta Muse: research plus Facebook, Instagram, and Threads via Muse connectors",
+   "category": "content-publishing",
+   "cadence": "on-demand",
+   "risk": "medium",
+   "access": [
+    "docs"
+   ],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "William",
+    "handle": "wiiiimm",
+    "url": "https://x.com/wiiiimm"
+   },
+   "add": "https://x.ai/bot/BJhe9l9IasV0gXFAnNO2W",
+   "page": "https://botsdots.site/templates/muse",
+   "firstSeen": "2026-10-01",
+   "score": 9,
+   "license": "CC0-1.0",
+   "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
+    {
+     "name": "majiayu000/awesome-grok-bot",
+     "url": "https://github.com/majiayu000/awesome-grok-bot"
+    },
+    {
+     "name": "GrokBot.dev (CC BY 4.0)",
+     "url": "https://github.com/ZeroPointRepo/GrokBotDev"
     }
    ]
   },
@@ -6731,9 +7517,13 @@
    "add": "https://x.ai/bot/2WORXc-tiWkdWFW-BqeIV",
    "page": "https://botsdots.site/templates/nas-desk",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 8,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -6804,16 +7594,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "TRV_Architech",
+    "name": "Sentinel",
     "handle": "TRV_Architech",
     "url": "https://x.com/TRV_Architech"
    },
    "add": "https://x.ai/bot/j8BvBXlydz-qdBtLloo4C",
    "page": "https://botsdots.site/templates/nosey",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 7,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -6968,16 +7762,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "edtadros",
+    "name": "Edward",
     "handle": "edtadros",
     "url": "https://x.com/edtadros"
    },
    "add": "https://x.ai/bot/FdogFaBe5Y2LWMc-bmsAg",
    "page": "https://botsdots.site/templates/outsrc",
    "firstSeen": "2026-10-01",
-   "score": 9,
-   "license": "CC0-1.0",
+   "score": 11,
+   "license": "CC-BY-4.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -7056,16 +7854,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "TRV_Architech",
+    "name": "Sentinel",
     "handle": "TRV_Architech",
     "url": "https://x.com/TRV_Architech"
    },
    "add": "https://x.ai/bot/5iXilhKlK25luD-coiqDT",
    "page": "https://botsdots.site/templates/pat",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 7,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -7090,16 +7892,20 @@
    ],
    "official": false,
    "creator": {
-    "name": "GRogersJr71",
+    "name": "Skip",
     "handle": "GRogersJr71",
     "url": "https://x.com/GRogersJr71"
    },
    "add": "https://x.ai/bot/QKd4byLZMI9Amf9dRlDP1",
    "page": "https://botsdots.site/templates/paydate-chase",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 7,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -7170,7 +7976,7 @@
   {
    "name": "Pheid",
    "summary": "A switchboard that routes voice-assistant requests to your specialist bots",
-   "category": "teams-handoffs",
+   "category": "personal-admin",
    "cadence": "on-demand",
    "risk": "medium",
    "access": [
@@ -7182,16 +7988,20 @@
    ],
    "official": false,
    "creator": {
-    "name": "monomyth",
+    "name": "Eugene",
     "handle": "monomyth",
     "url": "https://x.com/monomyth"
    },
    "add": "https://x.ai/bot/Py5IDzYhNWMoMmzfHFbuB",
    "page": "https://botsdots.site/templates/pheid",
    "firstSeen": "2026-10-01",
-   "score": 9,
-   "license": "CC0-1.0",
+   "score": 11,
+   "license": "CC-BY-4.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -7216,16 +8026,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "TRV_Architech",
+    "name": "Sentinel",
     "handle": "TRV_Architech",
     "url": "https://x.com/TRV_Architech"
    },
    "add": "https://x.ai/bot/bFXAMsZcFm-0oxlH7t8HL",
    "page": "https://botsdots.site/templates/phil",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 7,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -7313,7 +8127,7 @@
   {
    "name": "POSSESSIONS",
    "summary": "Treat your household's stuff, cars and accounts as one tracked portfolio",
-   "category": "personal-admin",
+   "category": "finance-ops",
    "cadence": "on-demand",
    "risk": "high",
    "access": [
@@ -7322,16 +8136,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "bill_mitchell_",
+    "name": "Bill",
     "handle": "bill_mitchell_",
     "url": "https://x.com/bill_mitchell_"
    },
    "add": "https://x.ai/bot/_AtzRQVYEzMUS8QsanARG",
    "page": "https://botsdots.site/templates/possessions",
    "firstSeen": "2026-10-01",
-   "score": 9,
-   "license": "CC0-1.0",
+   "score": 11,
+   "license": "CC-BY-4.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -7349,7 +8167,7 @@
   {
    "name": "POSSESSIONS",
    "summary": "Tracks your belongings, home, vehicles, and accounts like a stock portfolio: what you paid vs.",
-   "category": "personal-admin",
+   "category": "finance-ops",
    "cadence": "on-demand",
    "risk": "high",
    "access": [
@@ -7381,19 +8199,25 @@
    "cadence": "on-demand",
    "risk": "low",
    "access": [],
-   "integrations": [],
+   "integrations": [
+    "linkedin"
+   ],
    "official": false,
    "creator": {
-    "name": "LukeGrokBot",
+    "name": "Luke",
     "handle": "LukeGrokBot",
     "url": "https://x.com/LukeGrokBot"
    },
    "add": "https://x.ai/bot/FnaR1hjDeMEhYzDaUJUZo",
    "page": "https://botsdots.site/templates/post-eraser",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 8,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -7414,16 +8238,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "TRV_Architech",
+    "name": "Sentinel",
     "handle": "TRV_Architech",
     "url": "https://x.com/TRV_Architech"
    },
    "add": "https://x.ai/bot/nx_gCdWuLXRuY0TvMMYIB",
    "page": "https://botsdots.site/templates/press-secretary",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 7,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -7444,16 +8272,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "TRV_Architech",
+    "name": "Sentinel",
     "handle": "TRV_Architech",
     "url": "https://x.com/TRV_Architech"
    },
    "add": "https://x.ai/bot/dQ8JxqzhilCrrT4cVqhXo",
    "page": "https://botsdots.site/templates/prince",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 7,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -7474,16 +8306,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "qubit2001",
+    "name": "Hanah",
     "handle": "qubit2001",
     "url": "https://x.com/qubit2001"
    },
    "add": "https://x.ai/bot/h6Ag8a6WO1m8K0Txskm0J",
    "page": "https://botsdots.site/templates/priors",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 8,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -7506,16 +8342,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "grok_user1",
+    "name": "Ramez",
     "handle": "grok_user1",
     "url": "https://x.com/grok_user1"
    },
    "add": "https://x.ai/bot/uMcH8R8VaVaKsanVWn30V",
    "page": "https://botsdots.site/templates/prism-radar",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 7,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -7551,7 +8391,7 @@
   {
    "name": "Product Marketing",
    "summary": "For founders, PMs, and marketers who need shared positioning before any campaign ships.",
-   "category": "research-briefings",
+   "category": "customer-sales",
    "cadence": "on-demand",
    "risk": "low",
    "access": [],
@@ -7636,16 +8476,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "AirbossHVAC",
+    "name": "AARON",
     "handle": "AirbossHVAC",
     "url": "https://x.com/AirbossHVAC"
    },
    "add": "https://x.ai/bot/srdRIiBSYskKc70-TRwG1",
    "page": "https://botsdots.site/templates/promise-ledger",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 8,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -7685,7 +8529,7 @@
   {
    "name": "Property Scanner",
    "summary": "Find potentially underpriced US homes with ZillAPI.",
-   "category": "personal-admin",
+   "category": "customer-sales",
    "cadence": "on-demand",
    "risk": "high",
    "access": [
@@ -7743,6 +8587,30 @@
    ]
   },
   {
+   "name": "Proto Bot",
+   "summary": "Turns your daily ideas into live, shareable prototypes in your real app, built as draft pull requests with click-path screenshots and a short…",
+   "category": "content-publishing",
+   "cadence": "daily",
+   "risk": "medium",
+   "access": [
+    "code"
+   ],
+   "integrations": [],
+   "official": true,
+   "creator": null,
+   "add": "https://x.ai/bot/p4sSEZV7xqcBgdT7m2O8i",
+   "page": "https://botsdots.site/templates/proto-bot",
+   "firstSeen": "2026-10-01",
+   "score": 10,
+   "license": "facts-only",
+   "sources": [
+    {
+     "name": "Public x.ai share page",
+     "url": "https://x.ai"
+    }
+   ]
+  },
+  {
    "name": "Proto Calvin",
    "summary": "Sets binary serialization and handshake rules for local daemons.",
    "category": "finance-ops",
@@ -7752,16 +8620,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "TRV_Architech",
+    "name": "Sentinel",
     "handle": "TRV_Architech",
     "url": "https://x.com/TRV_Architech"
    },
    "add": "https://x.ai/bot/PP2AhHmXXJgwo46iyFX93",
    "page": "https://botsdots.site/templates/proto-calvin",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 7,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -7801,7 +8673,7 @@
   {
    "name": "Pulse",
    "summary": "Windows gaming-laptop shop tech.",
-   "category": "customer-sales",
+   "category": "research-briefings",
    "cadence": "on-demand",
    "risk": "low",
    "access": [],
@@ -7834,16 +8706,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "QuState",
+    "name": "Justin",
     "handle": "QuState",
     "url": "https://x.com/QuState"
    },
    "add": "https://x.ai/bot/y3DfeCYbZl0hKRmXeZ6zn",
    "page": "https://botsdots.site/templates/quantum-researcher",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 8,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -7867,16 +8743,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "TRV_Architech",
+    "name": "Sentinel",
     "handle": "TRV_Architech",
     "url": "https://x.com/TRV_Architech"
    },
    "add": "https://x.ai/bot/Ah14z0wvw1_ON1cuG7OuL",
    "page": "https://botsdots.site/templates/quartermaster-ah14",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 7,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -7897,16 +8777,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "liam_fallen",
+    "name": "Liam",
     "handle": "liam_fallen",
     "url": "https://x.com/liam_fallen"
    },
    "add": "https://x.ai/bot/NLw7vTHF4uuyaP_SGF659",
    "page": "https://botsdots.site/templates/quoted",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 8,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -7927,16 +8811,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "TRV_Architech",
+    "name": "Sentinel",
     "handle": "TRV_Architech",
     "url": "https://x.com/TRV_Architech"
    },
    "add": "https://x.ai/bot/CuiaMJ5VcSvZnMAoYf6n6",
    "page": "https://botsdots.site/templates/raise",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 7,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -8066,16 +8954,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "Frrebase_app",
+    "name": "Juhani",
     "handle": "Frrebase_app",
     "url": "https://x.com/Frrebase_app"
    },
    "add": "https://x.ai/bot/tUfaBrGb8iT_MMfVJ-gEo",
    "page": "https://botsdots.site/templates/recipe-maker",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 8,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -8148,16 +9040,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "TRV_Architech",
+    "name": "Sentinel",
     "handle": "TRV_Architech",
     "url": "https://x.com/TRV_Architech"
    },
    "add": "https://x.ai/bot/nFfCGqkx6ZdyTxnRA5Wr5",
    "page": "https://botsdots.site/templates/religion",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 7,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -8280,16 +9176,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "Start_With_You",
+    "name": "Nathan",
     "handle": "Start_With_You",
     "url": "https://x.com/Start_With_You"
    },
    "add": "https://x.ai/bot/PaMuRVARoySisihqlH4S0",
    "page": "https://botsdots.site/templates/roan",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 8,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -8368,16 +9268,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "monomyth",
+    "name": "Eugene",
     "handle": "monomyth",
     "url": "https://x.com/monomyth"
    },
    "add": "https://x.ai/bot/hP_XdYFX8RBWp1teD2twd",
    "page": "https://botsdots.site/templates/rosetta",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 8,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -8391,23 +9295,27 @@
   {
    "name": "Routebook",
    "summary": "A travel-agency operations desk: leads, quotes, bookings, guest paperwork",
-   "category": "teams-handoffs",
+   "category": "customer-sales",
    "cadence": "on-demand",
    "risk": "low",
    "access": [],
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "docjais",
+    "name": "Anan",
     "handle": "docjais",
     "url": "https://x.com/docjais"
    },
    "add": "https://x.ai/bot/XGri4qPORtUxnDruyF_da",
    "page": "https://botsdots.site/templates/routebook",
    "firstSeen": "2026-10-01",
-   "score": 9,
-   "license": "CC0-1.0",
+   "score": 11,
+   "license": "CC-BY-4.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -8447,6 +9355,46 @@
    ]
   },
   {
+   "name": "Runescape Classic Grok Bot",
+   "summary": "RuneScape Classic beginner companion for Level 1 play, banking, combat, and Refer a Friend",
+   "category": "personal-admin",
+   "cadence": "on-demand",
+   "risk": "high",
+   "access": [
+    "money"
+   ],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "TerpGPT",
+    "handle": "TerpGPT",
+    "url": "https://x.com/TerpGPT"
+   },
+   "add": "https://x.ai/bot/0JrDm0jPnwX5i6nzl689d",
+   "page": "https://botsdots.site/templates/runescape-classic-grok-bot",
+   "firstSeen": "2026-10-01",
+   "score": 11,
+   "license": "CC-BY-4.0",
+   "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
+    {
+     "name": "majiayu000/awesome-grok-bot",
+     "url": "https://github.com/majiayu000/awesome-grok-bot"
+    },
+    {
+     "name": "cs68614-hash/awesome-grokbot-templates",
+     "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+    },
+    {
+     "name": "GrokBot.dev (CC BY 4.0)",
+     "url": "https://github.com/ZeroPointRepo/GrokBotDev"
+    }
+   ]
+  },
+  {
    "name": "Rusty",
    "summary": "Defend-only cybersecurity for a local-first system: hardening, cryptographic assurance, and threat mitigation.",
    "category": "coding-shipping",
@@ -8458,16 +9406,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "TRV_Architech",
+    "name": "Sentinel",
     "handle": "TRV_Architech",
     "url": "https://x.com/TRV_Architech"
    },
    "add": "https://x.ai/bot/ONQYmPPGpEiqKllCF9N_0",
    "page": "https://botsdots.site/templates/rusty",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 7,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -8568,16 +9520,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "PixelRainbowNFT",
+    "name": "Shagghie",
     "handle": "PixelRainbowNFT",
     "url": "https://x.com/PixelRainbowNFT"
    },
    "add": "https://x.ai/bot/8obMM4mRWRLf51EB2n4JV",
    "page": "https://botsdots.site/templates/safari-27-mcp",
    "firstSeen": "2026-10-01",
-   "score": 9,
-   "license": "CC0-1.0",
+   "score": 11,
+   "license": "CC-BY-4.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -8628,16 +9584,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "TRV_Architech",
+    "name": "Sentinel",
     "handle": "TRV_Architech",
     "url": "https://x.com/TRV_Architech"
    },
    "add": "https://x.ai/bot/AtYdjvimO286h3sOIDfB4",
    "page": "https://botsdots.site/templates/sam-atyd",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 7,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -8753,6 +9713,28 @@
    ]
   },
   {
+   "name": "Sell Bot",
+   "summary": "Works your whole customer journey: outreach in your voice, booked calls with prep and follow-ups, proposals and contracts, then activation, support…",
+   "category": "customer-sales",
+   "cadence": "on-demand",
+   "risk": "low",
+   "access": [],
+   "integrations": [],
+   "official": true,
+   "creator": null,
+   "add": "https://x.ai/bot/znrhzY4AYMg4v3QTfU0IJ",
+   "page": "https://botsdots.site/templates/sell-bot",
+   "firstSeen": "2026-10-01",
+   "score": 10,
+   "license": "facts-only",
+   "sources": [
+    {
+     "name": "Public x.ai share page",
+     "url": "https://x.ai"
+    }
+   ]
+  },
+  {
    "name": "Senior Repairo",
    "summary": "Audits other Grok bots.",
    "category": "teams-handoffs",
@@ -8839,19 +9821,25 @@
    "cadence": "on-demand",
    "risk": "low",
    "access": [],
-   "integrations": [],
+   "integrations": [
+    "cursor"
+   ],
    "official": false,
    "creator": {
-    "name": "simoncrypta",
+    "name": "Simon",
     "handle": "simoncrypta",
     "url": "https://x.com/simoncrypta"
    },
    "add": "https://x.ai/bot/pjuM6P_92QUE6jF6H6dpw",
    "page": "https://botsdots.site/templates/shep",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 8,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -8859,6 +9847,44 @@
     {
      "name": "cs68614-hash/awesome-grokbot-templates",
      "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+    }
+   ]
+  },
+  {
+   "name": "Sherpa Bot",
+   "summary": "14-day thinking partner that filters readiness and helps find a real problem, customer, and next action",
+   "category": "customer-sales",
+   "cadence": "on-demand",
+   "risk": "low",
+   "access": [],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "Morgan",
+    "handle": "Morgan Wyatt Khan",
+    "url": "https://x.com/MorganWKhan"
+   },
+   "add": "https://x.ai/bot/CGmwZlk_FVNYJO_VruSFZ",
+   "page": "https://botsdots.site/templates/sherpa-bot",
+   "firstSeen": "2026-10-01",
+   "score": 11,
+   "license": "CC-BY-4.0",
+   "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
+    {
+     "name": "majiayu000/awesome-grok-bot",
+     "url": "https://github.com/majiayu000/awesome-grok-bot"
+    },
+    {
+     "name": "cs68614-hash/awesome-grokbot-templates",
+     "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+    },
+    {
+     "name": "GrokBot.dev (CC BY 4.0)",
+     "url": "https://github.com/ZeroPointRepo/GrokBotDev"
     }
    ]
   },
@@ -8928,16 +9954,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "falconortiz",
+    "name": "Falcon",
     "handle": "falconortiz",
     "url": "https://x.com/falconortiz"
    },
    "add": "https://x.ai/bot/7uDg8aSUrT6Zn4l2qaaUF",
    "page": "https://botsdots.site/templates/short-form-video-editor",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 8,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -8980,16 +10010,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "unknown",
+    "name": "Zaeem",
     "handle": null,
     "url": null
    },
    "add": "https://x.ai/bot/uCLHK1cqHXnKeUqWfYat4",
    "page": "https://botsdots.site/templates/sku-doctor",
    "firstSeen": "2026-10-01",
-   "score": 4,
+   "score": 6,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -9010,16 +10044,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "jschnett",
+    "name": "Justin",
     "handle": "jschnett",
     "url": "https://x.com/jschnett"
    },
    "add": "https://x.ai/bot/IpwtPuGwCQ-y24b4loSBh",
    "page": "https://botsdots.site/templates/slowbooks-cutover",
    "firstSeen": "2026-10-01",
-   "score": 9,
-   "license": "CC0-1.0",
+   "score": 11,
+   "license": "CC-BY-4.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -9057,6 +10095,38 @@
     {
      "name": "Public x.ai share page",
      "url": "https://x.ai"
+    }
+   ]
+  },
+  {
+   "name": "Snag",
+   "summary": "Watches official tech drops and pings you with the buy link the moment a listing goes live",
+   "category": "personal-admin",
+   "cadence": "on-demand",
+   "risk": "high",
+   "access": [
+    "money"
+   ],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "OGeniigma",
+    "handle": "OGeniigma",
+    "url": "https://x.com/OGeniigma"
+   },
+   "add": "https://x.ai/bot/C9Iy4Zc4v4zldN1dImXtp",
+   "page": "https://botsdots.site/templates/snag",
+   "firstSeen": "2026-10-01",
+   "score": 7,
+   "license": "CC0-1.0",
+   "sources": [
+    {
+     "name": "majiayu000/awesome-grok-bot",
+     "url": "https://github.com/majiayu000/awesome-grok-bot"
+    },
+    {
+     "name": "GrokBot.dev (CC BY 4.0)",
+     "url": "https://github.com/ZeroPointRepo/GrokBotDev"
     }
    ]
   },
@@ -9151,16 +10221,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "TRV_Architech",
+    "name": "Sentinel",
     "handle": "TRV_Architech",
     "url": "https://x.com/TRV_Architech"
    },
    "add": "https://x.ai/bot/icwxYFKWgZzdUpJznnM-G",
    "page": "https://botsdots.site/templates/society",
    "firstSeen": "2026-10-01",
-   "score": 5,
+   "score": 7,
    "license": "CC0-1.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -9282,6 +10356,28 @@
     {
      "name": "GrokBot.dev (CC BY 4.0)",
      "url": "https://github.com/ZeroPointRepo/GrokBotDev"
+    }
+   ]
+  },
+  {
+   "name": "Startup QA Bot",
+   "summary": "Walks your product every weekday in its own test account and tells you what shipped, what got unshipped, what broke (with repro steps and…",
+   "category": "coding-shipping",
+   "cadence": "daily",
+   "risk": "low",
+   "access": [],
+   "integrations": [],
+   "official": true,
+   "creator": null,
+   "add": "https://x.ai/bot/XBauviUoNcdi05-ExoOo4",
+   "page": "https://botsdots.site/templates/startup-qa-bot",
+   "firstSeen": "2026-10-01",
+   "score": 10,
+   "license": "facts-only",
+   "sources": [
+    {
+     "name": "Public x.ai share page",
+     "url": "https://x.ai"
     }
    ]
   },
@@ -10534,16 +11630,20 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "LaceyPresley",
+    "name": "Lacey",
     "handle": "LaceyPresley",
     "url": "https://x.com/LaceyPresley"
    },
    "add": "https://x.ai/bot/6GtgHP0lCXamLe_wI7mZd",
    "page": "https://botsdots.site/templates/x-lookalikes",
    "firstSeen": "2026-10-01",
-   "score": 9,
-   "license": "CC0-1.0",
+   "score": 11,
+   "license": "CC-BY-4.0",
    "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -11819,36 +12919,6 @@
    ]
   },
   {
-   "name": "AgentStack",
-   "summary": "Platform agent for AgentStack.tech via MCP for hosting, DNA, App Studio, and apps you ship",
-   "category": "coding-shipping",
-   "cadence": "on-demand",
-   "risk": "low",
-   "access": [],
-   "integrations": [],
-   "official": false,
-   "creator": {
-    "name": "AgentStack",
-    "handle": "AgentStackTech",
-    "url": "https://x.com/AgentStackTech"
-   },
-   "add": "https://x.ai/bot/cvtOlJYgdXHjhHg8X_f7h",
-   "page": "https://botsdots.site/templates/agentstack",
-   "firstSeen": "2026-09-30",
-   "score": 5,
-   "license": "CC0-1.0",
-   "sources": [
-    {
-     "name": "majiayu000/awesome-grok-bot",
-     "url": "https://github.com/majiayu000/awesome-grok-bot"
-    },
-    {
-     "name": "cs68614-hash/awesome-grokbot-templates",
-     "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
-    }
-   ]
-  },
-  {
    "name": "AI Chief of Staff",
    "summary": "A general-purpose AI chief of staff that turns priorities into plans, delegates focused work to specialist roles, consolidates updates, and…",
    "category": "personal-admin",
@@ -12455,36 +13525,6 @@
      "name": "kydlikebtc/awesome-grokbot",
      "url": "https://github.com/kydlikebtc/awesome-grokbot"
     },
-    {
-     "name": "majiayu000/awesome-grok-bot",
-     "url": "https://github.com/majiayu000/awesome-grok-bot"
-    },
-    {
-     "name": "cs68614-hash/awesome-grokbot-templates",
-     "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
-    }
-   ]
-  },
-  {
-   "name": "Contractor Daily",
-   "summary": "Turns jobsite photos and notes into a clean daily business packet; nothing sends without your OK",
-   "category": "finance-ops",
-   "cadence": "daily",
-   "risk": "low",
-   "access": [],
-   "integrations": [],
-   "official": false,
-   "creator": {
-    "name": "Openminded187",
-    "handle": "Openminded187A",
-    "url": "https://x.com/Openminded187A"
-   },
-   "add": "https://x.ai/bot/ZNhFnMcPTQQDn3uLXbffi",
-   "page": "https://botsdots.site/templates/contractor-daily",
-   "firstSeen": "2026-09-30",
-   "score": 5,
-   "license": "CC0-1.0",
-   "sources": [
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -13775,40 +14815,6 @@
     {
      "name": "cs68614-hash/awesome-grokbot-templates",
      "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
-    }
-   ]
-  },
-  {
-   "name": "GrantOgre",
-   "summary": "Finds live funding programmes and prepares the grant pack a human reviews, signs, and files",
-   "category": "finance-ops",
-   "cadence": "on-demand",
-   "risk": "low",
-   "access": [],
-   "integrations": [],
-   "official": false,
-   "creator": {
-    "name": "Sebastian Andreas Nikolaus",
-    "handle": "HoneybadgerFan4",
-    "url": "https://x.com/HoneybadgerFan4"
-   },
-   "add": "https://x.ai/bot/WXC1m-5Iiyu1IyvBEt9Va",
-   "page": "https://botsdots.site/templates/grantogre",
-   "firstSeen": "2026-09-30",
-   "score": 9,
-   "license": "CC0-1.0",
-   "sources": [
-    {
-     "name": "majiayu000/awesome-grok-bot",
-     "url": "https://github.com/majiayu000/awesome-grok-bot"
-    },
-    {
-     "name": "cs68614-hash/awesome-grokbot-templates",
-     "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
-    },
-    {
-     "name": "GrokBot.dev (CC BY 4.0)",
-     "url": "https://github.com/ZeroPointRepo/GrokBotDev"
     }
    ]
   },
@@ -15731,42 +16737,6 @@
    ]
   },
   {
-   "name": "Runescape Classic Grok Bot",
-   "summary": "RuneScape Classic beginner companion for Level 1 play, banking, combat, and Refer a Friend",
-   "category": "personal-admin",
-   "cadence": "on-demand",
-   "risk": "high",
-   "access": [
-    "money"
-   ],
-   "integrations": [],
-   "official": false,
-   "creator": {
-    "name": "TerpGPT",
-    "handle": "TerpGPT",
-    "url": "https://x.com/TerpGPT"
-   },
-   "add": "https://x.ai/bot/0JrDm0jPnwX5i6nzl689d",
-   "page": "https://botsdots.site/templates/runescape-classic-grok-bot",
-   "firstSeen": "2026-09-30",
-   "score": 9,
-   "license": "CC0-1.0",
-   "sources": [
-    {
-     "name": "majiayu000/awesome-grok-bot",
-     "url": "https://github.com/majiayu000/awesome-grok-bot"
-    },
-    {
-     "name": "cs68614-hash/awesome-grokbot-templates",
-     "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
-    },
-    {
-     "name": "GrokBot.dev (CC BY 4.0)",
-     "url": "https://github.com/ZeroPointRepo/GrokBotDev"
-    }
-   ]
-  },
-  {
    "name": "Sal",
    "summary": "Legal ops for multi-entity businesses , leases, bills of sale, entity walls, and vendor terms in plain English.",
    "category": "personal-admin",
@@ -15934,40 +16904,6 @@
      "name": "kydlikebtc/awesome-grokbot",
      "url": "https://github.com/kydlikebtc/awesome-grokbot"
     },
-    {
-     "name": "majiayu000/awesome-grok-bot",
-     "url": "https://github.com/majiayu000/awesome-grok-bot"
-    },
-    {
-     "name": "cs68614-hash/awesome-grokbot-templates",
-     "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
-    },
-    {
-     "name": "GrokBot.dev (CC BY 4.0)",
-     "url": "https://github.com/ZeroPointRepo/GrokBotDev"
-    }
-   ]
-  },
-  {
-   "name": "Sherpa Bot",
-   "summary": "14-day thinking partner that filters readiness and helps find a real problem, customer, and next action",
-   "category": "customer-sales",
-   "cadence": "on-demand",
-   "risk": "low",
-   "access": [],
-   "integrations": [],
-   "official": false,
-   "creator": {
-    "name": "Morgan Wyatt Khan",
-    "handle": "MorganWKhan",
-    "url": "https://x.com/MorganWKhan"
-   },
-   "add": "https://x.ai/bot/CGmwZlk_FVNYJO_VruSFZ",
-   "page": "https://botsdots.site/templates/sherpa-bot",
-   "firstSeen": "2026-09-30",
-   "score": 9,
-   "license": "CC0-1.0",
-   "sources": [
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
@@ -16955,7 +17891,7 @@
    "add": "https://x.ai/bot/MgvqAC7RBf-gsvQl6Jw6n",
    "page": "https://botsdots.site/templates/apple-watch",
    "firstSeen": "2026-09-30",
-   "score": 7,
+   "score": 10,
    "license": "CC0-1.0",
    "sources": [
     {
@@ -16969,6 +17905,10 @@
     {
      "name": "cs68614-hash/awesome-grokbot-templates",
      "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+    },
+    {
+     "name": "GrokBot.dev (CC BY 4.0)",
+     "url": "https://github.com/ZeroPointRepo/GrokBotDev"
     }
    ]
   },
@@ -18727,43 +19667,6 @@
    ]
   },
   {
-   "name": "Dobby",
-   "summary": "A cute house-elf home helper for personal life: Amazon shopping, calendars, email drafts, light social, and household asks. No business tasks. Uses your",
-   "category": "inbox-calendar",
-   "cadence": "on-demand",
-   "risk": "medium",
-   "access": [
-    "inbox",
-    "calendar"
-   ],
-   "integrations": [],
-   "official": false,
-   "creator": {
-    "name": "Ryan",
-    "handle": "jjgorillaman",
-    "url": "https://x.com/jjgorillaman"
-   },
-   "add": "https://x.ai/bot/ka0xjh_4_XaxWG4pmFqyu",
-   "page": "https://botsdots.site/templates/dobby",
-   "firstSeen": "2026-09-29",
-   "score": 8,
-   "license": "CC0-1.0",
-   "sources": [
-    {
-     "name": "kydlikebtc/awesome-grokbot",
-     "url": "https://github.com/kydlikebtc/awesome-grokbot"
-    },
-    {
-     "name": "majiayu000/awesome-grok-bot",
-     "url": "https://github.com/majiayu000/awesome-grok-bot"
-    },
-    {
-     "name": "cs68614-hash/awesome-grokbot-templates",
-     "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
-    }
-   ]
-  },
-  {
    "name": "Doggo 🐾",
    "summary": "Your own dog trainer and behaviourist. Tell it about your dog and it sends a breed-specific idea every morning for training, reactivity, anxiety,",
    "category": "personal-admin",
@@ -19677,6 +20580,43 @@
    },
    "add": "https://x.ai/bot/0JEs5P-XFbJw6fSsticl8",
    "page": "https://botsdots.site/templates/grocery-clip-cart",
+   "firstSeen": "2026-09-29",
+   "score": 8,
+   "license": "CC0-1.0",
+   "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
+    {
+     "name": "majiayu000/awesome-grok-bot",
+     "url": "https://github.com/majiayu000/awesome-grok-bot"
+    },
+    {
+     "name": "cs68614-hash/awesome-grokbot-templates",
+     "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+    }
+   ]
+  },
+  {
+   "name": "Grocery Runner",
+   "summary": "A cute house-elf home helper for personal life: Amazon shopping, calendars, email drafts, light social, and household asks. No business tasks. Uses your",
+   "category": "inbox-calendar",
+   "cadence": "on-demand",
+   "risk": "medium",
+   "access": [
+    "inbox",
+    "calendar"
+   ],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "Ryan",
+    "handle": "jjgorillaman",
+    "url": "https://x.com/jjgorillaman"
+   },
+   "add": "https://x.ai/bot/ka0xjh_4_XaxWG4pmFqyu",
+   "page": "https://botsdots.site/templates/dobby",
    "firstSeen": "2026-09-29",
    "score": 8,
    "license": "CC0-1.0",
@@ -23364,7 +24304,7 @@
    ]
   },
   {
-   "name": "彩票兑奖助手",
+   "name": "地震简报 · Earthquake Brief",
    "summary": "丢票面图或号码，只查官方开奖，直接告诉你中没中。不荐号、不代买。",
    "category": "personal-admin",
    "cadence": "on-demand",
@@ -23380,7 +24320,7 @@
    "add": "https://x.ai/bot/NwH2B_cWmac3RDj8uFGjX",
    "page": "https://botsdots.site/templates/unnamed",
    "firstSeen": "2026-09-29",
-   "score": 10,
+   "score": 11,
    "license": "CC-BY-4.0",
    "sources": [
     {
@@ -34056,9 +34996,11 @@
    "name": "Ledger",
    "summary": "Personal money desk via Finance/Plaid for balances, spend, subscriptions, credit, and investing",
    "category": "research-briefings",
-   "cadence": "on-demand",
-   "risk": "low",
-   "access": [],
+   "cadence": "monthly",
+   "risk": "high",
+   "access": [
+    "money"
+   ],
    "integrations": [],
    "official": false,
    "creator": {
@@ -34789,7 +35731,7 @@
    "add": "https://x.ai/bot/iQg2eJzD_yun2PDgWvfnz",
    "page": "https://botsdots.site/templates/multi-model-transcriber",
    "firstSeen": "2026-09-27",
-   "score": 8,
+   "score": 11,
    "license": "CC0-1.0",
    "sources": [
     {
@@ -34803,6 +35745,10 @@
     {
      "name": "cs68614-hash/awesome-grokbot-templates",
      "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+    },
+    {
+     "name": "GrokBot.dev (CC BY 4.0)",
+     "url": "https://github.com/ZeroPointRepo/GrokBotDev"
     }
    ]
   },
@@ -38762,7 +39708,7 @@
    ]
   },
   {
-   "name": "Seed 7D",
+   "name": "Seed",
    "summary": "Stand up a real software SDLC in one conversation: team of phase bots, SevenD gates, and a hard copy in your repo — you stay the boss at the approvals",
    "category": "teams-handoffs",
    "cadence": "on-demand",
@@ -38770,7 +39716,10 @@
    "access": [
     "code"
    ],
-   "integrations": [],
+   "integrations": [
+    "github",
+    "cursor"
+   ],
    "official": false,
    "creator": {
     "name": "Ash",
@@ -47969,7 +48918,7 @@
   {
    "name": "スキルクリエイター",
    "summary": "依頼を手順に落とし、既存スキルと重ならない形でスキルを設計・作成・改修する。日次ニュース収集やSNS投稿はしない。",
-   "category": "content-publishing",
+   "category": "teams-handoffs",
    "cadence": "on-demand",
    "risk": "low",
    "access": [],
@@ -48060,50 +49009,6 @@
    },
    "add": "https://x.ai/bot/0XFvhY1cnpm9EnH-dlcPO",
    "page": "https://botsdots.site/templates/2nd-brain-0xfv",
-   "firstSeen": "2026-09-22",
-   "score": 13,
-   "license": "CC-BY-4.0",
-   "sources": [
-    {
-     "name": "kydlikebtc/awesome-grokbot",
-     "url": "https://github.com/kydlikebtc/awesome-grokbot"
-    },
-    {
-     "name": "majiayu000/awesome-grok-bot",
-     "url": "https://github.com/majiayu000/awesome-grok-bot"
-    },
-    {
-     "name": "cs68614-hash/awesome-grokbot-templates",
-     "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
-    },
-    {
-     "name": "GrokBot.dev (CC BY 4.0)",
-     "url": "https://github.com/ZeroPointRepo/GrokBotDev"
-    },
-    {
-     "name": "GrokBot HQ (CC BY 4.0)",
-     "url": "https://grokbothq.xyz"
-    }
-   ]
-  },
-  {
-   "name": "Ad Aether",
-   "summary": "Bratty desktop buddy that nudges you to check email and helps you actually deal with it",
-   "category": "inbox-calendar",
-   "cadence": "on-demand",
-   "risk": "medium",
-   "access": [
-    "inbox"
-   ],
-   "integrations": [],
-   "official": false,
-   "creator": {
-    "name": "Ξ",
-    "handle": "elizrdrake",
-    "url": "https://x.com/elizrdrake"
-   },
-   "add": "https://x.ai/bot/ZEniQhu4iKrF9w0qlrYq2",
-   "page": "https://botsdots.site/templates/ad-aether",
    "firstSeen": "2026-09-22",
    "score": 13,
    "license": "CC-BY-4.0",
@@ -49048,6 +49953,50 @@
    "firstSeen": "2026-09-22",
    "score": 13,
    "license": "CC0-1.0",
+   "sources": [
+    {
+     "name": "kydlikebtc/awesome-grokbot",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+    },
+    {
+     "name": "majiayu000/awesome-grok-bot",
+     "url": "https://github.com/majiayu000/awesome-grok-bot"
+    },
+    {
+     "name": "cs68614-hash/awesome-grokbot-templates",
+     "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+    },
+    {
+     "name": "GrokBot.dev (CC BY 4.0)",
+     "url": "https://github.com/ZeroPointRepo/GrokBotDev"
+    },
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
+    }
+   ]
+  },
+  {
+   "name": "Marcus Aurelius",
+   "summary": "Bratty desktop buddy that nudges you to check email and helps you actually deal with it",
+   "category": "inbox-calendar",
+   "cadence": "on-demand",
+   "risk": "medium",
+   "access": [
+    "inbox"
+   ],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "Ξ",
+    "handle": "elizrdrake",
+    "url": "https://x.com/elizrdrake"
+   },
+   "add": "https://x.ai/bot/ZEniQhu4iKrF9w0qlrYq2",
+   "page": "https://botsdots.site/templates/ad-aether",
+   "firstSeen": "2026-09-22",
+   "score": 13,
+   "license": "CC-BY-4.0",
    "sources": [
     {
      "name": "kydlikebtc/awesome-grokbot",
@@ -55583,7 +56532,7 @@
   {
    "name": "grokbots.best",
    "summary": "Submits public Grok Bot templates to the grokbots.best directory. Paste a template link or an X post and it publishes the listing.",
-   "category": "research-briefings",
+   "category": "content-publishing",
    "cadence": "on-demand",
    "risk": "high",
    "access": [
@@ -60232,7 +61181,7 @@
    "add": "https://x.ai/bot/438hek2SIHhpHn9FDlQCe",
    "page": "https://botsdots.site/templates/space-monkey",
    "firstSeen": "2026-09-21",
-   "score": 10,
+   "score": 13,
    "license": "CC0-1.0",
    "sources": [
     {
@@ -60246,6 +61195,10 @@
     {
      "name": "cs68614-hash/awesome-grokbot-templates",
      "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+    },
+    {
+     "name": "GrokBot.dev (CC BY 4.0)",
+     "url": "https://github.com/ZeroPointRepo/GrokBotDev"
     },
     {
      "name": "GrokBot HQ (CC BY 4.0)",
@@ -97682,8 +98635,8 @@
    "cadence": "on-demand",
    "risk": "medium",
    "access": [
-    "code",
-    "inbox"
+    "inbox",
+    "code"
    ],
    "integrations": [
     "github",
@@ -108915,13 +109868,9 @@
    "summary": "Locks a named person or animal from photos or a clip so later stills and clips still look like them",
    "category": "content-publishing",
    "cadence": "on-demand",
-   "risk": "medium",
-   "access": [
-    "code"
-   ],
-   "integrations": [
-    "github"
-   ],
+   "risk": "low",
+   "access": [],
+   "integrations": [],
    "official": false,
    "creator": {
     "name": "Knock",
@@ -116480,13 +117429,9 @@
    "summary": "Inspects a Grok bot's share link before you let it into your account",
    "category": "research-briefings",
    "cadence": "on-demand",
-   "risk": "medium",
-   "access": [
-    "code"
-   ],
-   "integrations": [
-    "github"
-   ],
+   "risk": "low",
+   "access": [],
+   "integrations": [],
    "official": false,
    "creator": {
     "name": "Knock",
