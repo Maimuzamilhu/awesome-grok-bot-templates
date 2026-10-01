@@ -1,0 +1,33 @@
+name: Update list
+
+# Once a day (after BotsDots' own catalog sync at 06:17 UTC), and on demand from
+# Actions → "Update list" → "Run workflow". Commits only when the list changed.
+on:
+  schedule:
+    - cron: "45 7 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-list
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: node scripts/build.mjs
+      - name: Commit if changed
+        run: |
+          if git diff --quiet; then echo "No changes"; exit 0; fi
+          git config user.name "botsdots-bot"
+          git config user.email "botsdots-bot@users.noreply.github.com"
+          git add -A
+          git commit -m "Update list ($(date -u +%Y-%m-%d))"
+          git push

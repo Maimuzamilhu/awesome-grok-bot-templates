@@ -1,0 +1,27 @@
+Awesome Grok Bot Templates — licence summary
+============================================
+
+Compilation, scripts and README text written for this list
+    Dedicated to the public domain under CC0 1.0 Universal.
+    https://creativecommons.org/publicdomain/zero/1.0/
+    The build script (scripts/build.mjs) may alternatively be used under the MIT License.
+
+Catalog rows (catalog.json, categories/*.md, README listings)
+    Facts — a bot's name, its x.ai share link, who shared it, category and whether the link
+    works — are not copyrightable and are free to use.
+
+    Descriptive text keeps the licence of the catalog it came from, recorded per row in
+    catalog.json as `license`, with attribution in the row's `sources` array:
+
+      CC0-1.0     No conditions.
+      CC-BY-4.0   Attribution required (https://creativecommons.org/licenses/by/4.0/).
+                  Carry the row's `sources` forward when you reuse its text.
+      facts-only  Name and description read from the creator's own public x.ai share page.
+
+    Upstream catalogs: kydlikebtc/awesome-grokbot, majiayu000/awesome-grok-bot,
+    cs68614-hash/awesome-grokbot-templates (CC0); GrokBot.dev (ZeroPointRepo/GrokBotDev) and
+    GrokBot HQ (https://grokbothq.xyz) (CC BY 4.0); dajiaohuang/awesome-grok-bot-templates.
+
+The bots themselves
+    Every bot belongs to its creator. This list links to public x.ai share pages and does not
+    host, copy or redistribute any bot configuration or prompt.
