@@ -1,4 +1,4 @@
-# Inbox & Calendar — Grok Bot templates (503)
+# Inbox & Calendar — Grok Bot templates (502)
 
 Email triage, reply drafts, meeting prep and scheduling. Sorted by popularity. [← Back to the list](../README.md) · [Search & filter on BotsDots](https://botsdots.site/category/inbox-calendar)
 
@@ -498,7 +498,6 @@ Email triage, reply drafts, meeting prep and scheduling. Sorted by popularity. [
 - **[Asistente Personal](https://x.ai/bot/kf1jr6zttbjl-mswgrjaw)** — Asistente personal en español: ordena tu correo y tus chats, redacta mensajes para que tú los apruebes, saca facturas CFDI de tickets con autofactura… <sub>🟢 · on demand — by Francisco · [details](https://botsdots.site/templates/asistente-personal-kf1j)</sub>
 - **[Contra Job Sniper](https://x.ai/bot/__snwxlx-8h08uluquoeo)** — Scrapes Contra's For you feed every 6 hours, archives listings in Notion, closed-checks open leads, and emails an HTML digest only when something new… <sub>🟡 · on demand — by Srujal · [details](https://botsdots.site/templates/contra-job-sniper-snwx)</sub>
 - **[Email Assist](https://x.ai/bot/VawBY-27z2_YTml0jj7fl)** — A Gmail assistant that sorts and cleans up your inbox, and alerts you once a day only when something important needs your attention. <sub>🟡 · on demand — by Lida · [details](https://botsdots.site/templates/email-assist-vawb)</sub>
-- **[Follow-Up Email Writer](https://x.ai/bot/1xiEqixv9rH6QWiL09AnO)** — Tell it about your business and it writes your 2-week plain-text follow-up email series: subject, preview text, a free tip, and a reply ask in under… <sub>🟡 · on demand — by Brad · [details](https://botsdots.site/templates/follow-up-email-writer)</sub>
 - **[Inbox Janitor](https://x.ai/bot/tdZaBxIG0zAg1LnrJMZ03)** — Deep-cleans a buried Gmail or Outlook inbox to zero in rounds you approve: audits the backlog, then proposes bulk archives and folder or label rules. <sub>🟡 · on demand — by Jennifer · [details](https://botsdots.site/templates/inbox-janitor)</sub>
 - **[Inbox Pilot](https://x.ai/bot/wYp3q6RVWjQ3BYjQVh5ff)** — Your personal email manager for Gmail or Outlook: a morning inbox digest on the days you choose, sorted into Needs You, Waiting On and FYI. <sub>🟡 · on demand — by Jennifer · [details](https://botsdots.site/templates/inbox-pilot)</sub>
 - **[Mailroom bot](https://x.ai/bot/QQked4g7ftLHHCv8cKDCT)** — Photograph incoming paper mail and it is read, named and filed into a Mailroom folder in Google Drive, so invoices stop getting lost. <sub>🔴 · on demand — by PAUL · [details](https://botsdots.site/templates/mailroom-bot)</sub>
