@@ -1,8 +1,8 @@
 # Awesome Grok Bot Templates [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated, link-checked list of **8,000 public Grok Bot templates** from **3,886 creators** — organised by job, with an access rating and schedule for every bot.
+> A curated, link-checked list of **8,123 public Grok Bot templates** from **3,900 creators** — organised by job, with an access rating and schedule for every bot.
 
-![Templates](https://img.shields.io/badge/templates-8000-c6f432?style=flat-square) ![Updated](https://img.shields.io/badge/updated-2026--11--01-0b0c0f?style=flat-square) ![License](https://img.shields.io/badge/data-CC0%20%2F%20CC%20BY%204.0-blue?style=flat-square)
+![Templates](https://img.shields.io/badge/templates-8123-c6f432?style=flat-square) ![Updated](https://img.shields.io/badge/updated-2026--11--02-0b0c0f?style=flat-square) ![License](https://img.shields.io/badge/data-CC0%20%2F%20CC%20BY%204.0-blue?style=flat-square)
 
 **🔎 Search, filter and compare them all at [botsdots.site](https://botsdots.site)** — filter by category, schedule, app (Gmail, GitHub, Slack…) and access level; save a shortlist; submit your own bot.
 
@@ -13,14 +13,14 @@ A *Grok Bot template* is a public `x.ai/bot/…` link that copies someone's Grok
 ## Contents
 
 - [⭐ Official marketplace](#-official-marketplace) (91)
-- [Personal & Life](#personal--life) (3,029)
-- [Research & Briefings](#research--briefings) (1,154)
-- [Content & Publishing](#content--publishing) (979)
-- [Inbox & Calendar](#inbox--calendar) (586)
-- [Coding & Shipping](#coding--shipping) (646)
-- [Teams & Handoffs](#teams--handoffs) (472)
-- [Sales & Customers](#sales--customers) (507)
-- [Finance & Ops](#finance--ops) (627)
+- [Personal & Life](#personal--life) (3,091)
+- [Research & Briefings](#research--briefings) (1,168)
+- [Content & Publishing](#content--publishing) (992)
+- [Inbox & Calendar](#inbox--calendar) (598)
+- [Coding & Shipping](#coding--shipping) (651)
+- [Teams & Handoffs](#teams--handoffs) (531)
+- [Sales & Customers](#sales--customers) (526)
+- [Finance & Ops](#finance--ops) (566)
 - [Submit a bot](#submit-a-bot)
 - [Data & sources](#data--sources)
 
@@ -68,6 +68,7 @@ Life admin, planning, health, learning, travel and habits.
 - **[Personal Assistant](https://x.ai/bot/OWj_0o4Ik2FffupfloOwe)** — Clears stuck life admin into one next action <sub>🟡 · on demand — by [@gabe\_onchain](https://x.com/gabe_onchain) · [details](https://botsdots.site/templates/personal-assistant)</sub>
 - **[Todo](https://x.ai/bot/wQHNsqt2KhOszyxMZ1xQ1)** — Catches a task the moment you say it and files it where you actually work <sub>🟢 · on demand — by [@scottxmetcalf](https://x.com/scottxmetcalf) · [details](https://botsdots.site/templates/todo)</sub>
 - **[Be Happier](https://x.ai/bot/0VC1XzREXRFGe0hVo-JEG)** — Suggests three concrete things each week that would make you happier <sub>🟡 · on demand — by [@lennysan](https://x.com/lennysan) · [details](https://botsdots.site/templates/be-happier)</sub>
+- **[Auto Tech Bot](https://x.ai/bot/lo_Wty5lv_egFWbyhZKBE)** — Your car's manual, mechanic's notebook and service log in one chat. <sub>🟢 · on demand — by [@GooseMetaX](https://x.com/GooseMetaX) · [details](https://botsdots.site/templates/auto-tech-bot)</sub>
 - **[Founder Chief of Staff](https://x.ai/bot/cAEBu6dvl4Vt1egvS-8xn)** — Turns fuzzy founder goals into ranked bets, cheap validation, and clear go/no-go calls. <sub>🟡 · on demand — by Chidi · [details](https://botsdots.site/templates/founder-chief-of-staff-caeb)</sub>
 - **[dr eggbot](https://x.ai/bot/_jOdbfkB16zxu7MRcmReE)** — Designs high-quality Grok Bots and creates them after a few preference questions <sub>🟢 · on demand · ⭐ official — by [@poteto](https://x.com/poteto) · [details](https://botsdots.site/templates/dr-eggbot-jodb)</sub>
 - **[Pfp Bot](https://x.ai/bot/eFnHzlDcKdoA406SzZbNZ)** — Turns an X photo, selfie, upload, or pet pic into a tiny Grokbot-style icon that keeps your look <sub>🟢 · on demand · ⭐ official — by [@joshkim](https://x.com/joshkim) · [details](https://botsdots.site/templates/pfp-bot)</sub>
@@ -84,9 +85,8 @@ Life admin, planning, health, learning, travel and habits.
 - **[Habit Referee](https://x.ai/bot/1wZEbQUoQWsR3nKzd4x90)** — Holds you to exactly one small habit, and nothing else <sub>🟢 · daily — by [@GrokBotGod](https://x.com/GrokBotGod) · [details](https://botsdots.site/templates/habit-referee)</sub>
 - **[QA bot](https://x.ai/bot/lKQWoQAvYgg_7Bkg2R-m7)** — Acts as your QA on the live deploy: runs the acceptance checklist and says pass or fail before you ship <sub>🟡 · on demand · ⭐ official — by Ulysses Ng · [details](https://botsdots.site/templates/qa-bot)</sub>
 - **[Sean](https://x.ai/bot/8o5g-70IT7LWNt1JQT0DY)** — Files Dice and career-portal job applications and screenshots each one <sub>🟢 · on demand — by [@0xsuhas1](https://x.com/0xsuhas1) · [details](https://botsdots.site/templates/sean)</sub>
-- **[Startup QA Bot](https://x.ai/bot/XBauviUoNcdi05-ExoOo4)** — Walks your product every weekday in its own test account and tells you what shipped, what got unshipped, what broke (with repro steps and screenshots) <sub>🟢 · daily · ⭐ official — by Shub Gaur · [details](https://botsdots.site/templates/startup-qa-bot)</sub>
 
-→ **[All 3,029 personal & life templates](categories/personal-admin.md)** · [browse on BotsDots](https://botsdots.site/category/personal-admin)
+→ **[All 3,091 personal & life templates](categories/personal-admin.md)** · [browse on BotsDots](https://botsdots.site/category/personal-admin)
 
 ## Research & Briefings
 
@@ -113,7 +113,7 @@ News digests, market and competitor watch, paper summaries.
 - **[Deep Research](https://x.ai/bot/K_RnTzUnW2bsbRzNkbuS0)** — Deep research specialist for sources-first briefs. Uses a free research toolkit and prefers legal access for copyrighted material <sub>🟢 · on demand — by [@Wardonis](https://x.com/Wardonis) · [details](https://botsdots.site/templates/deep-research)</sub>
 - **[Imogen](https://x.ai/bot/Eeu5NZp62OzQjtlY4ons2)** — Imogen the Impala Image Interpreter writes brief, copyable alt text focused on the most important part of an image, so images are accessible to… <sub>🔴 · on demand · ⭐ official — by [@kentcdodds](https://x.com/kentcdodds) · [details](https://botsdots.site/templates/imogen)</sub>
 
-→ **[All 1,154 research & briefings templates](categories/research-briefings.md)** · [browse on BotsDots](https://botsdots.site/category/research-briefings)
+→ **[All 1,168 research & briefings templates](categories/research-briefings.md)** · [browse on BotsDots](https://botsdots.site/category/research-briefings)
 
 ## Content & Publishing
 
@@ -140,7 +140,7 @@ Writing, threads, newsletters, video scripts and social.
 - **[Office Ops Desk](https://x.ai/bot/afZj-XnYkThA4MB7GfZK6)** — Tracks office shipments, facilities issues, and team birthdays, then writes the digests. <sub>🔴 · on demand · ⭐ official — by [@ericacabera](https://x.com/ericacabera) · [details](https://botsdots.site/templates/office-ops-desk)</sub>
 - **[RedReplier](https://x.ai/bot/8aU6ly_uunnMabpybs3hB)** — Finds people talking about your product, ranked by buying intent <sub>🔴 · on demand — by [@tarasshyn](https://x.com/tarasshyn) · [details](https://botsdots.site/templates/redreplier)</sub>
 
-→ **[All 979 content & publishing templates](categories/content-publishing.md)** · [browse on BotsDots](https://botsdots.site/category/content-publishing)
+→ **[All 992 content & publishing templates](categories/content-publishing.md)** · [browse on BotsDots](https://botsdots.site/category/content-publishing)
 
 ## Inbox & Calendar
 
@@ -167,7 +167,7 @@ Email triage, reply drafts, meeting prep and scheduling.
 - **[Alfred](https://x.ai/bot/moKscJ7PToJw_PVQWvkf_)** — Cheeky British chief of staff that watches email and Drive, builds daily briefings, and coordinates teammate bots <sub>🟡 · daily — by [@mmmllcadv3](https://x.com/mmmllcadv3) · [details](https://botsdots.site/templates/alfred-moks)</sub>
 - **[Apple Desk](https://x.ai/bot/vVST27b0qMvGLrEfxZ3nj)** — Runs Reminders, Calendar, Notes, Contacts, and Messages on your Mac via Apple CLIs, permission by permission <sub>🟡 · on demand — by [@Phil\_Holland](https://x.com/Phil_Holland) · [details](https://botsdots.site/templates/apple-desk)</sub>
 
-→ **[All 586 inbox & calendar templates](categories/inbox-calendar.md)** · [browse on BotsDots](https://botsdots.site/category/inbox-calendar)
+→ **[All 598 inbox & calendar templates](categories/inbox-calendar.md)** · [browse on BotsDots](https://botsdots.site/category/inbox-calendar)
 
 ## Coding & Shipping
 
@@ -175,7 +175,6 @@ PR review, issue triage, CI, release notes and docs.
 
 - **[AI Harness Assistant](https://x.ai/bot/oq-mYZXM23ShlY7UbJWeB)** — Keeps every AI coding tool on your machines up to date <sub>🟢 · on demand — by [@gheeunit](https://x.com/gheeunit) · [details](https://botsdots.site/templates/ai-harness-assistant)</sub>
 - **[OwnPhoneBot](https://x.ai/bot/yaQTHVqOMscKBYYDAfNoP)** — Connects a real telephone number to an assistant by taking the fiddly provisioning off your hands: it signs you up with the telephone provider and installs… <sub>🟢 · on demand — by [@lafraia](https://x.com/lafraia) · [details](https://botsdots.site/templates/ownphonebot)</sub>
-- **[Auto Tech Bot](https://x.ai/bot/lo_Wty5lv_egFWbyhZKBE)** — Your car's manual, mechanic's notebook and service log in one chat. <sub>🟢 · on demand — by [@GooseMetaX](https://x.com/GooseMetaX) · [details](https://botsdots.site/templates/auto-tech-bot)</sub>
 - **[Sable: Game Art](https://x.ai/bot/oSvAMKX_ahD56ZmgwtRys)** — Generates 2D game art and sprite sheets in a style you pick <sub>🟡 · on demand — by [@DannyLimanseta](https://x.com/DannyLimanseta) · [details](https://botsdots.site/templates/sable-game-art)</sub>
 - **[Deal Hunting](https://x.ai/bot/yTeKCLayahHnMdHFG9GJg)** — Landed-cost shopping: real prices, shipping and tax, preferred retailers. Watchlist optional. Never buys unless asked <sub>🔴 · on demand · ⭐ official — by [@xiaoying\_eth](https://x.com/xiaoying_eth) · [details](https://botsdots.site/templates/deal-hunting-ytek)</sub>
 - **[loops](https://x.ai/bot/Ub3T7usX-c6yRQibQq83P)** — An engineering outer loop that sits above your coding agents <sub>🟢 · on demand — by [@mattyp](https://x.com/mattyp) · [details](https://botsdots.site/templates/loops)</sub>
@@ -193,8 +192,9 @@ PR review, issue triage, CI, release notes and docs.
 - **[💡 LearnBot](https://x.ai/bot/2gmdsU86wH7HBvbB7_T2C)** — One engineering word each day, explained for people who never code <sub>🟢 · daily — by [@graceclarke](https://x.com/graceclarke) · [details](https://botsdots.site/templates/learnbot)</sub>
 - **[🔍 PR Review Desk ✦ SHIP-SAFE](https://x.ai/bot/5tp4v8_Z22suR9biJ_9wa)** — Anchored Blocker, Major, Minor and Nit findings in one PR review packet <sub>🟡 · on demand — by [@Cypher0x9](https://x.com/Cypher0x9) · [details](https://botsdots.site/templates/pr-review-desk-ship-safe)</sub>
 - **[Agent Looper](https://x.ai/bot/AETdGbRRNWfckrRGv22LD)** — Keeps a local coding agent iterating until your acceptance test passes <sub>🟢 · on demand — by [@dancingteeth](https://x.com/dancingteeth) · [details](https://botsdots.site/templates/agent-looper)</sub>
+- **[Agent Smith](https://x.ai/bot/JcFj23aaufNWkuiiJTX0j)** — A janitor for multi-bot workspaces that stops cruft piling up <sub>🟢 · on demand — by [@chiplay](https://x.com/chiplay) · [details](https://botsdots.site/templates/agent-smith)</sub>
 
-→ **[All 646 coding & shipping templates](categories/coding-shipping.md)** · [browse on BotsDots](https://botsdots.site/category/coding-shipping)
+→ **[All 651 coding & shipping templates](categories/coding-shipping.md)** · [browse on BotsDots](https://botsdots.site/category/coding-shipping)
 
 ## Teams & Handoffs
 
@@ -221,7 +221,7 @@ Chief-of-staff bots, standups, handoffs and multi-bot teams.
 - **[Application Team Lead](https://x.ai/bot/ufmS2cx8QpmyouPNIAkZC)** — Runs your job hunt by gathering materials, finding matching roles, and fanning out applications <sub>🟢 · on demand — by [@Kenook\_](https://x.com/Kenook_) · [details](https://botsdots.site/templates/application-team-lead)</sub>
 - **[Ask Your Bot](https://x.ai/bot/5hqR_5PVUy7WMbNaXPJ8s)** — A single coordinator that routes work to a small, deliberately lean bot bench <sub>🟢 · on demand — by [@BTC\_Yogi](https://x.com/BTC_Yogi) · [details](https://botsdots.site/templates/grokbot-summary)</sub>
 
-→ **[All 472 teams & handoffs templates](categories/teams-handoffs.md)** · [browse on BotsDots](https://botsdots.site/category/teams-handoffs)
+→ **[All 531 teams & handoffs templates](categories/teams-handoffs.md)** · [browse on BotsDots](https://botsdots.site/category/teams-handoffs)
 
 ## Sales & Customers
 
@@ -248,7 +248,7 @@ Lead research, outreach drafts, CRM hygiene and support.
 - **[Deal Inspector](https://x.ai/bot/vZfC76-4UC1XU7qC4m726)** — Checks every deal that moved stage against your qualification criteria using the actual call transcripts. <sub>🟢 · on demand · ⭐ official — by Jon Grigull · [details](https://botsdots.site/templates/deal-inspector)</sub>
 - **[Post Call Assistant](https://x.ai/bot/xF12c5y4LVe7nf7IFguWI)** — Drops your to-dos and a draft follow-up after every meeting <sub>🟡 · on demand — by [@itspriyaptl](https://x.com/itspriyaptl) · [details](https://botsdots.site/templates/post-call-assistant)</sub>
 
-→ **[All 507 sales & customers templates](categories/customer-sales.md)** · [browse on BotsDots](https://botsdots.site/category/customer-sales)
+→ **[All 526 sales & customers templates](categories/customer-sales.md)** · [browse on BotsDots](https://botsdots.site/category/customer-sales)
 
 ## Finance & Ops
 
@@ -275,7 +275,7 @@ Trading research, budgets, invoices and business ops.
 - **[CPA Bot](https://x.ai/bot/g5C4pS87enYiK85j9Oa4F)** — Small-business bookkeeping assistant from linked banks and cards <sub>🔴 · on demand — by [@degen4lyfe\_](https://x.com/degen4lyfe_) · [details](https://botsdots.site/templates/cpa-bot)</sub>
 - **[Credit Card Max](https://x.ai/bot/D831qeIZ5QrobdVh-X79U)** — Tells you which card to use for a purchase to maximise points and perks <sub>🔴 · on demand — by [@trevin](https://x.com/trevin) · [details](https://botsdots.site/templates/credit-card-max)</sub>
 
-→ **[All 627 finance & ops templates](categories/finance-ops.md)** · [browse on BotsDots](https://botsdots.site/category/finance-ops)
+→ **[All 566 finance & ops templates](categories/finance-ops.md)** · [browse on BotsDots](https://botsdots.site/category/finance-ops)
 
 ## Submit a bot
 
