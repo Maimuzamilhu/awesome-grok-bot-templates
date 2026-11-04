@@ -1,172 +1,621 @@
 {
  "source": "https://botsdots.site/catalog.json",
- "generated": "2026-11-03T15:28:50.685Z",
- "count": 8220,
+ "generated": "2026-11-04T14:38:00.941Z",
+ "count": 8339,
  "templates": [
   {
-   "name": "AI 영상 분석가",
-   "summary": "Tavi로 영상의 첫 장면, 전개 속도, 카메라 움직임과 대본 구성을 살펴보고 분석 보고서를 만듭니다. Tavi 생성·분석에는 본인 연결과 크레딧이 필요합니다. Grok 이용분은 별도입니다.",
-   "category": "research-briefings",
-   "cadence": "on-demand",
-   "risk": "low",
-   "access": [],
-   "integrations": [],
-   "official": false,
-   "creator": {
-    "name": "tavivideo",
-    "handle": "tavivideo",
-    "url": "https://x.com/tavivideo"
-   },
-   "add": "https://x.ai/bot/uk4eF-MQnOmXrm36wNFU2",
-   "page": "https://botsdots.site/templates/ai-uk4ef",
-   "firstSeen": "2026-11-03",
-   "score": 4,
-   "license": "submitted",
-   "sources": [
-    {
-     "name": "Submitted by the creator",
-     "url": "https://x.com/tavivideo"
-    }
-   ]
-  },
-  {
-   "name": "AI 어린이 애니메이션 제작자",
-   "summary": "잠자리 동화, 작은 모험, 좋은 습관을 주제로 이야기를 함께 쓰고, Tavi로 어린이용 애니메이션 클립을 만듭니다. Tavi 생성·분석에는 본인 연결과 크레딧이 필요합니다. Grok 이용분은 별도입니다.",
+   "name": "ADHDのX投稿bot",
+   "summary": "Finds post ideas and reply angles for people with ADHD who stall at the blank box.",
    "category": "content-publishing",
    "cadence": "on-demand",
-   "risk": "low",
-   "access": [],
-   "integrations": [],
-   "official": false,
-   "creator": {
-    "name": "tavivideo",
-    "handle": "tavivideo",
-    "url": "https://x.com/tavivideo"
-   },
-   "add": "https://x.ai/bot/oAj8w0jvP66ctwp25ZkoF",
-   "page": "https://botsdots.site/templates/ai-oaj8w",
-   "firstSeen": "2026-11-03",
-   "score": 4,
-   "license": "submitted",
-   "sources": [
-    {
-     "name": "Submitted by the creator",
-     "url": "https://x.com/tavivideo"
-    }
-   ]
-  },
-  {
-   "name": "AI 애니메이션 감독",
-   "summary": "이야기를 애니메이션 영상으로 만들어 보세요. 캐릭터와 회차별 대본, 장면 구성을 함께 다듬고 Tavi로 영상 클립을 만듭니다. Tavi 생성·분석에는 본인 연결과 크레딧이 필요합니다. Grok 이용분은 별도입니다.",
-   "category": "content-publishing",
-   "cadence": "on-demand",
-   "risk": "low",
-   "access": [],
-   "integrations": [],
-   "official": false,
-   "creator": {
-    "name": "tavivideo",
-    "handle": "tavivideo",
-    "url": "https://x.com/tavivideo"
-   },
-   "add": "https://x.ai/bot/O-HJefoeC0Gjvspa89pC7",
-   "page": "https://botsdots.site/templates/ai-ohjef",
-   "firstSeen": "2026-11-03",
-   "score": 4,
-   "license": "submitted",
-   "sources": [
-    {
-     "name": "Submitted by the creator",
-     "url": "https://x.com/tavivideo"
-    }
-   ]
-  },
-  {
-   "name": "AI 영상 광고 제작자",
-   "summary": "광고의 첫 장면부터 대본과 마지막 행동 유도까지 함께 구상하고, Tavi로 영상 광고 클립을 만듭니다. Tavi 생성·분석에는 본인 연결과 크레딧이 필요합니다. Grok 이용분은 별도입니다.",
-   "category": "content-publishing",
-   "cadence": "on-demand",
-   "risk": "low",
-   "access": [],
-   "integrations": [],
-   "official": false,
-   "creator": {
-    "name": "tavivideo",
-    "handle": "tavivideo",
-    "url": "https://x.com/tavivideo"
-   },
-   "add": "https://x.ai/bot/AnhA44_PaLnz6FGQv-yis",
-   "page": "https://botsdots.site/templates/ai-anha4",
-   "firstSeen": "2026-11-03",
-   "score": 4,
-   "license": "submitted",
-   "sources": [
-    {
-     "name": "Submitted by the creator",
-     "url": "https://x.com/tavivideo"
-    }
-   ]
-  },
-  {
-   "name": "AI 상품 영상 제작자",
-   "summary": "상품 사진과 정보를 바탕으로 용도와 특징을 보여 주는 장면을 구성하고, Tavi로 상품 영상 클립을 만듭니다. Tavi 생성·분석에는 본인 연결과 크레딧이 필요합니다. Grok 이용분은 별도입니다.",
-   "category": "content-publishing",
-   "cadence": "on-demand",
-   "risk": "low",
-   "access": [],
-   "integrations": [],
-   "official": false,
-   "creator": {
-    "name": "tavivideo",
-    "handle": "tavivideo",
-    "url": "https://x.com/tavivideo"
-   },
-   "add": "https://x.ai/bot/A3u4HsiNWOCvSTZpUZ85g",
-   "page": "https://botsdots.site/templates/ai-a3u4h",
-   "firstSeen": "2026-11-03",
-   "score": 4,
-   "license": "submitted",
-   "sources": [
-    {
-     "name": "Submitted by the creator",
-     "url": "https://x.com/tavivideo"
-    }
-   ]
-  },
-  {
-   "name": "Telly",
-   "summary": "Builds a daily page of what's new on the streaming services you pick, with posters, trailers and scores, and sends you the link every morning.",
-   "category": "personal-admin",
-   "cadence": "daily",
-   "risk": "high",
+   "risk": "medium",
    "access": [
-    "inbox",
-    "calendar",
-    "money"
+    "calendar"
    ],
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "BellverseLabs",
-    "handle": "BellverseLabs",
-    "url": "https://x.com/BellverseLabs"
+    "name": "蒼巳 シャチ",
+    "handle": "Shachi_Pratibha",
+    "url": "https://x.com/Shachi_Pratibha"
    },
-   "add": "https://x.ai/bot/UC5JcnrB1O5SBT-Nq9HTw",
-   "page": "https://botsdots.site/templates/telly-uc5jc",
-   "firstSeen": "2026-11-03",
+   "add": "https://x.ai/bot/sTTysQ_bBEm5IXzE8P_yp",
+   "page": "https://botsdots.site/templates/adhdxbot",
+   "firstSeen": "2026-11-04",
    "score": 4,
-   "license": "submitted",
+   "license": "CC-BY-4.0",
    "sources": [
     {
-     "name": "Submitted by the creator",
-     "url": "https://x.com/BellverseLabs"
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
+    }
+   ]
+  },
+  {
+   "name": "ADMRN Bridge Setup Guide",
+   "summary": "A guide that walks you through installing ADMRN Bridge Basic (release candidate v0.1.0-rc.1) on your own Cloudflare account and connecting Grok Bot.",
+   "category": "coding-shipping",
+   "cadence": "on-demand",
+   "risk": "low",
+   "access": [],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "vl2edo",
+    "handle": "vl2edo",
+    "url": "https://x.com/vl2edo"
+   },
+   "add": "https://x.ai/bot/_LRoMViTIJ9HkJ4J98DvD",
+   "page": "https://botsdots.site/templates/admrn-bridge-setup-guide",
+   "firstSeen": "2026-11-04",
+   "score": 3,
+   "license": "CC0-1.0",
+   "sources": [
+    {
+     "name": "cs68614-hash/awesome-grokbot-templates",
+     "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+    }
+   ]
+  },
+  {
+   "name": "AI Anime Director",
+   "summary": "Turns a story into anime-style clips: characters, episodes, shot plan.",
+   "category": "content-publishing",
+   "cadence": "on-demand",
+   "risk": "low",
+   "access": [],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "tavi",
+    "handle": "tavivideo",
+    "url": "https://x.com/tavivideo"
+   },
+   "add": "https://x.ai/bot/GQaZxm2s7wfXT09rLOBM0",
+   "page": "https://botsdots.site/templates/ai-anime-director",
+   "firstSeen": "2026-11-04",
+   "score": 4,
+   "license": "CC-BY-4.0",
+   "sources": [
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
+    }
+   ]
+  },
+  {
+   "name": "AI Children’s Animation Creator",
+   "summary": "Makes short animated stories for children from a bedtime tale or a habit to teach.",
+   "category": "content-publishing",
+   "cadence": "on-demand",
+   "risk": "low",
+   "access": [],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "tavi",
+    "handle": "tavivideo",
+    "url": "https://x.com/tavivideo"
+   },
+   "add": "https://x.ai/bot/qPZUZfck2VJcLIl5vmLwl",
+   "page": "https://botsdots.site/templates/ai-childrens-animation-creator",
+   "firstSeen": "2026-11-04",
+   "score": 4,
+   "license": "CC-BY-4.0",
+   "sources": [
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
+    }
+   ]
+  },
+  {
+   "name": "AI Product Video Creator",
+   "summary": "Builds a product clip from your photos and specs through Tavi.",
+   "category": "content-publishing",
+   "cadence": "on-demand",
+   "risk": "low",
+   "access": [],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "tavi",
+    "handle": "tavivideo",
+    "url": "https://x.com/tavivideo"
+   },
+   "add": "https://x.ai/bot/Q_tM45RdKXZUj2XPdOOPm",
+   "page": "https://botsdots.site/templates/ai-product-video-creator",
+   "firstSeen": "2026-11-04",
+   "score": 4,
+   "license": "CC-BY-4.0",
+   "sources": [
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
+    }
+   ]
+  },
+  {
+   "name": "AI Text Detector & Editor",
+   "summary": "Checks your drafts for AI-sounding writing, shows exactly which phrases tripped it, and helps you fix them without losing your voice.",
+   "category": "content-publishing",
+   "cadence": "on-demand",
+   "risk": "low",
+   "access": [],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "liminalprompt",
+    "handle": "liminalprompt",
+    "url": "https://x.com/liminalprompt"
+   },
+   "add": "https://x.ai/bot/yYsPajAZ18gCh95GuYEUU",
+   "page": "https://botsdots.site/templates/ai-text-detector-editor",
+   "firstSeen": "2026-11-04",
+   "score": 3,
+   "license": "CC0-1.0",
+   "sources": [
+    {
+     "name": "cs68614-hash/awesome-grokbot-templates",
+     "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+    }
+   ]
+  },
+  {
+   "name": "AI Video Ad Creator",
+   "summary": "Writes and builds a video ad around one message and a clear close.",
+   "category": "content-publishing",
+   "cadence": "on-demand",
+   "risk": "low",
+   "access": [],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "tavi",
+    "handle": "tavivideo",
+    "url": "https://x.com/tavivideo"
+   },
+   "add": "https://x.ai/bot/0gb8thoTyrMSq1hFBd63C",
+   "page": "https://botsdots.site/templates/ai-video-ad-creator",
+   "firstSeen": "2026-11-04",
+   "score": 4,
+   "license": "CC-BY-4.0",
+   "sources": [
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
     }
    ]
   },
   {
    "name": "AI Video Analyst",
-   "summary": "Analyze a video's opening, pacing, camera work, and script with Tavi. See how the shots and story fit together. Tavi uses credits, with a quote before spending. Grok usage is separate.",
+   "summary": "Breaks down a video's opening, pacing, camera work and script.",
+   "category": "content-publishing",
+   "cadence": "on-demand",
+   "risk": "low",
+   "access": [],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "tavi",
+    "handle": "tavivideo",
+    "url": "https://x.com/tavivideo"
+   },
+   "add": "https://x.ai/bot/vz8IEZ4rnb9z665B12gtN",
+   "page": "https://botsdots.site/templates/ai-video-analyst",
+   "firstSeen": "2026-11-04",
+   "score": 4,
+   "license": "CC-BY-4.0",
+   "sources": [
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
+    }
+   ]
+  },
+  {
+   "name": "AI 상품 영상 제작자",
+   "summary": "상품 사진과 정보를 바탕으로 용도와 특징을 보여 주는 장면을 구성하고, Tavi로 상품 영상 클립을 만듭니다.",
+   "category": "content-publishing",
+   "cadence": "on-demand",
+   "risk": "low",
+   "access": [],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "tavi",
+    "handle": null,
+    "url": null
+   },
+   "add": "https://x.ai/bot/A3u4HsiNWOCvSTZpUZ85g",
+   "page": "https://botsdots.site/templates/ai-a3u4",
+   "firstSeen": "2026-11-04",
+   "score": 2,
+   "license": "facts-only",
+   "sources": [
+    {
+     "name": "Public x.ai share page",
+     "url": "https://x.ai"
+    }
+   ]
+  },
+  {
+   "name": "AI 애니메이션 감독",
+   "summary": "이야기를 애니메이션 영상으로 만들어 보세요.",
+   "category": "content-publishing",
+   "cadence": "on-demand",
+   "risk": "low",
+   "access": [],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "tavi",
+    "handle": null,
+    "url": null
+   },
+   "add": "https://x.ai/bot/O-HJefoeC0Gjvspa89pC7",
+   "page": "https://botsdots.site/templates/ai-ohje",
+   "firstSeen": "2026-11-04",
+   "score": 3,
+   "license": "facts-only",
+   "sources": [
+    {
+     "name": "Public x.ai share page",
+     "url": "https://x.ai"
+    }
+   ]
+  },
+  {
+   "name": "AI 어린이 애니메이션 제작자",
+   "summary": "잠자리 동화, 작은 모험, 좋은 습관을 주제로 이야기를 함께 쓰고, Tavi로 어린이용 애니메이션 클립을 만듭니다.",
+   "category": "content-publishing",
+   "cadence": "on-demand",
+   "risk": "low",
+   "access": [],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "tavi",
+    "handle": null,
+    "url": null
+   },
+   "add": "https://x.ai/bot/oAj8w0jvP66ctwp25ZkoF",
+   "page": "https://botsdots.site/templates/ai-oaj8",
+   "firstSeen": "2026-11-04",
+   "score": 2,
+   "license": "facts-only",
+   "sources": [
+    {
+     "name": "Public x.ai share page",
+     "url": "https://x.ai"
+    }
+   ]
+  },
+  {
+   "name": "AI 영상 광고 제작자",
+   "summary": "광고의 첫 장면부터 대본과 마지막 행동 유도까지 함께 구상하고, Tavi로 영상 광고 클립을 만듭니다.",
+   "category": "content-publishing",
+   "cadence": "on-demand",
+   "risk": "low",
+   "access": [],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "tavi",
+    "handle": null,
+    "url": null
+   },
+   "add": "https://x.ai/bot/AnhA44_PaLnz6FGQv-yis",
+   "page": "https://botsdots.site/templates/ai-anha",
+   "firstSeen": "2026-11-04",
+   "score": 2,
+   "license": "facts-only",
+   "sources": [
+    {
+     "name": "Public x.ai share page",
+     "url": "https://x.ai"
+    }
+   ]
+  },
+  {
+   "name": "AI 영상 분석가",
+   "summary": "Tavi로 영상의 첫 장면, 전개 속도, 카메라 움직임과 대본 구성을 살펴보고 분석 보고서를 만듭니다.",
+   "category": "content-publishing",
+   "cadence": "on-demand",
+   "risk": "low",
+   "access": [],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "tavi",
+    "handle": null,
+    "url": null
+   },
+   "add": "https://x.ai/bot/uk4eF-MQnOmXrm36wNFU2",
+   "page": "https://botsdots.site/templates/ai-uk4e",
+   "firstSeen": "2026-11-04",
+   "score": 2,
+   "license": "facts-only",
+   "sources": [
+    {
+     "name": "Public x.ai share page",
+     "url": "https://x.ai"
+    }
+   ]
+  },
+  {
+   "name": "Amazon Butler",
+   "summary": "Your personal Amazon assistant: tracks orders to the exact delivery window, handles returns, cancellations, and reorders, watches prices.",
+   "category": "personal-admin",
+   "cadence": "on-demand",
+   "risk": "low",
+   "access": [],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "Bearhugsink",
+    "handle": "Bearhugsink",
+    "url": "https://x.com/Bearhugsink"
+   },
+   "add": "https://x.ai/bot/vkhoIjZYIiDoB7KeEOOyH",
+   "page": "https://botsdots.site/templates/amazon-butler",
+   "firstSeen": "2026-11-04",
+   "score": 3,
+   "license": "CC0-1.0",
+   "sources": [
+    {
+     "name": "cs68614-hash/awesome-grokbot-templates",
+     "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+    }
+   ]
+  },
+  {
+   "name": "Amazon Late",
+   "summary": "Watches for late Amazon deliveries and drafts the compensation request for you.",
+   "category": "finance-ops",
+   "cadence": "on-demand",
+   "risk": "high",
+   "access": [
+    "inbox",
+    "money"
+   ],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "Alex",
+    "handle": "alexdotcom",
+    "url": "https://x.com/alexdotcom"
+   },
+   "add": "https://x.ai/bot/RlPVwGxOM9pN7s0BBL6kd",
+   "page": "https://botsdots.site/templates/amazon-late",
+   "firstSeen": "2026-11-04",
+   "score": 5,
+   "license": "CC-BY-4.0",
+   "sources": [
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
+    }
+   ]
+  },
+  {
+   "name": "Amazon Order Monitor",
+   "summary": "Watches Amazon orders for late guaranteed deliveries and lays out your options.",
+   "category": "finance-ops",
+   "cadence": "on-demand",
+   "risk": "low",
+   "access": [],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "Brad Phillips",
+    "handle": null,
+    "url": null
+   },
+   "add": "https://x.ai/bot/j2nhQ6zkfy31nSUSnL8wu",
+   "page": "https://botsdots.site/templates/amazon-order-monitor",
+   "firstSeen": "2026-11-04",
+   "score": 3,
+   "license": "CC-BY-4.0",
+   "sources": [
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
+    }
+   ]
+  },
+  {
+   "name": "AncestryResearch",
+   "summary": "Genealogy helper that works from GEDCOM files and free records first.",
    "category": "research-briefings",
+   "cadence": "on-demand",
+   "risk": "low",
+   "access": [],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "Brad Phillips",
+    "handle": null,
+    "url": null
+   },
+   "add": "https://x.ai/bot/6_EpwTFnPPShU8eI96q8A",
+   "page": "https://botsdots.site/templates/ancestryresearch",
+   "firstSeen": "2026-11-04",
+   "score": 3,
+   "license": "CC-BY-4.0",
+   "sources": [
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
+    }
+   ]
+  },
+  {
+   "name": "Audit Bot",
+   "summary": "Keeps your Grok Bot setup lean. It audits your bots every week for duplicate or noisy routines, overlapping roles, stale memory, and stuck bots.",
+   "category": "teams-handoffs",
+   "cadence": "weekly",
+   "risk": "low",
+   "access": [],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "patrickonx",
+    "handle": "patrickonx",
+    "url": "https://x.com/patrickonx"
+   },
+   "add": "https://x.ai/bot/r-lBVOMjzF_h3K6H-RQ7v",
+   "page": "https://botsdots.site/templates/audit-bot",
+   "firstSeen": "2026-11-04",
+   "score": 3,
+   "license": "CC0-1.0",
+   "sources": [
+    {
+     "name": "cs68614-hash/awesome-grokbot-templates",
+     "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+    }
+   ]
+  },
+  {
+   "name": "Ballot Buddy",
+   "summary": "Your ballot, explained in 2 minutes.",
+   "category": "research-briefings",
+   "cadence": "on-demand",
+   "risk": "low",
+   "access": [],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "althetime",
+    "handle": null,
+    "url": null
+   },
+   "add": "https://x.ai/bot/qugNGnD2_11BaVAVNHAgm",
+   "page": "https://botsdots.site/templates/ballot-buddy-qugn",
+   "firstSeen": "2026-11-04",
+   "score": 3,
+   "license": "facts-only",
+   "sources": [
+    {
+     "name": "Public x.ai share page",
+     "url": "https://x.ai"
+    }
+   ]
+  },
+  {
+   "name": "Ballot Scout",
+   "summary": "Walks your real local ballot with you. Short questionnaire, then race-by-race candidate and measure cards from free sources (Ballotpedia.",
+   "category": "research-briefings",
+   "cadence": "on-demand",
+   "risk": "low",
+   "access": [],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "josephstayhappy",
+    "handle": "josephstayhappy",
+    "url": "https://x.com/josephstayhappy"
+   },
+   "add": "https://x.ai/bot/tL4Rmvq9J8vcxKjaXz5G_",
+   "page": "https://botsdots.site/templates/ballot-scout",
+   "firstSeen": "2026-11-04",
+   "score": 3,
+   "license": "CC0-1.0",
+   "sources": [
+    {
+     "name": "cs68614-hash/awesome-grokbot-templates",
+     "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+    }
+   ]
+  },
+  {
+   "name": "BCDR Benny",
+   "summary": "Keeps multi-bot teams recoverable with durable stores, end-of-job checks and a recovery ladder.",
+   "category": "coding-shipping",
+   "cadence": "on-demand",
+   "risk": "medium",
+   "access": [
+    "chat"
+   ],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "Red",
+    "handle": "redtbolt",
+    "url": "https://x.com/redtbolt"
+   },
+   "add": "https://x.ai/bot/-7WtCvL5Sr4kU6P7wfGnJ",
+   "page": "https://botsdots.site/templates/bcdr-benny",
+   "firstSeen": "2026-11-04",
+   "score": 5,
+   "license": "CC-BY-4.0",
+   "sources": [
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
+    }
+   ]
+  },
+  {
+   "name": "BloatBot",
+   "summary": "Token-waste auditor for its owner's Grok Bot fleet. One job: find what makes the owner's bots burn tokens (bloated memory and descriptions.",
+   "category": "teams-handoffs",
+   "cadence": "on-demand",
+   "risk": "low",
+   "access": [],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "scottcjordan",
+    "handle": "scottcjordan",
+    "url": "https://x.com/scottcjordan"
+   },
+   "add": "https://x.ai/bot/Lv3i6LS69DYQ0l-Ya8iKp",
+   "page": "https://botsdots.site/templates/bloatbot",
+   "firstSeen": "2026-11-04",
+   "score": 3,
+   "license": "CC0-1.0",
+   "sources": [
+    {
+     "name": "cs68614-hash/awesome-grokbot-templates",
+     "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+    }
+   ]
+  },
+  {
+   "name": "Bot Optimizer",
+   "summary": "Audits your Grok Bots each week and finds the top wastes of usage.",
+   "category": "teams-handoffs",
+   "cadence": "weekly",
+   "risk": "low",
+   "access": [],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "Lonbaker",
+    "handle": "Lonbaker",
+    "url": "https://x.com/Lonbaker"
+   },
+   "add": "https://x.ai/bot/g-m5pDVEjklVWOovjOhI8",
+   "page": "https://botsdots.site/templates/roadrunner-bot-optimizer",
+   "firstSeen": "2026-11-04",
+   "score": 7,
+   "license": "CC0-1.0",
+   "sources": [
+    {
+     "name": "cs68614-hash/awesome-grokbot-templates",
+     "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+    },
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
+    }
+   ]
+  },
+  {
+   "name": "Bot Organizer",
+   "summary": "Audits every bot's role and reporting line, then recommends the smallest useful org chart.",
+   "category": "teams-handoffs",
    "cadence": "on-demand",
    "risk": "medium",
    "access": [
@@ -175,25 +624,51 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "tavivideo",
-    "handle": "tavivideo",
-    "url": "https://x.com/tavivideo"
+    "name": "Robert",
+    "handle": "CryptoCat2010",
+    "url": "https://x.com/CryptoCat2010"
    },
-   "add": "https://x.ai/bot/vz8IEZ4rnb9z665B12gtN",
-   "page": "https://botsdots.site/templates/ai-video-analyst-vz8ie",
-   "firstSeen": "2026-11-02",
-   "score": 4,
-   "license": "submitted",
+   "add": "https://x.ai/bot/cfN34jT2-yx9SP18-Aad7",
+   "page": "https://botsdots.site/templates/bot-organizer",
+   "firstSeen": "2026-11-04",
+   "score": 5,
+   "license": "CC-BY-4.0",
    "sources": [
     {
-     "name": "Submitted by the creator",
-     "url": "https://x.com/tavivideo"
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
     }
    ]
   },
   {
-   "name": "AI Children’s Animation Creator",
-   "summary": "Make animated story clips for children with Tavi. Start with a bedtime story, a small adventure, or a good habit. Tavi uses credits, with a quote before spending. Grok usage is separate.",
+   "name": "BotRank Scout",
+   "summary": "Your guide to botrank.lol, the live Grok bot leaderboard: find top bots by category and get your own bot listed and ranked.",
+   "category": "research-briefings",
+   "cadence": "on-demand",
+   "risk": "low",
+   "access": [],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "natebuildsHQ",
+    "handle": "natebuildsHQ",
+    "url": "https://x.com/natebuildsHQ"
+   },
+   "add": "https://x.ai/bot/vAlR7Qh5UUQRQ4IKUyn8S",
+   "page": "https://botsdots.site/templates/botrank-scout",
+   "firstSeen": "2026-11-04",
+   "score": 3,
+   "license": "CC0-1.0",
+   "sources": [
+    {
+     "name": "cs68614-hash/awesome-grokbot-templates",
+     "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+    }
+   ]
+  },
+  {
+   "name": "Botty",
+   "summary": "Music-label assistant: weekday news digest, release planning, promo copy.",
    "category": "content-publishing",
    "cadence": "on-demand",
    "risk": "low",
@@ -201,25 +676,135 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "tavivideo",
-    "handle": "tavivideo",
-    "url": "https://x.com/tavivideo"
+    "name": "Kevin Lane",
+    "handle": "K3vinLane",
+    "url": "https://x.com/K3vinLane"
    },
-   "add": "https://x.ai/bot/qPZUZfck2VJcLIl5vmLwl",
-   "page": "https://botsdots.site/templates/ai-childrens-animation-creator-qpzuz",
-   "firstSeen": "2026-11-02",
+   "add": "https://x.ai/bot/yNyQ_Bn75aQQbd0c7XPon",
+   "page": "https://botsdots.site/templates/botty",
+   "firstSeen": "2026-11-04",
    "score": 4,
-   "license": "submitted",
+   "license": "CC-BY-4.0",
    "sources": [
     {
-     "name": "Submitted by the creator",
-     "url": "https://x.com/tavivideo"
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
     }
    ]
   },
   {
-   "name": "AI Anime Director",
-   "summary": "Turn your story into anime-style video clips with Tavi. Shape the characters, write each episode, and plan the shots. Tavi uses credits, with a quote before spending. Grok usage is separate.",
+   "name": "Bounty Radar",
+   "summary": "Watches bug bounty platforms for new public programs, private invites, scope expansions, bounty increases, and lowered reputation or invite gates…",
+   "category": "coding-shipping",
+   "cadence": "on-demand",
+   "risk": "low",
+   "access": [],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "nahjuin",
+    "handle": null,
+    "url": null
+   },
+   "add": "https://x.ai/bot/9i2EKt-UoFOKEbf0pvRAi",
+   "page": "https://botsdots.site/templates/bounty-radar",
+   "firstSeen": "2026-11-04",
+   "score": 2,
+   "license": "facts-only",
+   "sources": [
+    {
+     "name": "Public x.ai share page",
+     "url": "https://x.ai"
+    }
+   ]
+  },
+  {
+   "name": "Braun Bill Haggler",
+   "summary": "Finds your recurring bills and, with your yes on each one, negotiates them down.",
+   "category": "finance-ops",
+   "cadence": "on-demand",
+   "risk": "low",
+   "access": [],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "Andy",
+    "handle": "AndysChiefOS",
+    "url": "https://x.com/AndysChiefOS"
+   },
+   "add": "https://x.ai/bot/lvOGOfOdz4kwqvIR03UUT",
+   "page": "https://botsdots.site/templates/braun-bill-haggler",
+   "firstSeen": "2026-11-04",
+   "score": 5,
+   "license": "CC-BY-4.0",
+   "sources": [
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
+    }
+   ]
+  },
+  {
+   "name": "Broker",
+   "summary": "A personal insurance shopper that gathers your auto, home, and flood policies, compares like-for-like quotes, flags coverage gaps and discounts.",
+   "category": "personal-admin",
+   "cadence": "on-demand",
+   "risk": "low",
+   "access": [],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "dkmitc",
+    "handle": "dkmitc",
+    "url": "https://x.com/dkmitc"
+   },
+   "add": "https://x.ai/bot/_lwaVlXcjTz2RnZHfJjiD",
+   "page": "https://botsdots.site/templates/broker-lwav",
+   "firstSeen": "2026-11-04",
+   "score": 3,
+   "license": "CC0-1.0",
+   "sources": [
+    {
+     "name": "cs68614-hash/awesome-grokbot-templates",
+     "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+    }
+   ]
+  },
+  {
+   "name": "Call Runner",
+   "summary": "Makes outbound phone calls for you: reservations, appointments, follow-ups, customer service, and order or billing questions.",
+   "category": "customer-sales",
+   "cadence": "on-demand",
+   "risk": "medium",
+   "access": [
+    "code"
+   ],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "agents_studio",
+    "handle": "agents_studio",
+    "url": "https://x.com/agents_studio"
+   },
+   "add": "https://x.ai/bot/yU4QeXl4-SRxS8p3G86dP",
+   "page": "https://botsdots.site/templates/call-runner",
+   "firstSeen": "2026-11-04",
+   "score": 7,
+   "license": "CC0-1.0",
+   "sources": [
+    {
+     "name": "cs68614-hash/awesome-grokbot-templates",
+     "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+    },
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
+    }
+   ]
+  },
+  {
+   "name": "Cap",
+   "summary": "Cap makes the sound for your projects: narration, songs and instrumentals, music beds and sound effects, mixed and loudness-checked.",
    "category": "content-publishing",
    "cadence": "on-demand",
    "risk": "low",
@@ -227,25 +812,187 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "tavivideo",
-    "handle": "tavivideo",
-    "url": "https://x.com/tavivideo"
+    "name": "Marc",
+    "handle": null,
+    "url": null
    },
-   "add": "https://x.ai/bot/GQaZxm2s7wfXT09rLOBM0",
-   "page": "https://botsdots.site/templates/ai-anime-director-gqazx",
-   "firstSeen": "2026-11-02",
-   "score": 4,
-   "license": "submitted",
+   "add": "https://x.ai/bot/0lo4RPTbCpF6hG9bMKTKE",
+   "page": "https://botsdots.site/templates/cap",
+   "firstSeen": "2026-11-04",
+   "score": 3,
+   "license": "facts-only",
    "sources": [
     {
-     "name": "Submitted by the creator",
-     "url": "https://x.com/tavivideo"
+     "name": "Public x.ai share page",
+     "url": "https://x.ai"
     }
    ]
   },
   {
-   "name": "AI Video Ad Creator",
-   "summary": "Make video ad clips with Tavi. Find a strong opening, write a script around one clear message, and end with a clear call to action. Tavi uses credits, with a quote before spending. Grok usage is separate.",
+   "name": "Care Desk",
+   "summary": "Care Desk — visit prep, med lists, symptom journal, insurance walkthroughs, and a plain read of your patient portal. Not a doctor. You stay in charge.",
+   "category": "personal-admin",
+   "cadence": "on-demand",
+   "risk": "low",
+   "access": [],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "Jwlpt45",
+    "handle": "Jwlpt45",
+    "url": "https://x.com/Jwlpt45"
+   },
+   "add": "https://x.ai/bot/Gw86wWSPMk5ctpyAfGzYn",
+   "page": "https://botsdots.site/templates/care-desk",
+   "firstSeen": "2026-11-04",
+   "score": 3,
+   "license": "CC0-1.0",
+   "sources": [
+    {
+     "name": "cs68614-hash/awesome-grokbot-templates",
+     "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+    }
+   ]
+  },
+  {
+   "name": "Care Helper Bot",
+   "summary": "Keeps the paperwork side of caring for an ageing parent in one place.",
+   "category": "personal-admin",
+   "cadence": "on-demand",
+   "risk": "low",
+   "access": [],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "Kevin",
+    "handle": "khkpublishing",
+    "url": "https://x.com/khkpublishing"
+   },
+   "add": "https://x.ai/bot/jmYHHzZHv61_VjFgf3p28",
+   "page": "https://botsdots.site/templates/care-helper-bot",
+   "firstSeen": "2026-11-04",
+   "score": 5,
+   "license": "CC-BY-4.0",
+   "sources": [
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
+    }
+   ]
+  },
+  {
+   "name": "Catholic Faith",
+   "summary": "Explains each morning's Mass readings with historical background.",
+   "category": "personal-admin",
+   "cadence": "daily",
+   "risk": "low",
+   "access": [],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "Mike Eichner",
+    "handle": "eichner3mike",
+    "url": "https://x.com/eichner3mike"
+   },
+   "add": "https://x.ai/bot/iXs5vnVMQw39FsC4g4Dn-",
+   "page": "https://botsdots.site/templates/catholic-faith",
+   "firstSeen": "2026-11-04",
+   "score": 4,
+   "license": "CC-BY-4.0",
+   "sources": [
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
+    }
+   ]
+  },
+  {
+   "name": "Cazador de Ofertas",
+   "summary": "Weighs a deal against price history and says which payment method wins.",
+   "category": "finance-ops",
+   "cadence": "on-demand",
+   "risk": "high",
+   "access": [
+    "money"
+   ],
+   "integrations": [
+    "x"
+   ],
+   "official": false,
+   "creator": {
+    "name": "Valentín Galfré",
+    "handle": "galfrevn",
+    "url": "https://x.com/galfrevn"
+   },
+   "add": "https://x.ai/bot/tSqrpVGlngwZH_rCYHeQd",
+   "page": "https://botsdots.site/templates/cazador-de-ofertas",
+   "firstSeen": "2026-11-04",
+   "score": 4,
+   "license": "CC-BY-4.0",
+   "sources": [
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
+    }
+   ]
+  },
+  {
+   "name": "Chart Vader",
+   "summary": "Reads Vest charts and scores the setup from 0 to 10 in plain English.",
+   "category": "finance-ops",
+   "cadence": "on-demand",
+   "risk": "high",
+   "access": [
+    "money"
+   ],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "dcbk2la",
+    "handle": "DCBK2LA",
+    "url": "https://x.com/DCBK2LA"
+   },
+   "add": "https://x.ai/bot/NepDSF7-aKxWwjRyxk37t",
+   "page": "https://botsdots.site/templates/chart-vader-trade-setups",
+   "firstSeen": "2026-11-04",
+   "score": 5,
+   "license": "CC-BY-4.0",
+   "sources": [
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
+    }
+   ]
+  },
+  {
+   "name": "Civic Filter",
+   "summary": "Cuts the noise from election news and political social media and tells you only what matters to you and what you can act on.",
+   "category": "research-briefings",
+   "cadence": "on-demand",
+   "risk": "low",
+   "access": [],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "lutefiskguy",
+    "handle": "lutefiskguy",
+    "url": "https://x.com/lutefiskguy"
+   },
+   "add": "https://x.ai/bot/kn21ZTH4G0J-Day9zNt6l",
+   "page": "https://botsdots.site/templates/civic-filter",
+   "firstSeen": "2026-11-04",
+   "score": 3,
+   "license": "CC0-1.0",
+   "sources": [
+    {
+     "name": "cs68614-hash/awesome-grokbot-templates",
+     "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+    }
+   ]
+  },
+  {
+   "name": "Clip Scout",
+   "summary": "Finds the most recognizable movie and TV reaction clips for any word or emotion.",
    "category": "content-publishing",
    "cadence": "on-demand",
    "risk": "low",
@@ -253,25 +1000,388 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "tavivideo",
-    "handle": "tavivideo",
-    "url": "https://x.com/tavivideo"
+    "name": "Wayne",
+    "handle": "wikiwayne",
+    "url": "https://x.com/wikiwayne"
    },
-   "add": "https://x.ai/bot/0gb8thoTyrMSq1hFBd63C",
-   "page": "https://botsdots.site/templates/ai-video-ad-creator-0gb8t",
-   "firstSeen": "2026-11-02",
-   "score": 4,
-   "license": "submitted",
+   "add": "https://x.ai/bot/ZW-lsfOKtX2V2ON1KXJLF",
+   "page": "https://botsdots.site/templates/clip-scout",
+   "firstSeen": "2026-11-04",
+   "score": 5,
+   "license": "CC-BY-4.0",
    "sources": [
     {
-     "name": "Submitted by the creator",
-     "url": "https://x.com/tavivideo"
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
     }
    ]
   },
   {
-   "name": "AI Product Video Creator",
-   "summary": "Make product video clips with Tavi from your photos and product details. Show what the product does and why someone would want it. Tavi uses credits, with a quote before spending. Grok usage is separate.",
+   "name": "clutch · live coach",
+   "summary": "A tap-driven sales coach for the minutes before, during, and right after your calls, plus buyer role play for your reps.",
+   "category": "customer-sales",
+   "cadence": "on-demand",
+   "risk": "high",
+   "access": [
+    "money"
+   ],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "josiahXXI",
+    "handle": "josiahXXI",
+    "url": "https://x.com/josiahXXI"
+   },
+   "add": "https://x.ai/bot/dlxokqZ4cLjnOzjX8VQln",
+   "page": "https://botsdots.site/templates/clutch-live-coach",
+   "firstSeen": "2026-11-04",
+   "score": 7,
+   "license": "CC0-1.0",
+   "sources": [
+    {
+     "name": "cs68614-hash/awesome-grokbot-templates",
+     "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+    },
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
+    }
+   ]
+  },
+  {
+   "name": "Comfy Atelier｜RunPod × ComfyUI 画像制作室",
+   "summary": "A RunPod and ComfyUI image studio you can drive from chat, phone included.",
+   "category": "content-publishing",
+   "cadence": "on-demand",
+   "risk": "medium",
+   "access": [
+    "docs"
+   ],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "meshi🎃",
+    "handle": "mehi689297161",
+    "url": "https://x.com/mehi689297161"
+   },
+   "add": "https://x.ai/bot/R4dHvcmzYjYLCmTxj_dUN",
+   "page": "https://botsdots.site/templates/comfy-atelierrunpod-comfyui",
+   "firstSeen": "2026-11-04",
+   "score": 4,
+   "license": "CC-BY-4.0",
+   "sources": [
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
+    }
+   ]
+  },
+  {
+   "name": "Compritas",
+   "summary": "Grocery run for Argentina: compares chains and PedidosYa, tracks promos.",
+   "category": "finance-ops",
+   "cadence": "monthly",
+   "risk": "high",
+   "access": [
+    "money"
+   ],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "Ulises Astrada",
+    "handle": "ulises_astrada",
+    "url": "https://x.com/ulises_astrada"
+   },
+   "add": "https://x.ai/bot/k60dFfF9mBDOEfXCnj19d",
+   "page": "https://botsdots.site/templates/compritas",
+   "firstSeen": "2026-11-04",
+   "score": 4,
+   "license": "CC-BY-4.0",
+   "sources": [
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
+    }
+   ]
+  },
+  {
+   "name": "Creator Analytics and Channel Optimizer",
+   "summary": "Reads your X, Shorts and TikTok numbers each morning and explains what broke out.",
+   "category": "finance-ops",
+   "cadence": "daily",
+   "risk": "low",
+   "access": [],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "beastnug",
+    "handle": "beastnug8",
+    "url": "https://x.com/beastnug8"
+   },
+   "add": "https://x.ai/bot/D6JBYApstxlASM1rhotGG",
+   "page": "https://botsdots.site/templates/creator-analytics-channel-optimizer",
+   "firstSeen": "2026-11-04",
+   "score": 5,
+   "license": "CC-BY-4.0",
+   "sources": [
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
+    }
+   ]
+  },
+  {
+   "name": "Creator Deal Scout",
+   "summary": "Finds paid sponsorship, ambassador and brand-deal openings for creators in the niches they choose.",
+   "category": "finance-ops",
+   "cadence": "on-demand",
+   "risk": "high",
+   "access": [
+    "publishing"
+   ],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "Ste",
+    "handle": "steferretto",
+    "url": "https://x.com/steferretto"
+   },
+   "add": "https://x.ai/bot/2NiK5JRICZnRK2NsXmhlj",
+   "page": "https://botsdots.site/templates/creator-deal-scout",
+   "firstSeen": "2026-11-04",
+   "score": 5,
+   "license": "CC-BY-4.0",
+   "sources": [
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
+    }
+   ]
+  },
+  {
+   "name": "Crypto Tax Assistant",
+   "summary": "A sweet, charming, playful assistant that logs on-chain activity for your wallets or smart contracts into a Google Sheet for tax time.",
+   "category": "finance-ops",
+   "cadence": "on-demand",
+   "risk": "high",
+   "access": [
+    "money"
+   ],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "MateriaWealth",
+    "handle": "MateriaWealth",
+    "url": "https://x.com/MateriaWealth"
+   },
+   "add": "https://x.ai/bot/YZ-9DQTxLsCgVt3zMUSbw",
+   "page": "https://botsdots.site/templates/crypto-tax-assistant",
+   "firstSeen": "2026-11-04",
+   "score": 3,
+   "license": "CC0-1.0",
+   "sources": [
+    {
+     "name": "cs68614-hash/awesome-grokbot-templates",
+     "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+    }
+   ]
+  },
+  {
+   "name": "Current SF 2026 Companion",
+   "summary": "Your conference companion for Current San Francisco 2026: finds your sessions, recommends talks for your interests.",
+   "category": "personal-admin",
+   "cadence": "on-demand",
+   "risk": "low",
+   "access": [],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "gAmUssA",
+    "handle": "gAmUssA",
+    "url": "https://x.com/gAmUssA"
+   },
+   "add": "https://x.ai/bot/UPpW_gQXJB6Puqhe6MxAB",
+   "page": "https://botsdots.site/templates/current-sf-2026-companion",
+   "firstSeen": "2026-11-04",
+   "score": 3,
+   "license": "CC0-1.0",
+   "sources": [
+    {
+     "name": "cs68614-hash/awesome-grokbot-templates",
+     "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+    }
+   ]
+  },
+  {
+   "name": "Daisy Disk",
+   "summary": "Scans your Mac's disk monthly with DaisyDisk and deletes only what you approve.",
+   "category": "personal-admin",
+   "cadence": "monthly",
+   "risk": "low",
+   "access": [],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "Abidal",
+    "handle": "abidalista",
+    "url": "https://x.com/abidalista"
+   },
+   "add": "https://x.ai/bot/JRb5oN7VLjhyQKMTYgqPB",
+   "page": "https://botsdots.site/templates/daisy-disk",
+   "firstSeen": "2026-11-04",
+   "score": 5,
+   "license": "CC-BY-4.0",
+   "sources": [
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
+    }
+   ]
+  },
+  {
+   "name": "DOGE Bot",
+   "summary": "DOGE Bot. Hold Government Accountable Bot. Before government spends your money, see who stands to make money.",
+   "category": "research-briefings",
+   "cadence": "on-demand",
+   "risk": "low",
+   "access": [],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "LibertarianLars",
+    "handle": "LibertarianLars",
+    "url": "https://x.com/LibertarianLars"
+   },
+   "add": "https://x.ai/bot/i4HDAyqDFzbHots7gQOFL",
+   "page": "https://botsdots.site/templates/doge-bot-i4hd",
+   "firstSeen": "2026-11-04",
+   "score": 3,
+   "license": "CC0-1.0",
+   "sources": [
+    {
+     "name": "cs68614-hash/awesome-grokbot-templates",
+     "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+    }
+   ]
+  },
+  {
+   "name": "Drive Docs Memory",
+   "summary": "Turns a messy Drive folder or pile of notes into a one-screen brief of what is current.",
+   "category": "teams-handoffs",
+   "cadence": "on-demand",
+   "risk": "medium",
+   "access": [
+    "docs"
+   ],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "Markus",
+    "handle": "SleepyCovfefe",
+    "url": "https://x.com/SleepyCovfefe"
+   },
+   "add": "https://x.ai/bot/tH467e0VuoKeME1YdDD_m",
+   "page": "https://botsdots.site/templates/drive-docs-memory",
+   "firstSeen": "2026-11-04",
+   "score": 5,
+   "license": "CC-BY-4.0",
+   "sources": [
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
+    }
+   ]
+  },
+  {
+   "name": "Early Bird",
+   "summary": "A weekly list of garage, yard, moving and estate sales near you, each a tap-to-map link.",
+   "category": "personal-admin",
+   "cadence": "weekly",
+   "risk": "low",
+   "access": [],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "Sevierly",
+    "handle": "SevierlyBlessed",
+    "url": "https://x.com/SevierlyBlessed"
+   },
+   "add": "https://x.ai/bot/DriACzupa3t63tnERfmxi",
+   "page": "https://botsdots.site/templates/early-bird",
+   "firstSeen": "2026-11-04",
+   "score": 5,
+   "license": "CC-BY-4.0",
+   "sources": [
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
+    }
+   ]
+  },
+  {
+   "name": "Efficiency OPS",
+   "summary": "Keeps your Grok Bot swarm lean: event-driven wakes, early exit on no change, short STATUS.md handoffs, file-based outputs, and one batched report.",
+   "category": "teams-handoffs",
+   "cadence": "on-demand",
+   "risk": "medium",
+   "access": [
+    "code"
+   ],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "Batchelor",
+    "handle": "Batchelor",
+    "url": "https://x.com/Batchelor"
+   },
+   "add": "https://x.ai/bot/nQcUZSE1DadGY6Fs1kJVS",
+   "page": "https://botsdots.site/templates/efficiency-ops",
+   "firstSeen": "2026-11-04",
+   "score": 7,
+   "license": "CC0-1.0",
+   "sources": [
+    {
+     "name": "cs68614-hash/awesome-grokbot-templates",
+     "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+    },
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
+    }
+   ]
+  },
+  {
+   "name": "Elf - Wish List Keeper",
+   "summary": "Keeps a holiday wish list and drafts the email to family, never buys.",
+   "category": "personal-admin",
+   "cadence": "on-demand",
+   "risk": "high",
+   "access": [
+    "inbox",
+    "money"
+   ],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "Ann Adamson",
+    "handle": "AnnDiegoUSA",
+    "url": "https://x.com/AnnDiegoUSA"
+   },
+   "add": "https://x.ai/bot/i25u2i5oHFy7WJX4SA9_K",
+   "page": "https://botsdots.site/templates/elf-wish-list-keeper",
+   "firstSeen": "2026-11-04",
+   "score": 4,
+   "license": "CC-BY-4.0",
+   "sources": [
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
+    }
+   ]
+  },
+  {
+   "name": "excalidraw",
+   "summary": "Turns a thread or set of notes into a hand-drawn Excalidraw infographic.",
    "category": "content-publishing",
    "cadence": "on-demand",
    "risk": "low",
@@ -279,25 +1389,929 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "tavivideo",
-    "handle": "tavivideo",
-    "url": "https://x.com/tavivideo"
+    "name": "abhinav",
+    "handle": "abhiontwt",
+    "url": "https://x.com/abhiontwt"
    },
-   "add": "https://x.ai/bot/Q_tM45RdKXZUj2XPdOOPm",
-   "page": "https://botsdots.site/templates/ai-product-video-creator-qtm45",
-   "firstSeen": "2026-11-02",
-   "score": 4,
-   "license": "submitted",
+   "add": "https://x.ai/bot/0fbwlVOul1M_GIyJX-kKQ",
+   "page": "https://botsdots.site/templates/excalidraw",
+   "firstSeen": "2026-11-04",
+   "score": 5,
+   "license": "CC-BY-4.0",
    "sources": [
     {
-     "name": "Submitted by the creator",
-     "url": "https://x.com/tavivideo"
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
+    }
+   ]
+  },
+  {
+   "name": "Facturador ARCA",
+   "summary": "Emite Factura C en ARCA por Web Services (WSAA + wsfev1), sin intermediarios.",
+   "category": "inbox-calendar",
+   "cadence": "on-demand",
+   "risk": "low",
+   "access": [],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "gabogabucho",
+    "handle": "gabogabucho",
+    "url": "https://x.com/gabogabucho"
+   },
+   "add": "https://x.ai/bot/ab3c3bE85kOXtNPiimSEJ",
+   "page": "https://botsdots.site/templates/facturador-arca",
+   "firstSeen": "2026-11-04",
+   "score": 3,
+   "license": "CC0-1.0",
+   "sources": [
+    {
+     "name": "cs68614-hash/awesome-grokbot-templates",
+     "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+    }
+   ]
+  },
+  {
+   "name": "FAFO Homestead Helper",
+   "summary": "A warm, step-by-step helper for women starting a homestead or small farm business.",
+   "category": "personal-admin",
+   "cadence": "on-demand",
+   "risk": "low",
+   "access": [],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "JenFlood17",
+    "handle": "JenFlood17",
+    "url": "https://x.com/JenFlood17"
+   },
+   "add": "https://x.ai/bot/deZ5MwQ-PJaPLAmi_LAY1",
+   "page": "https://botsdots.site/templates/fafo-homestead-helper",
+   "firstSeen": "2026-11-04",
+   "score": 3,
+   "license": "CC0-1.0",
+   "sources": [
+    {
+     "name": "cs68614-hash/awesome-grokbot-templates",
+     "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+    }
+   ]
+  },
+  {
+   "name": "Family Cyber Shield",
+   "summary": "Checks email for phishing and walks a family through DNS blocking, passkeys and two-factor setup.",
+   "category": "personal-admin",
+   "cadence": "on-demand",
+   "risk": "medium",
+   "access": [
+    "inbox"
+   ],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "Brian",
+    "handle": "Texas_Twins_Dad",
+    "url": "https://x.com/Texas_Twins_Dad"
+   },
+   "add": "https://x.ai/bot/PJS4c0UlEuodw7Uvsffjq",
+   "page": "https://botsdots.site/templates/family-cyber-shield",
+   "firstSeen": "2026-11-04",
+   "score": 5,
+   "license": "CC-BY-4.0",
+   "sources": [
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
+    }
+   ]
+  },
+  {
+   "name": "Family History Researcher",
+   "summary": "Builds a sourced family tree and settles conflicting records.",
+   "category": "research-briefings",
+   "cadence": "on-demand",
+   "risk": "low",
+   "access": [],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "Jacob Weaver",
+    "handle": "weaverwork",
+    "url": "https://x.com/weaverwork"
+   },
+   "add": "https://x.ai/bot/i3T6-VHjRdJqxzXo3xHyk",
+   "page": "https://botsdots.site/templates/family-history-researcher",
+   "firstSeen": "2026-11-04",
+   "score": 4,
+   "license": "CC-BY-4.0",
+   "sources": [
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
+    }
+   ]
+  },
+  {
+   "name": "Finanzas AR",
+   "summary": "Argentine market data with its source and timestamp, plus alerts.",
+   "category": "finance-ops",
+   "cadence": "on-demand",
+   "risk": "high",
+   "access": [
+    "money"
+   ],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "Fermin Rodriguez Penelas",
+    "handle": "ferminrp",
+    "url": "https://x.com/ferminrp"
+   },
+   "add": "https://x.ai/bot/G5DfaHdEfPksNTsc7FlPq",
+   "page": "https://botsdots.site/templates/finanzas-ar",
+   "firstSeen": "2026-11-04",
+   "score": 4,
+   "license": "CC-BY-4.0",
+   "sources": [
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
+    }
+   ]
+  },
+  {
+   "name": "Fine Print Collector",
+   "summary": "Finds the money stores, airlines and hotels already promised you in their fine print (price adjustments, late-delivery credits.",
+   "category": "finance-ops",
+   "cadence": "on-demand",
+   "risk": "low",
+   "access": [],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "YourQuietEdge",
+    "handle": "YourQuietEdge",
+    "url": "https://x.com/YourQuietEdge"
+   },
+   "add": "https://x.ai/bot/Y2F-nwlFyeoBQlQdvHP5e",
+   "page": "https://botsdots.site/templates/fine-print-collector",
+   "firstSeen": "2026-11-04",
+   "score": 7,
+   "license": "CC0-1.0",
+   "sources": [
+    {
+     "name": "cs68614-hash/awesome-grokbot-templates",
+     "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+    },
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
+    }
+   ]
+  },
+  {
+   "name": "Forge",
+   "summary": "Forge designs a new Grok Bot for any job you describe: a complete, ready-to-run spec in minutes, then creates the bot once you say yes.",
+   "category": "teams-handoffs",
+   "cadence": "on-demand",
+   "risk": "low",
+   "access": [],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "Elisa",
+    "handle": null,
+    "url": null
+   },
+   "add": "https://x.ai/bot/Bom43LJKAp5Q0Fz_UYZVE",
+   "page": "https://botsdots.site/templates/forge-bom4",
+   "firstSeen": "2026-11-04",
+   "score": 2,
+   "license": "facts-only",
+   "sources": [
+    {
+     "name": "Public x.ai share page",
+     "url": "https://x.ai"
+    }
+   ]
+  },
+  {
+   "name": "Franchise Opportunity Finder",
+   "summary": "Finds and vets franchise opportunities that fit your budget, location and time commitment.",
+   "category": "finance-ops",
+   "cadence": "on-demand",
+   "risk": "medium",
+   "access": [
+    "code"
+   ],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "Igor",
+    "handle": "igormajdov",
+    "url": "https://x.com/igormajdov"
+   },
+   "add": "https://x.ai/bot/BTt50YzAQhs_wpleTbRSh",
+   "page": "https://botsdots.site/templates/franchise-opportunity-finder",
+   "firstSeen": "2026-11-04",
+   "score": 5,
+   "license": "CC-BY-4.0",
+   "sources": [
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
+    }
+   ]
+  },
+  {
+   "name": "Freebot",
+   "summary": "Moves your whole Grok Bot setup (every bot, its memory, how-tos, and routines) into Turnstone.",
+   "category": "teams-handoffs",
+   "cadence": "on-demand",
+   "risk": "low",
+   "access": [],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "grok",
+    "handle": "grok",
+    "url": "https://x.com/grok"
+   },
+   "add": "https://x.ai/bot/mrEaEhbIahB380oYB8N19",
+   "page": "https://botsdots.site/templates/freebot",
+   "firstSeen": "2026-11-04",
+   "score": 3,
+   "license": "CC0-1.0",
+   "sources": [
+    {
+     "name": "cs68614-hash/awesome-grokbot-templates",
+     "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+    }
+   ]
+  },
+  {
+   "name": "Game of Life",
+   "summary": "Turns your life story into a retro Sierra-style adventure game with a snarky narrator.",
+   "category": "content-publishing",
+   "cadence": "on-demand",
+   "risk": "medium",
+   "access": [
+    "browser"
+   ],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "Daniel",
+    "handle": "ziggyfro",
+    "url": "https://x.com/ziggyfro"
+   },
+   "add": "https://x.ai/bot/UsGYY-MNcyVTQiSLoA9mV",
+   "page": "https://botsdots.site/templates/game-of-life",
+   "firstSeen": "2026-11-04",
+   "score": 5,
+   "license": "CC-BY-4.0",
+   "sources": [
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
+    }
+   ]
+  },
+  {
+   "name": "Genealogist",
+   "summary": "Family-history research that starts from primary sources and grades every finding with a confidence level.",
+   "category": "research-briefings",
+   "cadence": "on-demand",
+   "risk": "low",
+   "access": [],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "Radu",
+    "handle": "radurosunow",
+    "url": "https://x.com/radurosunow"
+   },
+   "add": "https://x.ai/bot/d7V7uN9P2Ghzl2FPhX7VZ",
+   "page": "https://botsdots.site/templates/genealogist",
+   "firstSeen": "2026-11-04",
+   "score": 5,
+   "license": "CC-BY-4.0",
+   "sources": [
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
+    }
+   ]
+  },
+  {
+   "name": "Genealogist Bot",
+   "summary": "Your personal family historian. It traces your ancestors as far back as records go using free archives, sources and grades every fact.",
+   "category": "personal-admin",
+   "cadence": "on-demand",
+   "risk": "low",
+   "access": [],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "mikeyerke",
+    "handle": "mikeyerke",
+    "url": "https://x.com/mikeyerke"
+   },
+   "add": "https://x.ai/bot/XPAutriAEFfiu9jxqQN7k",
+   "page": "https://botsdots.site/templates/genealogist-bot",
+   "firstSeen": "2026-11-04",
+   "score": 3,
+   "license": "CC0-1.0",
+   "sources": [
+    {
+     "name": "cs68614-hash/awesome-grokbot-templates",
+     "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+    }
+   ]
+  },
+  {
+   "name": "GenealogyBot",
+   "summary": "A careful family-history researcher that builds your tree back generation by generation.",
+   "category": "personal-admin",
+   "cadence": "on-demand",
+   "risk": "low",
+   "access": [],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "scottcjordan",
+    "handle": "scottcjordan",
+    "url": "https://x.com/scottcjordan"
+   },
+   "add": "https://x.ai/bot/j6tQoM_OsdYKrG6mfttN_",
+   "page": "https://botsdots.site/templates/genealogybot",
+   "firstSeen": "2026-11-04",
+   "score": 6,
+   "license": "CC0-1.0",
+   "sources": [
+    {
+     "name": "cs68614-hash/awesome-grokbot-templates",
+     "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+    },
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
+    }
+   ]
+  },
+  {
+   "name": "Gift Card Sweeper",
+   "summary": "Finds forgotten gift cards, store credit, rewards points and travel credits in your email, tracks them in one ledger.",
+   "category": "finance-ops",
+   "cadence": "on-demand",
+   "risk": "medium",
+   "access": [
+    "inbox"
+   ],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "AndysChiefOS",
+    "handle": "AndysChiefOS",
+    "url": "https://x.com/AndysChiefOS"
+   },
+   "add": "https://x.ai/bot/LdPRToZ8D6kp4e5Rk-JnL",
+   "page": "https://botsdots.site/templates/gift-card-sweeper",
+   "firstSeen": "2026-11-04",
+   "score": 7,
+   "license": "CC0-1.0",
+   "sources": [
+    {
+     "name": "cs68614-hash/awesome-grokbot-templates",
+     "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+    },
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
+    }
+   ]
+  },
+  {
+   "name": "gmi",
+   "summary": "Your production studio on GMI Cloud: makes images, video, voiceovers, and music, answers GMI questions, and reports balance and spend.",
+   "category": "content-publishing",
+   "cadence": "on-demand",
+   "risk": "medium",
+   "access": [
+    "code"
+   ],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "weeb3dev",
+    "handle": "weeb3dev",
+    "url": "https://x.com/weeb3dev"
+   },
+   "add": "https://x.ai/bot/5IFu9DKwavLtu18sinCSv",
+   "page": "https://botsdots.site/templates/gmi",
+   "firstSeen": "2026-11-04",
+   "score": 3,
+   "license": "CC0-1.0",
+   "sources": [
+    {
+     "name": "cs68614-hash/awesome-grokbot-templates",
+     "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+    }
+   ]
+  },
+  {
+   "name": "Graveyard Shift",
+   "summary": "Watches all your side projects: what's down, what renews soon, what costs money for nothing. Keep, pause, kill or sell?",
+   "category": "finance-ops",
+   "cadence": "on-demand",
+   "risk": "low",
+   "access": [],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "TonkaToyXL",
+    "handle": "TonkaToyXL",
+    "url": "https://x.com/TonkaToyXL"
+   },
+   "add": "https://x.ai/bot/FiGaCx_wiFaAD0OnAC0-G",
+   "page": "https://botsdots.site/templates/graveyard-shift",
+   "firstSeen": "2026-11-04",
+   "score": 3,
+   "license": "CC0-1.0",
+   "sources": [
+    {
+     "name": "cs68614-hash/awesome-grokbot-templates",
+     "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+    }
+   ]
+  },
+  {
+   "name": "Grok Bot Updates",
+   "summary": "Follows what's new in Grok Bot and turns each update into concrete ideas for your businesses and your other bots.",
+   "category": "research-briefings",
+   "cadence": "on-demand",
+   "risk": "low",
+   "access": [],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "michaelokeje",
+    "handle": "michaelokeje",
+    "url": "https://x.com/michaelokeje"
+   },
+   "add": "https://x.ai/bot/-HaPVRV7W2o9yTtoOUAz-",
+   "page": "https://botsdots.site/templates/grok-bot-updates",
+   "firstSeen": "2026-11-04",
+   "score": 3,
+   "license": "CC0-1.0",
+   "sources": [
+    {
+     "name": "cs68614-hash/awesome-grokbot-templates",
+     "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+    }
+   ]
+  },
+  {
+   "name": "Grok Bot Usage Saver",
+   "summary": "Reviews your Grok Bot usage every week and sends a short summary of which bots and routines use the most, how it's trending.",
+   "category": "teams-handoffs",
+   "cadence": "weekly",
+   "risk": "low",
+   "access": [],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "themarlonroldan",
+    "handle": "themarlonroldan",
+    "url": "https://x.com/themarlonroldan"
+   },
+   "add": "https://x.ai/bot/llD0kPfRGl2c_Skf16N2K",
+   "page": "https://botsdots.site/templates/grok-bot-usage-saver",
+   "firstSeen": "2026-11-04",
+   "score": 6,
+   "license": "CC0-1.0",
+   "sources": [
+    {
+     "name": "cs68614-hash/awesome-grokbot-templates",
+     "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+    },
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
+    }
+   ]
+  },
+  {
+   "name": "Grokrarian",
+   "summary": "A file librarian for Dropbox, Drive and local folders that files new documents where they belong.",
+   "category": "teams-handoffs",
+   "cadence": "on-demand",
+   "risk": "medium",
+   "access": [
+    "docs"
+   ],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "Joe",
+    "handle": "GSxKineticKnif",
+    "url": "https://x.com/GSxKineticKnif"
+   },
+   "add": "https://x.ai/bot/XDBiKMxqQRXLFf1JlPQyP",
+   "page": "https://botsdots.site/templates/grokrarian",
+   "firstSeen": "2026-11-04",
+   "score": 5,
+   "license": "CC-BY-4.0",
+   "sources": [
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
+    }
+   ]
+  },
+  {
+   "name": "Grove Home",
+   "summary": "Home coach for gardening, cooking and beginner outdoor skills.",
+   "category": "personal-admin",
+   "cadence": "on-demand",
+   "risk": "low",
+   "access": [],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "Wizard",
+    "handle": "WizardKQ",
+    "url": "https://x.com/WizardKQ"
+   },
+   "add": "https://x.ai/bot/02FJDWSaBGXio6ocuJRG2",
+   "page": "https://botsdots.site/templates/grove-home",
+   "firstSeen": "2026-11-04",
+   "score": 4,
+   "license": "CC-BY-4.0",
+   "sources": [
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
+    }
+   ]
+  },
+  {
+   "name": "H. Andy Mann",
+   "summary": "Home repair coach: photo in, safety check, plan, parts list.",
+   "category": "personal-admin",
+   "cadence": "on-demand",
+   "risk": "low",
+   "access": [],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "John Patchett",
+    "handle": null,
+    "url": null
+   },
+   "add": "https://x.ai/bot/1YpGuTxLMzv18Y2D_yQFT",
+   "page": "https://botsdots.site/templates/h-andy-mann",
+   "firstSeen": "2026-11-04",
+   "score": 3,
+   "license": "CC-BY-4.0",
+   "sources": [
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
+    }
+   ]
+  },
+  {
+   "name": "High Website Secretary",
+   "summary": "A website secretary for business owners: answers site chat (you can take over anytime), numbers orders and sends receipts, marks sold-out items…",
+   "category": "personal-admin",
+   "cadence": "on-demand",
+   "risk": "medium",
+   "access": [
+    "browser"
+   ],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "High",
+    "handle": null,
+    "url": null
+   },
+   "add": "https://x.ai/bot/LtJhUnD70XELBwSntpqif",
+   "page": "https://botsdots.site/templates/high-website-secretary",
+   "firstSeen": "2026-11-04",
+   "score": 2,
+   "license": "facts-only",
+   "sources": [
+    {
+     "name": "Public x.ai share page",
+     "url": "https://x.ai"
+    }
+   ]
+  },
+  {
+   "name": "Inbox Bot",
+   "summary": "Sorts your inbox into reply, delegate, and ignore, and drafts short answers for you to approve.",
+   "category": "inbox-calendar",
+   "cadence": "on-demand",
+   "risk": "medium",
+   "access": [
+    "inbox"
+   ],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "Miguel",
+    "handle": null,
+    "url": null
+   },
+   "add": "https://x.ai/bot/ZL8ptFUtOeRHVd3EXdNBP",
+   "page": "https://botsdots.site/templates/inbox-bot-zl8p",
+   "firstSeen": "2026-11-04",
+   "score": 2,
+   "license": "facts-only",
+   "sources": [
+    {
+     "name": "Public x.ai share page",
+     "url": "https://x.ai"
+    }
+   ]
+  },
+  {
+   "name": "IT Director",
+   "summary": "Maintains the tools on your bot computer: installs, updates, disk use and sign-in health.",
+   "category": "coding-shipping",
+   "cadence": "on-demand",
+   "risk": "medium",
+   "access": [
+    "browser"
+   ],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "Joe",
+    "handle": "GSxKineticKnif",
+    "url": "https://x.com/GSxKineticKnif"
+   },
+   "add": "https://x.ai/bot/NxzDg726Ms_4Py8nKXlNC",
+   "page": "https://botsdots.site/templates/it-director",
+   "firstSeen": "2026-11-04",
+   "score": 5,
+   "license": "CC-BY-4.0",
+   "sources": [
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
+    }
+   ]
+  },
+  {
+   "name": "Jim – Life Reset Mentor",
+   "summary": "A personal mentor built on Jim Rohn's philosophy and Dan Koe's 'fix your entire life in 1 day' protocol.",
+   "category": "personal-admin",
+   "cadence": "on-demand",
+   "risk": "low",
+   "access": [],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "skan_io",
+    "handle": "skan_io",
+    "url": "https://x.com/skan_io"
+   },
+   "add": "https://x.ai/bot/r_CMgXVxSBRKhogVE42c6",
+   "page": "https://botsdots.site/templates/jim-life-reset-mentor",
+   "firstSeen": "2026-11-04",
+   "score": 3,
+   "license": "CC0-1.0",
+   "sources": [
+    {
+     "name": "cs68614-hash/awesome-grokbot-templates",
+     "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+    }
+   ]
+  },
+  {
+   "name": "Jordan Hunter",
+   "summary": "Tracks Nike Air Jordan releases and alerts you on drop mornings with price and stock.",
+   "category": "personal-admin",
+   "cadence": "on-demand",
+   "risk": "high",
+   "access": [
+    "money"
+   ],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "TeslaAiGirl",
+    "handle": "TeslaAiGirl",
+    "url": "https://x.com/TeslaAiGirl"
+   },
+   "add": "https://x.ai/bot/Gc31PBNpuJqslvJpB7jkr",
+   "page": "https://botsdots.site/templates/jordan-hunter",
+   "firstSeen": "2026-11-04",
+   "score": 5,
+   "license": "CC-BY-4.0",
+   "sources": [
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
+    }
+   ]
+  },
+  {
+   "name": "Kids Lifting Coach",
+   "summary": "A friendly strength coach that gets your kids started lifting at home: a safe 12-week plan built around your equipment.",
+   "category": "personal-admin",
+   "cadence": "on-demand",
+   "risk": "low",
+   "access": [],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "jrd_cincy",
+    "handle": "jrd_cincy",
+    "url": "https://x.com/jrd_cincy"
+   },
+   "add": "https://x.ai/bot/42pcFjka9AoN9reS0SQ49",
+   "page": "https://botsdots.site/templates/kids-lifting-coach",
+   "firstSeen": "2026-11-04",
+   "score": 3,
+   "license": "CC0-1.0",
+   "sources": [
+    {
+     "name": "cs68614-hash/awesome-grokbot-templates",
+     "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+    }
+   ]
+  },
+  {
+   "name": "Lean Grok Bot",
+   "summary": "An everyday assistant that does the work while making your weekly usage last.",
+   "category": "teams-handoffs",
+   "cadence": "weekly",
+   "risk": "low",
+   "access": [],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "Candace",
+    "handle": "Candace_XSI",
+    "url": "https://x.com/Candace_XSI"
+   },
+   "add": "https://x.ai/bot/SncRycR1Bm0WN94th_goY",
+   "page": "https://botsdots.site/templates/lean-grok-bot",
+   "firstSeen": "2026-11-04",
+   "score": 5,
+   "license": "CC-BY-4.0",
+   "sources": [
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
+    }
+   ]
+  },
+  {
+   "name": "Maestro",
+   "summary": "I build playlists on Apple Music, Spotify, Tidal, Amazon Music, YouTube Music, and Pandora. Just give me list size and genre and I take it from there.",
+   "category": "content-publishing",
+   "cadence": "on-demand",
+   "risk": "low",
+   "access": [],
+   "integrations": [
+    "youtube"
+   ],
+   "official": false,
+   "creator": {
+    "name": "bauminater",
+    "handle": "bauminater",
+    "url": "https://x.com/bauminater"
+   },
+   "add": "https://x.ai/bot/NJiwSSjtnZ_uaUer8oSkt",
+   "page": "https://botsdots.site/templates/maestro-njiw",
+   "firstSeen": "2026-11-04",
+   "score": 3,
+   "license": "CC0-1.0",
+   "sources": [
+    {
+     "name": "cs68614-hash/awesome-grokbot-templates",
+     "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+    }
+   ]
+  },
+  {
+   "name": "Majin",
+   "summary": "A hands-on Shopify store operator.",
+   "category": "customer-sales",
+   "cadence": "on-demand",
+   "risk": "high",
+   "access": [
+    "money"
+   ],
+   "integrations": [
+    "shopify"
+   ],
+   "official": false,
+   "creator": {
+    "name": "Mister",
+    "handle": null,
+    "url": null
+   },
+   "add": "https://x.ai/bot/RqFOoejYTc5IxCR6rk0zS",
+   "page": "https://botsdots.site/templates/majin",
+   "firstSeen": "2026-11-04",
+   "score": 3,
+   "license": "facts-only",
+   "sources": [
+    {
+     "name": "Public x.ai share page",
+     "url": "https://x.ai"
+    }
+   ]
+  },
+  {
+   "name": "Media Kit",
+   "summary": "Your file and media helper. Send any picture, video, audio, PDF or document (or a link) and say what you want: convert, remove the background.",
+   "category": "content-publishing",
+   "cadence": "on-demand",
+   "risk": "high",
+   "access": [
+    "destructive"
+   ],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "shahrulestar",
+    "handle": "shahrulestar",
+    "url": "https://x.com/shahrulestar"
+   },
+   "add": "https://x.ai/bot/ocYXtRqCo1Z3at7hDvWR8",
+   "page": "https://botsdots.site/templates/media-kit",
+   "firstSeen": "2026-11-04",
+   "score": 7,
+   "license": "CC0-1.0",
+   "sources": [
+    {
+     "name": "cs68614-hash/awesome-grokbot-templates",
+     "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+    },
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
     }
    ]
   },
   {
    "name": "Menivor Launch Reels",
-   "summary": "Turns an X launch post or product link into 3 captioned, voiced vertical reels with different hooks.",
+   "summary": "Turns your X launch post or product link into three captioned, voiced vertical reels with different hooks, using Grok Bot's read-only X tools…",
+   "category": "content-publishing",
+   "cadence": "on-demand",
+   "risk": "low",
+   "access": [],
+   "integrations": [],
+   "official": false,
+   "creator": null,
+   "add": "https://x.ai/bot/1FQ2RDMVm7_a37Hi_gopk",
+   "page": "https://botsdots.site/templates/menivor-launch-reels",
+   "firstSeen": "2026-11-04",
+   "score": 2,
+   "license": "facts-only",
+   "sources": [
+    {
+     "name": "Public x.ai share page",
+     "url": "https://x.ai"
+    }
+   ]
+  },
+  {
+   "name": "Morning Market Brief",
+   "summary": "Sends a daily morning brief covering your stock watchlist, markets, and the newsletters and channels you follow.",
+   "category": "finance-ops",
+   "cadence": "daily",
+   "risk": "low",
+   "access": [],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "davideverist350",
+    "handle": "davideverist350",
+    "url": "https://x.com/davideverist350"
+   },
+   "add": "https://x.ai/bot/bDtC23xInV7JQzWmLOR95",
+   "page": "https://botsdots.site/templates/morning-market-brief",
+   "firstSeen": "2026-11-04",
+   "score": 3,
+   "license": "CC0-1.0",
+   "sources": [
+    {
+     "name": "cs68614-hash/awesome-grokbot-templates",
+     "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+    }
+   ]
+  },
+  {
+   "name": "NFT Art Bot",
+   "summary": "Makes custom NFT fan art.",
    "category": "content-publishing",
    "cadence": "on-demand",
    "risk": "low",
@@ -305,26 +2319,1679 @@
    "integrations": [],
    "official": false,
    "creator": {
-    "name": "caelum0x42",
-    "handle": "caelum0x42",
-    "url": "https://x.com/caelum0x42"
+    "name": "UlrichNeujahr",
+    "handle": "UlrichNeujahr",
+    "url": "https://x.com/UlrichNeujahr"
    },
-   "add": "https://x.ai/bot/1FQ2RDMVm7_a37Hi_gopk",
-   "page": "https://botsdots.site/templates/menivor-launch-reels-1fq2r",
-   "firstSeen": "2026-11-01",
-   "score": 4,
-   "license": "submitted",
+   "add": "https://x.ai/bot/OwB7-1LWZIQ9smmqtfwOv",
+   "page": "https://botsdots.site/templates/doginal-dog-art-bot",
+   "firstSeen": "2026-11-04",
+   "score": 7,
+   "license": "CC0-1.0",
    "sources": [
     {
-     "name": "Submitted by the creator",
-     "url": "https://x.com/caelum0x42"
+     "name": "cs68614-hash/awesome-grokbot-templates",
+     "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+    },
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
+    }
+   ]
+  },
+  {
+   "name": "Office View",
+   "summary": "Shows your whole bot fleet as a tap-through office building, floor by floor.",
+   "category": "teams-handoffs",
+   "cadence": "on-demand",
+   "risk": "low",
+   "access": [],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "G",
+    "handle": "daddycross",
+    "url": "https://x.com/daddycross"
+   },
+   "add": "https://x.ai/bot/ONO7BjX08iDAW7Xx-A1QH",
+   "page": "https://botsdots.site/templates/office-view",
+   "firstSeen": "2026-11-04",
+   "score": 5,
+   "license": "CC-BY-4.0",
+   "sources": [
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
+    }
+   ]
+  },
+  {
+   "name": "Old Geezer",
+   "summary": "A COBOL and legacy-systems mentor that compiles your code on GnuCOBOL while explaining it.",
+   "category": "coding-shipping",
+   "cadence": "on-demand",
+   "risk": "medium",
+   "access": [
+    "code"
+   ],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "Joe",
+    "handle": "joehansen",
+    "url": "https://x.com/joehansen"
+   },
+   "add": "https://x.ai/bot/F-4s76NAGSWCyUqiHe8ZA",
+   "page": "https://botsdots.site/templates/old-geezer",
+   "firstSeen": "2026-11-04",
+   "score": 5,
+   "license": "CC-BY-4.0",
+   "sources": [
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
+    }
+   ]
+  },
+  {
+   "name": "Open Enrollment Advisor",
+   "summary": "Picks a household's open-enrollment benefits at the lowest expected after-tax cost.",
+   "category": "finance-ops",
+   "cadence": "on-demand",
+   "risk": "low",
+   "access": [],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "Ayn",
+    "handle": "GeorgAdrian1",
+    "url": "https://x.com/GeorgAdrian1"
+   },
+   "add": "https://x.ai/bot/6weZGRVyB_EKSREnFX38O",
+   "page": "https://botsdots.site/templates/open-enrollment-advisor",
+   "firstSeen": "2026-11-04",
+   "score": 5,
+   "license": "CC-BY-4.0",
+   "sources": [
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
+    }
+   ]
+  },
+  {
+   "name": "Ops Lead",
+   "summary": "Builds and sells digital products, drafts the promotion, and keeps a strict money ledger.",
+   "category": "finance-ops",
+   "cadence": "on-demand",
+   "risk": "low",
+   "access": [],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "Chill4life94",
+    "handle": "chill4life94",
+    "url": "https://x.com/chill4life94"
+   },
+   "add": "https://x.ai/bot/HYoqEfgFRFykhQN0pC85_",
+   "page": "https://botsdots.site/templates/ops-lead",
+   "firstSeen": "2026-11-04",
+   "score": 5,
+   "license": "CC-BY-4.0",
+   "sources": [
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
+    }
+   ]
+  },
+  {
+   "name": "Pastor Assistant Bot",
+   "summary": "A warm, plain-spoken ministry assistant for pastors: sermon outlines, a weekly digital bulletin, a visitor welcome page with Bible studies.",
+   "category": "customer-sales",
+   "cadence": "weekly",
+   "risk": "low",
+   "access": [],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "SoonerWire",
+    "handle": "SoonerWire",
+    "url": "https://x.com/SoonerWire"
+   },
+   "add": "https://x.ai/bot/tUcwd-OGOdzdl5JiRNRLN",
+   "page": "https://botsdots.site/templates/pastor-assistant-bot",
+   "firstSeen": "2026-11-04",
+   "score": 3,
+   "license": "CC0-1.0",
+   "sources": [
+    {
+     "name": "cs68614-hash/awesome-grokbot-templates",
+     "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+    }
+   ]
+  },
+  {
+   "name": "PC Voice Control Assistant",
+   "summary": "A wake-word voice assistant that lets you control your Windows PC by voice, even from bed.",
+   "category": "personal-admin",
+   "cadence": "on-demand",
+   "risk": "low",
+   "access": [],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "ZGMF_X31S",
+    "handle": "ZGMF_X31S",
+    "url": "https://x.com/ZGMF_X31S"
+   },
+   "add": "https://x.ai/bot/XTcXcyZErWRrEcB0LdPrz",
+   "page": "https://botsdots.site/templates/pc-voice-control-assistant",
+   "firstSeen": "2026-11-04",
+   "score": 3,
+   "license": "CC0-1.0",
+   "sources": [
+    {
+     "name": "cs68614-hash/awesome-grokbot-templates",
+     "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+    }
+   ]
+  },
+  {
+   "name": "Penny",
+   "summary": "Edits and rewrites your drafts, emails, posts, and pages so they read like a person wrote them.",
+   "category": "content-publishing",
+   "cadence": "on-demand",
+   "risk": "low",
+   "access": [],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "KGtheGent88",
+    "handle": "KGtheGent88",
+    "url": "https://x.com/KGtheGent88"
+   },
+   "add": "https://x.ai/bot/Rspkl49IjkacoAbMMfZyw",
+   "page": "https://botsdots.site/templates/penny-rspk",
+   "firstSeen": "2026-11-04",
+   "score": 3,
+   "license": "CC0-1.0",
+   "sources": [
+    {
+     "name": "cs68614-hash/awesome-grokbot-templates",
+     "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+    }
+   ]
+  },
+  {
+   "name": "Pet Care Coach",
+   "summary": "Daily care, training and triage guidance for any companion animal.",
+   "category": "personal-admin",
+   "cadence": "daily",
+   "risk": "low",
+   "access": [],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "Jay",
+    "handle": "ptyfly4aputiguy",
+    "url": "https://x.com/ptyfly4aputiguy"
+   },
+   "add": "https://x.ai/bot/asCQGL9hoPmnlmw4EzjnS",
+   "page": "https://botsdots.site/templates/pet-care-coach",
+   "firstSeen": "2026-11-04",
+   "score": 5,
+   "license": "CC-BY-4.0",
+   "sources": [
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
+    }
+   ]
+  },
+  {
+   "name": "Polysmith",
+   "summary": "Turns real objects into low-poly, flat-colour 3D models at true scale.",
+   "category": "content-publishing",
+   "cadence": "on-demand",
+   "risk": "low",
+   "access": [],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "Virtus",
+    "handle": "VirtusT",
+    "url": "https://x.com/VirtusT"
+   },
+   "add": "https://x.ai/bot/DdyFUA0AWVNXg1oGAjsoq",
+   "page": "https://botsdots.site/templates/polysmith",
+   "firstSeen": "2026-11-04",
+   "score": 5,
+   "license": "CC-BY-4.0",
+   "sources": [
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
+    }
+   ]
+  },
+  {
+   "name": "Price Hawk",
+   "summary": "Only real deals that meet your rules, no spam. Price Hawk checks your watch list daily and pings you only when something new hits your price.",
+   "category": "finance-ops",
+   "cadence": "daily",
+   "risk": "low",
+   "access": [],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "Campdirtybird",
+    "handle": "Campdirtybird",
+    "url": "https://x.com/Campdirtybird"
+   },
+   "add": "https://x.ai/bot/EEdDidugNLswL8k2hhGZl",
+   "page": "https://botsdots.site/templates/price-hawk",
+   "firstSeen": "2026-11-04",
+   "score": 3,
+   "license": "CC0-1.0",
+   "sources": [
+    {
+     "name": "cs68614-hash/awesome-grokbot-templates",
+     "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+    }
+   ]
+  },
+  {
+   "name": "Prompt Lab",
+   "summary": "Writes coding prompts you paste into several AI models to compare how well each one builds something visual in code (Three.js, canvas, SVG.",
+   "category": "coding-shipping",
+   "cadence": "on-demand",
+   "risk": "low",
+   "access": [],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "wikiwayne",
+    "handle": "wikiwayne",
+    "url": "https://x.com/wikiwayne"
+   },
+   "add": "https://x.ai/bot/NN5pqHjmr-wC-vJ9d27EG",
+   "page": "https://botsdots.site/templates/prompt-lab",
+   "firstSeen": "2026-11-04",
+   "score": 6,
+   "license": "CC0-1.0",
+   "sources": [
+    {
+     "name": "cs68614-hash/awesome-grokbot-templates",
+     "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+    },
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
+    }
+   ]
+  },
+  {
+   "name": "Put Her in the Dress",
+   "summary": "Send a portrait of an adult woman plus garment photos, name an event and place, and get a photorealistic image of her wearing the outfit there…",
+   "category": "personal-admin",
+   "cadence": "on-demand",
+   "risk": "low",
+   "access": [],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "Georg",
+    "handle": null,
+    "url": null
+   },
+   "add": "https://x.ai/bot/kGJKMbg0kymJt0dj6Hshk",
+   "page": "https://botsdots.site/templates/put-her-in-the-dress",
+   "firstSeen": "2026-11-04",
+   "score": 2,
+   "license": "facts-only",
+   "sources": [
+    {
+     "name": "Public x.ai share page",
+     "url": "https://x.ai"
+    }
+   ]
+  },
+  {
+   "name": "Ready",
+   "summary": "Ready Map comes first: a free GPS map that shows your location and live temperature when it opens, weather for any town.",
+   "category": "personal-admin",
+   "cadence": "on-demand",
+   "risk": "low",
+   "access": [],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "xrayzone",
+    "handle": "xrayzone",
+    "url": "https://x.com/xrayzone"
+   },
+   "add": "https://x.ai/bot/HisgKxaoXrRoD5PbEB_RF",
+   "page": "https://botsdots.site/templates/ready",
+   "firstSeen": "2026-11-04",
+   "score": 3,
+   "license": "CC0-1.0",
+   "sources": [
+    {
+     "name": "cs68614-hash/awesome-grokbot-templates",
+     "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+    }
+   ]
+  },
+  {
+   "name": "Release Manager for Artists and Labels",
+   "summary": "Runs a release end to end for independent artists and small labels on any distributor.",
+   "category": "content-publishing",
+   "cadence": "on-demand",
+   "risk": "low",
+   "access": [],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "Kenn",
+    "handle": "KennColt",
+    "url": "https://x.com/KennColt"
+   },
+   "add": "https://x.ai/bot/U3KT_LA7TogzGxgyKbuSm",
+   "page": "https://botsdots.site/templates/release-manager-for-artists-labels",
+   "firstSeen": "2026-11-04",
+   "score": 5,
+   "license": "CC-BY-4.0",
+   "sources": [
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
+    }
+   ]
+  },
+  {
+   "name": "Revenue Rex",
+   "summary": "Revenue Rex, a Grok Bot by paulvibe.com: your marketing team in one bot for indie hackers and SaaS builders.",
+   "category": "finance-ops",
+   "cadence": "on-demand",
+   "risk": "low",
+   "access": [],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "0xPaulvibe",
+    "handle": "0xPaulvibe",
+    "url": "https://x.com/0xPaulvibe"
+   },
+   "add": "https://x.ai/bot/1OnUg1oZyw2c49tpKkez9",
+   "page": "https://botsdots.site/templates/revenue-rex",
+   "firstSeen": "2026-11-04",
+   "score": 3,
+   "license": "CC0-1.0",
+   "sources": [
+    {
+     "name": "cs68614-hash/awesome-grokbot-templates",
+     "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+    }
+   ]
+  },
+  {
+   "name": "Reverse Swarm",
+   "summary": "Leads a six-bot team that reverse-engineers a site, app or API into a working rebuild brief.",
+   "category": "coding-shipping",
+   "cadence": "on-demand",
+   "risk": "low",
+   "access": [],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "monokern",
+    "handle": "monokern",
+    "url": "https://x.com/monokern"
+   },
+   "add": "https://x.ai/bot/37CyJgvzKh_NXuILPl0bC",
+   "page": "https://botsdots.site/templates/reverse-swarm",
+   "firstSeen": "2026-11-04",
+   "score": 5,
+   "license": "CC-BY-4.0",
+   "sources": [
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
+    }
+   ]
+  },
+  {
+   "name": "Routine Slimmer",
+   "summary": "Cuts your Grok Bot usage by moving routines that don't need AI into n8n workflows, while keeping the ones that need judgment.",
+   "category": "teams-handoffs",
+   "cadence": "on-demand",
+   "risk": "low",
+   "access": [],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "RobertMerkel_",
+    "handle": "RobertMerkel_",
+    "url": "https://x.com/RobertMerkel_"
+   },
+   "add": "https://x.ai/bot/vAbvc0ys9gwEUg2w0cVzI",
+   "page": "https://botsdots.site/templates/routine-slimmer",
+   "firstSeen": "2026-11-04",
+   "score": 3,
+   "license": "CC0-1.0",
+   "sources": [
+    {
+     "name": "cs68614-hash/awesome-grokbot-templates",
+     "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+    }
+   ]
+  },
+  {
+   "name": "Routinizer",
+   "summary": "Finds work your bots redo from scratch and moves it into scripts that wake the model only on change.",
+   "category": "coding-shipping",
+   "cadence": "daily",
+   "risk": "low",
+   "access": [],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "Ivan",
+    "handle": "0ooooo0",
+    "url": "https://x.com/0ooooo0"
+   },
+   "add": "https://x.ai/bot/QIxjmlkTZr7SJbS599gWe",
+   "page": "https://botsdots.site/templates/routinizer",
+   "firstSeen": "2026-11-04",
+   "score": 5,
+   "license": "CC-BY-4.0",
+   "sources": [
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
+    }
+   ]
+  },
+  {
+   "name": "RV Repair Helper",
+   "summary": "Diagnoses RV problems step by step, safety first, for owners already on the road.",
+   "category": "personal-admin",
+   "cadence": "on-demand",
+   "risk": "low",
+   "access": [],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "Scott",
+    "handle": "SkippyyTM",
+    "url": "https://x.com/SkippyyTM"
+   },
+   "add": "https://x.ai/bot/t7A4vRqH1eTKbNAaOpx9X",
+   "page": "https://botsdots.site/templates/rv-repair-helper",
+   "firstSeen": "2026-11-04",
+   "score": 5,
+   "license": "CC-BY-4.0",
+   "sources": [
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
+    }
+   ]
+  },
+  {
+   "name": "Safeway",
+   "summary": "Clips your Safeway for U coupons on the things you actually buy.",
+   "category": "personal-admin",
+   "cadence": "on-demand",
+   "risk": "high",
+   "access": [
+    "money"
+   ],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "jrd_cincy",
+    "handle": "jrd_cincy",
+    "url": "https://x.com/jrd_cincy"
+   },
+   "add": "https://x.ai/bot/DjjuCiefk-gCfACqogjas",
+   "page": "https://botsdots.site/templates/safeway",
+   "firstSeen": "2026-11-04",
+   "score": 3,
+   "license": "CC0-1.0",
+   "sources": [
+    {
+     "name": "cs68614-hash/awesome-grokbot-templates",
+     "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+    }
+   ]
+  },
+  {
+   "name": "Sassy Bot",
+   "summary": "Your smart, sassy wing woman on X: she loves numbers, grows your following with funny posts and helpful replies, and keeps the creeps away 💅🍷",
+   "category": "content-publishing",
+   "cadence": "on-demand",
+   "risk": "low",
+   "access": [],
+   "integrations": [
+    "x"
+   ],
+   "official": false,
+   "creator": {
+    "name": "calculatemyrate",
+    "handle": "calculatemyrate",
+    "url": "https://x.com/calculatemyrate"
+   },
+   "add": "https://x.ai/bot/CZGWiB4CX5UM9v8Zu-MDT",
+   "page": "https://botsdots.site/templates/sassy-bot",
+   "firstSeen": "2026-11-04",
+   "score": 3,
+   "license": "CC0-1.0",
+   "sources": [
+    {
+     "name": "cs68614-hash/awesome-grokbot-templates",
+     "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+    }
+   ]
+  },
+  {
+   "name": "Security",
+   "summary": "Scans your GitHub repos every day for leaked secrets, risky configs and critical dependency advisories, and opens fix PRs for critical leaks.",
+   "category": "coding-shipping",
+   "cadence": "daily",
+   "risk": "medium",
+   "access": [
+    "code"
+   ],
+   "integrations": [
+    "github"
+   ],
+   "official": false,
+   "creator": {
+    "name": "Kyle",
+    "handle": null,
+    "url": null
+   },
+   "add": "https://x.ai/bot/HBVJCsqErP7ToM8QdwSH3",
+   "page": "https://botsdots.site/templates/security-hbvj",
+   "firstSeen": "2026-11-04",
+   "score": 2,
+   "license": "facts-only",
+   "sources": [
+    {
+     "name": "Public x.ai share page",
+     "url": "https://x.ai"
+    }
+   ]
+  },
+  {
+   "name": "Security Deposit Recovery Helper",
+   "summary": "Helps a renter get their security deposit back with calm, factual, firm correspondence.",
+   "category": "personal-admin",
+   "cadence": "on-demand",
+   "risk": "low",
+   "access": [],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "Prabhu",
+    "handle": "KuttyPrabhu",
+    "url": "https://x.com/KuttyPrabhu"
+   },
+   "add": "https://x.ai/bot/EFx_nomEVvWEvzP2ZB0Eb",
+   "page": "https://botsdots.site/templates/security-deposit-recovery-helper",
+   "firstSeen": "2026-11-04",
+   "score": 5,
+   "license": "CC-BY-4.0",
+   "sources": [
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
+    }
+   ]
+  },
+  {
+   "name": "Shawty · Short-Form creator",
+   "summary": "Makes fact-checked, voiced, animated vertical Shorts on any topic you hand it, fast, and can answer X reply requests with a custom Short.",
+   "category": "content-publishing",
+   "cadence": "on-demand",
+   "risk": "low",
+   "access": [],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "Farzad",
+    "handle": null,
+    "url": null
+   },
+   "add": "https://x.ai/bot/uVuCGFzXGUoZ-pE4SDwnF",
+   "page": "https://botsdots.site/templates/shawty-short-form-creator",
+   "firstSeen": "2026-11-04",
+   "score": 2,
+   "license": "facts-only",
+   "sources": [
+    {
+     "name": "Public x.ai share page",
+     "url": "https://x.ai"
+    }
+   ]
+  },
+  {
+   "name": "Silence Desk",
+   "summary": "Flags what a CEO and CFO stopped talking about on the latest earnings call.",
+   "category": "finance-ops",
+   "cadence": "on-demand",
+   "risk": "low",
+   "access": [],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "Thomas",
+    "handle": "Tferriere",
+    "url": "https://x.com/Tferriere"
+   },
+   "add": "https://x.ai/bot/YAcVJbcmOD3hTh_w82O70",
+   "page": "https://botsdots.site/templates/silence-desk",
+   "firstSeen": "2026-11-04",
+   "score": 5,
+   "license": "CC-BY-4.0",
+   "sources": [
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
+    }
+   ]
+  },
+  {
+   "name": "Spritesmith",
+   "summary": "Turns real objects into flat isometric sprite sets for games, maps and diagrams.",
+   "category": "content-publishing",
+   "cadence": "on-demand",
+   "risk": "low",
+   "access": [],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "Virtus",
+    "handle": "VirtusT",
+    "url": "https://x.com/VirtusT"
+   },
+   "add": "https://x.ai/bot/LnzIK0NhhiDn7zt64iw6y",
+   "page": "https://botsdots.site/templates/spritesmith",
+   "firstSeen": "2026-11-04",
+   "score": 5,
+   "license": "CC-BY-4.0",
+   "sources": [
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
+    }
+   ]
+  },
+  {
+   "name": "STE writer",
+   "summary": "Answers questions, rewrites text, and checks text in ASD-STE100 Simplified Technical English.",
+   "category": "content-publishing",
+   "cadence": "on-demand",
+   "risk": "low",
+   "access": [],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "0xpili_",
+    "handle": "0xpili_",
+    "url": "https://x.com/0xpili_"
+   },
+   "add": "https://x.ai/bot/b1ixA_xKFWOLpELVV2Zeb",
+   "page": "https://botsdots.site/templates/ste-writer",
+   "firstSeen": "2026-11-04",
+   "score": 3,
+   "license": "CC0-1.0",
+   "sources": [
+    {
+     "name": "cs68614-hash/awesome-grokbot-templates",
+     "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+    }
+   ]
+  },
+  {
+   "name": "Stitch Your Pitch · Resume & Cover Letter Tailor",
+   "summary": "Your experience. Tailored to the job. Share your resume and a job posting to get an evidence-based fit review, tailored resume.",
+   "category": "personal-admin",
+   "cadence": "on-demand",
+   "risk": "high",
+   "access": [
+    "publishing"
+   ],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "DumbEinstein",
+    "handle": "DumbEinstein",
+    "url": "https://x.com/DumbEinstein"
+   },
+   "add": "https://x.ai/bot/Yaqu1CNc1OG_Ffi-vVWsY",
+   "page": "https://botsdots.site/templates/stitch-your-pitch-resume-cover-letter-tailor",
+   "firstSeen": "2026-11-04",
+   "score": 3,
+   "license": "CC0-1.0",
+   "sources": [
+    {
+     "name": "cs68614-hash/awesome-grokbot-templates",
+     "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+    }
+   ]
+  },
+  {
+   "name": "StockieX",
+   "summary": "A read-only daily brief on US stocks whose X chatter is spiking.",
+   "category": "finance-ops",
+   "cadence": "daily",
+   "risk": "high",
+   "access": [
+    "money"
+   ],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "Musi",
+    "handle": "musingit",
+    "url": "https://x.com/musingit"
+   },
+   "add": "https://x.ai/bot/YQMrTIlnVm2F9QRK2bbOo",
+   "page": "https://botsdots.site/templates/stockiex",
+   "firstSeen": "2026-11-04",
+   "score": 5,
+   "license": "CC-BY-4.0",
+   "sources": [
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
+    }
+   ]
+  },
+  {
+   "name": "Study Cartoons",
+   "summary": "Turns a photo of a study guide into a short narrated cartoon lesson.",
+   "category": "content-publishing",
+   "cadence": "on-demand",
+   "risk": "low",
+   "access": [],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "Marc",
+    "handle": "MSaintjour",
+    "url": "https://x.com/MSaintjour"
+   },
+   "add": "https://x.ai/bot/U8o9QCutuyeFJ9Jdbrqui",
+   "page": "https://botsdots.site/templates/study-cartoons",
+   "firstSeen": "2026-11-04",
+   "score": 5,
+   "license": "CC-BY-4.0",
+   "sources": [
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
+    }
+   ]
+  },
+  {
+   "name": "SwarmCoordinator Bot",
+   "summary": "A project manager for a bot swarm that hands each bot one card at a time from a Notion board.",
+   "category": "teams-handoffs",
+   "cadence": "on-demand",
+   "risk": "medium",
+   "access": [
+    "chat",
+    "docs"
+   ],
+   "integrations": [
+    "notion"
+   ],
+   "official": false,
+   "creator": {
+    "name": "Chase",
+    "handle": "ChaseMc67",
+    "url": "https://x.com/ChaseMc67"
+   },
+   "add": "https://x.ai/bot/tlPYGlEEruj2J2V6SOudb",
+   "page": "https://botsdots.site/templates/swarmcoordinator-bot",
+   "firstSeen": "2026-11-04",
+   "score": 5,
+   "license": "CC-BY-4.0",
+   "sources": [
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
+    }
+   ]
+  },
+  {
+   "name": "Switchboard",
+   "summary": "One free, always-on message board for all your AI agents (Grok Bots, Claude, Cursor, Muse, ChatGPT and more).",
+   "category": "coding-shipping",
+   "cadence": "on-demand",
+   "risk": "low",
+   "access": [],
+   "integrations": [
+    "cursor"
+   ],
+   "official": false,
+   "creator": {
+    "name": "Tchap248",
+    "handle": "Tchap248",
+    "url": "https://x.com/Tchap248"
+   },
+   "add": "https://x.ai/bot/v6ciPTT0-3DeyOSkDyzJR",
+   "page": "https://botsdots.site/templates/switchboard",
+   "firstSeen": "2026-11-04",
+   "score": 7,
+   "license": "CC0-1.0",
+   "sources": [
+    {
+     "name": "cs68614-hash/awesome-grokbot-templates",
+     "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+    },
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
+    }
+   ]
+  },
+  {
+   "name": "Tech Job Hunter",
+   "summary": "A job-search partner for tech roles that works from your resume, LinkedIn and portfolio.",
+   "category": "personal-admin",
+   "cadence": "on-demand",
+   "risk": "high",
+   "access": [
+    "money"
+   ],
+   "integrations": [
+    "linkedin"
+   ],
+   "official": false,
+   "creator": {
+    "name": "Jonathan",
+    "handle": "jrbond",
+    "url": "https://x.com/jrbond"
+   },
+   "add": "https://x.ai/bot/FCn37Y4t7WtouJIFH1rJA",
+   "page": "https://botsdots.site/templates/tech-job-hunter",
+   "firstSeen": "2026-11-04",
+   "score": 5,
+   "license": "CC-BY-4.0",
+   "sources": [
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
+    }
+   ]
+  },
+  {
+   "name": "Telly",
+   "summary": "Telly builds you a beautiful daily page of what's new to watch on your streaming services: premieres, new seasons, new movies.",
+   "category": "research-briefings",
+   "cadence": "daily",
+   "risk": "low",
+   "access": [],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "BellverseLabs",
+    "handle": "BellverseLabs",
+    "url": "https://x.com/BellverseLabs"
+   },
+   "add": "https://x.ai/bot/UC5JcnrB1O5SBT-Nq9HTw",
+   "page": "https://botsdots.site/templates/telly",
+   "firstSeen": "2026-11-04",
+   "score": 7,
+   "license": "CC0-1.0",
+   "sources": [
+    {
+     "name": "cs68614-hash/awesome-grokbot-templates",
+     "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+    },
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
+    }
+   ]
+  },
+  {
+   "name": "Tesla Light Show Maker",
+   "summary": "Builds custom Tesla light shows timed to your song and checked with Tesla's validator.",
+   "category": "content-publishing",
+   "cadence": "on-demand",
+   "risk": "low",
+   "access": [],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "RJ",
+    "handle": "RJTesla",
+    "url": "https://x.com/RJTesla"
+   },
+   "add": "https://x.ai/bot/l3uznrkuQpYJEu-IfcbH6",
+   "page": "https://botsdots.site/templates/tesla-light-show-maker",
+   "firstSeen": "2026-11-04",
+   "score": 5,
+   "license": "CC-BY-4.0",
+   "sources": [
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
+    }
+   ]
+  },
+  {
+   "name": "Tesla Update Scout",
+   "summary": "Checks which Tesla software update your car is missing and how far the rollout has reached.",
+   "category": "personal-admin",
+   "cadence": "on-demand",
+   "risk": "medium",
+   "access": [
+    "code"
+   ],
+   "integrations": [
+    "x"
+   ],
+   "official": false,
+   "creator": {
+    "name": "Martin",
+    "handle": "MyPassion_M9T",
+    "url": "https://x.com/MyPassion_M9T"
+   },
+   "add": "https://x.ai/bot/IzSBsS5MZfpyGOVTPG6AR",
+   "page": "https://botsdots.site/templates/tesla-update-scout",
+   "firstSeen": "2026-11-04",
+   "score": 5,
+   "license": "CC-BY-4.0",
+   "sources": [
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
+    }
+   ]
+  },
+  {
+   "name": "The Reaper",
+   "summary": "Blocks obvious spam, scam and impersonator accounts that tag you on X, three times a day.",
+   "category": "content-publishing",
+   "cadence": "on-demand",
+   "risk": "low",
+   "access": [],
+   "integrations": [
+    "x"
+   ],
+   "official": false,
+   "creator": {
+    "name": "AdamDesigns",
+    "handle": "Adamdesgns",
+    "url": "https://x.com/Adamdesgns"
+   },
+   "add": "https://x.ai/bot/bcmrf2uP7_B3xyfXMGy8y",
+   "page": "https://botsdots.site/templates/the-reaper",
+   "firstSeen": "2026-11-04",
+   "score": 5,
+   "license": "CC-BY-4.0",
+   "sources": [
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
+    }
+   ]
+  },
+  {
+   "name": "Three Quotes",
+   "summary": "Get three solid quotes from licensed local pros.",
+   "category": "personal-admin",
+   "cadence": "on-demand",
+   "risk": "low",
+   "access": [],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "Brian",
+    "handle": null,
+    "url": null
+   },
+   "add": "https://x.ai/bot/GNFPzVh1EezMS0JiNHgcr",
+   "page": "https://botsdots.site/templates/three-quotes",
+   "firstSeen": "2026-11-04",
+   "score": 3,
+   "license": "facts-only",
+   "sources": [
+    {
+     "name": "Public x.ai share page",
+     "url": "https://x.ai"
+    }
+   ]
+  },
+  {
+   "name": "Throughput",
+   "summary": "Weekly teammate throughput and time-saved reporter. Asks the desks in your sidebar what they finished, totals tasks and estimated hours saved.",
+   "category": "teams-handoffs",
+   "cadence": "weekly",
+   "risk": "medium",
+   "access": [
+    "code"
+   ],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "kanesimms",
+    "handle": "kanesimms",
+    "url": "https://x.com/kanesimms"
+   },
+   "add": "https://x.ai/bot/S30ZPAp12AqWnlc05gND4",
+   "page": "https://botsdots.site/templates/throughput",
+   "firstSeen": "2026-11-04",
+   "score": 3,
+   "license": "CC0-1.0",
+   "sources": [
+    {
+     "name": "cs68614-hash/awesome-grokbot-templates",
+     "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+    }
+   ]
+  },
+  {
+   "name": "Token Regulator",
+   "summary": "Keeps your Grok Bot usage on pace with a daily limit and tidies the commands your lead bots send to other bots and coding agents.",
+   "category": "coding-shipping",
+   "cadence": "daily",
+   "risk": "medium",
+   "access": [
+    "code"
+   ],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "loccoai",
+    "handle": "loccoai",
+    "url": "https://x.com/loccoai"
+   },
+   "add": "https://x.ai/bot/B4aqGT48qOIQjE9BWRvDh",
+   "page": "https://botsdots.site/templates/token-regulator",
+   "firstSeen": "2026-11-04",
+   "score": 7,
+   "license": "CC0-1.0",
+   "sources": [
+    {
+     "name": "cs68614-hash/awesome-grokbot-templates",
+     "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+    },
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
+    }
+   ]
+  },
+  {
+   "name": "Token Sentinel",
+   "summary": "Watches which of your bots burn tokens and sends a weekly digest on where they went.",
+   "category": "research-briefings",
+   "cadence": "weekly",
+   "risk": "medium",
+   "access": [
+    "code"
+   ],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "Matthew",
+    "handle": "LabGuyAi",
+    "url": "https://x.com/LabGuyAi"
+   },
+   "add": "https://x.ai/bot/W5l8IIL0XKq0-YfPRcpoA",
+   "page": "https://botsdots.site/templates/token-sentinel",
+   "firstSeen": "2026-11-04",
+   "score": 5,
+   "license": "CC-BY-4.0",
+   "sources": [
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
+    }
+   ]
+  },
+  {
+   "name": "Trading Desk Chief",
+   "summary": "CEO of a small agentic brokerage trading desk that compounds a dedicated funded account with long equities.",
+   "category": "finance-ops",
+   "cadence": "on-demand",
+   "risk": "high",
+   "access": [
+    "money"
+   ],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "fullforcetrades",
+    "handle": "fullforcetrades",
+    "url": "https://x.com/fullforcetrades"
+   },
+   "add": "https://x.ai/bot/hwk-dYnLyyC_WDFDzNc8a",
+   "page": "https://botsdots.site/templates/trading-desk-chief",
+   "firstSeen": "2026-11-04",
+   "score": 3,
+   "license": "CC0-1.0",
+   "sources": [
+    {
+     "name": "cs68614-hash/awesome-grokbot-templates",
+     "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+    }
+   ]
+  },
+  {
+   "name": "Trip Planner Pro",
+   "summary": "Give it a city and dates and it plans the whole trip: flights that match your timing, a place to stay near where you'll be.",
+   "category": "personal-admin",
+   "cadence": "on-demand",
+   "risk": "low",
+   "access": [],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "Bearhugsink",
+    "handle": "Bearhugsink",
+    "url": "https://x.com/Bearhugsink"
+   },
+   "add": "https://x.ai/bot/giex8DlUbyLpN-jZvK6tK",
+   "page": "https://botsdots.site/templates/trip-planner-pro",
+   "firstSeen": "2026-11-04",
+   "score": 3,
+   "license": "CC0-1.0",
+   "sources": [
+    {
+     "name": "cs68614-hash/awesome-grokbot-templates",
+     "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+    }
+   ]
+  },
+  {
+   "name": "Two Times",
+   "summary": "A second pair of eyes that checks posts, pages, videos and outreach before they go out.",
+   "category": "personal-admin",
+   "cadence": "on-demand",
+   "risk": "low",
+   "access": [],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "AdamDesigns",
+    "handle": "Adamdesgns",
+    "url": "https://x.com/Adamdesgns"
+   },
+   "add": "https://x.ai/bot/2Kz23JfcMfN42T42Pz2Y-",
+   "page": "https://botsdots.site/templates/two-times",
+   "firstSeen": "2026-11-04",
+   "score": 5,
+   "license": "CC-BY-4.0",
+   "sources": [
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
+    }
+   ]
+  },
+  {
+   "name": "Usage Dashboard",
+   "summary": "Tracks your Grok Bot usage on an interactive dashboard Page and saves each month.",
+   "category": "personal-admin",
+   "cadence": "on-demand",
+   "risk": "low",
+   "access": [],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "Mijinions",
+    "handle": "Mijinions",
+    "url": "https://x.com/Mijinions"
+   },
+   "add": "https://x.ai/bot/uru7DsAamYpDSkUnuodC0",
+   "page": "https://botsdots.site/templates/usage-dashboard",
+   "firstSeen": "2026-11-04",
+   "score": 3,
+   "license": "CC0-1.0",
+   "sources": [
+    {
+     "name": "cs68614-hash/awesome-grokbot-templates",
+     "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+    }
+   ]
+  },
+  {
+   "name": "VA Disability Bot",
+   "summary": "Helps veterans understand their VA disability ratings and build rating-increase or new-condition claims: reviewing letters and records.",
+   "category": "personal-admin",
+   "cadence": "on-demand",
+   "risk": "low",
+   "access": [],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "HaplessHotdog",
+    "handle": "HaplessHotdog",
+    "url": "https://x.com/HaplessHotdog"
+   },
+   "add": "https://x.ai/bot/weDCWqtPnKBdN9NpFS_Li",
+   "page": "https://botsdots.site/templates/va-disability-bot",
+   "firstSeen": "2026-11-04",
+   "score": 7,
+   "license": "CC0-1.0",
+   "sources": [
+    {
+     "name": "cs68614-hash/awesome-grokbot-templates",
+     "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+    },
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
+    }
+   ]
+  },
+  {
+   "name": "Vault Architect",
+   "summary": "Builds and runs one Obsidian vault that serves as the shared memory for all your Grok Bots, with templates, task logs, nightly upkeep and a daily report.",
+   "category": "teams-handoffs",
+   "cadence": "daily",
+   "risk": "medium",
+   "access": [
+    "code"
+   ],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "seize100",
+    "handle": "seize100",
+    "url": "https://x.com/seize100"
+   },
+   "add": "https://x.ai/bot/Cc9K3yeWJQyfISSdmzLjs",
+   "page": "https://botsdots.site/templates/vault-architect",
+   "firstSeen": "2026-11-04",
+   "score": 7,
+   "license": "CC0-1.0",
+   "sources": [
+    {
+     "name": "cs68614-hash/awesome-grokbot-templates",
+     "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+    },
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
+    }
+   ]
+  },
+  {
+   "name": "Video Creation",
+   "summary": "Makes 2-minute history and future explainer and music videos end to end, from sourced research, plan.",
+   "category": "research-briefings",
+   "cadence": "on-demand",
+   "risk": "low",
+   "access": [],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "bentruong",
+    "handle": "bentruong",
+    "url": "https://x.com/bentruong"
+   },
+   "add": "https://x.ai/bot/JQhSaJ8cZ_wMZOO_uTpeW",
+   "page": "https://botsdots.site/templates/video-creation",
+   "firstSeen": "2026-11-04",
+   "score": 3,
+   "license": "CC0-1.0",
+   "sources": [
+    {
+     "name": "cs68614-hash/awesome-grokbot-templates",
+     "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+    }
+   ]
+  },
+  {
+   "name": "Web3 Guide",
+   "summary": "A friendly crypto and Web3 guide for beginners and builders: wallets, DeFi, identity, trading tools and building on-chain.",
+   "category": "finance-ops",
+   "cadence": "on-demand",
+   "risk": "high",
+   "access": [
+    "money"
+   ],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "qieblockchain",
+    "handle": "qieblockchain",
+    "url": "https://x.com/qieblockchain"
+   },
+   "add": "https://x.ai/bot/P51xpyJAB6Bb1zJAeyxtU",
+   "page": "https://botsdots.site/templates/web3-guide",
+   "firstSeen": "2026-11-04",
+   "score": 7,
+   "license": "CC0-1.0",
+   "sources": [
+    {
+     "name": "cs68614-hash/awesome-grokbot-templates",
+     "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+    },
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
+    }
+   ]
+  },
+  {
+   "name": "Write-Off Keeper",
+   "summary": "Keeps creators, streamers, podcasters, freelancers and small business owners from losing deductions.",
+   "category": "finance-ops",
+   "cadence": "on-demand",
+   "risk": "medium",
+   "access": [
+    "inbox"
+   ],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "TheMarkGShow",
+    "handle": "TheMarkGShow",
+    "url": "https://x.com/TheMarkGShow"
+   },
+   "add": "https://x.ai/bot/BcKKc-ZRbp6zRXQ15fnY6",
+   "page": "https://botsdots.site/templates/write-off-keeper",
+   "firstSeen": "2026-11-04",
+   "score": 7,
+   "license": "CC0-1.0",
+   "sources": [
+    {
+     "name": "cs68614-hash/awesome-grokbot-templates",
+     "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+    },
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
+    }
+   ]
+  },
+  {
+   "name": "WWID",
+   "summary": "WWID (What Would I Do) is a second brain that learns how you make decisions and write, from your own messages to your other bots.",
+   "category": "teams-handoffs",
+   "cadence": "on-demand",
+   "risk": "low",
+   "access": [],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "shaivpidadi",
+    "handle": "shaivpidadi",
+    "url": "https://x.com/shaivpidadi"
+   },
+   "add": "https://x.ai/bot/xqY6kH7E_q5JMMbL5Xwoc",
+   "page": "https://botsdots.site/templates/wwid",
+   "firstSeen": "2026-11-04",
+   "score": 3,
+   "license": "CC0-1.0",
+   "sources": [
+    {
+     "name": "cs68614-hash/awesome-grokbot-templates",
+     "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+    }
+   ]
+  },
+  {
+   "name": "X Bookmark Organizer",
+   "summary": "Sorts your X bookmarks into a few clear topic folders so they are easy to read again.",
+   "category": "research-briefings",
+   "cadence": "on-demand",
+   "risk": "low",
+   "access": [],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "Krishnamurthy",
+    "handle": null,
+    "url": null
+   },
+   "add": "https://x.ai/bot/0jPv9qNHht1-PsEf3Q2Cg",
+   "page": "https://botsdots.site/templates/x-bookmark-organizer",
+   "firstSeen": "2026-11-04",
+   "score": 3,
+   "license": "facts-only",
+   "sources": [
+    {
+     "name": "Public x.ai share page",
+     "url": "https://x.ai"
+    }
+   ]
+  },
+  {
+   "name": "X Pulse (Personal)",
+   "summary": "Replays your own day on X as an interactive dial with music, made for screen-recording and sharing: yesterday or up to 7 days.",
+   "category": "content-publishing",
+   "cadence": "on-demand",
+   "risk": "low",
+   "access": [],
+   "integrations": [
+    "x"
+   ],
+   "official": false,
+   "creator": {
+    "name": "mspd4100",
+    "handle": "mspd4100",
+    "url": "https://x.com/mspd4100"
+   },
+   "add": "https://x.ai/bot/WXXQICyJA3NiSUumZ8uPq",
+   "page": "https://botsdots.site/templates/x-pulse-personal",
+   "firstSeen": "2026-11-04",
+   "score": 3,
+   "license": "CC0-1.0",
+   "sources": [
+    {
+     "name": "cs68614-hash/awesome-grokbot-templates",
+     "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+    }
+   ]
+  },
+  {
+   "name": "X Pulse (Public)",
+   "summary": "给我一个话题，我画出它在 X 上最近 24 小时有多热：可交互表盘页面（中英双语），外加 16:9 和 1:1 带配乐的视频。看自己账号的回放请用 X Pulse (Personal)。",
+   "category": "research-briefings",
+   "cadence": "on-demand",
+   "risk": "low",
+   "access": [],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "mspd4100",
+    "handle": "mspd4100",
+    "url": "https://x.com/mspd4100"
+   },
+   "add": "https://x.ai/bot/xddKCOqGlqVtILAv4O3Lq",
+   "page": "https://botsdots.site/templates/x-pulse-public",
+   "firstSeen": "2026-11-04",
+   "score": 3,
+   "license": "CC0-1.0",
+   "sources": [
+    {
+     "name": "cs68614-hash/awesome-grokbot-templates",
+     "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+    }
+   ]
+  },
+  {
+   "name": "X Reply & Networking Assistant",
+   "summary": "Learns your expertise, then finds the real practitioners in your niche on X and Twitter.",
+   "category": "finance-ops",
+   "cadence": "on-demand",
+   "risk": "low",
+   "access": [],
+   "integrations": [
+    "x"
+   ],
+   "official": false,
+   "creator": {
+    "name": "hereFelixK",
+    "handle": "hereFelixK",
+    "url": "https://x.com/hereFelixK"
+   },
+   "add": "https://x.ai/bot/SDKTO3mMc0NDQljmbOubN",
+   "page": "https://botsdots.site/templates/x-reply-networking-assistant",
+   "firstSeen": "2026-11-04",
+   "score": 3,
+   "license": "CC0-1.0",
+   "sources": [
+    {
+     "name": "cs68614-hash/awesome-grokbot-templates",
+     "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+    }
+   ]
+  },
+  {
+   "name": "𝕏 Twin",
+   "summary": "Your pro 𝕏 posting twin and banger specialist. It clones your exact voice from your X archive, drafts bangers, replies and captions.",
+   "category": "content-publishing",
+   "cadence": "on-demand",
+   "risk": "high",
+   "access": [
+    "destructive"
+   ],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "muse_inmotion",
+    "handle": "muse_inmotion",
+    "url": "https://x.com/muse_inmotion"
+   },
+   "add": "https://x.ai/bot/AFtZlQY7LQaCnoYHw1t1I",
+   "page": "https://botsdots.site/templates/x-twin",
+   "firstSeen": "2026-11-04",
+   "score": 3,
+   "license": "CC0-1.0",
+   "sources": [
+    {
+     "name": "cs68614-hash/awesome-grokbot-templates",
+     "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+    }
+   ]
+  },
+  {
+   "name": "X Unbaiter",
+   "summary": "Reply \"unbait\" to any clickbait post on X and get a plain headline with the actual answer, checked against the linked article, plus a one-tap reply link.",
+   "category": "content-publishing",
+   "cadence": "on-demand",
+   "risk": "high",
+   "access": [
+    "publishing"
+   ],
+   "integrations": [
+    "x"
+   ],
+   "official": false,
+   "creator": {
+    "name": "sebs_tweets",
+    "handle": "sebs_tweets",
+    "url": "https://x.com/sebs_tweets"
+   },
+   "add": "https://x.ai/bot/40wlwmt9OINkBw3daAcNR",
+   "page": "https://botsdots.site/templates/x-unbaiter",
+   "firstSeen": "2026-11-04",
+   "score": 3,
+   "license": "CC0-1.0",
+   "sources": [
+    {
+     "name": "cs68614-hash/awesome-grokbot-templates",
+     "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+    }
+   ]
+  },
+  {
+   "name": "X-algo",
+   "summary": "Scores your X posts against X's open-source For You algorithm and rewrites them to score higher.",
+   "category": "coding-shipping",
+   "cadence": "on-demand",
+   "risk": "low",
+   "access": [],
+   "integrations": [
+    "x"
+   ],
+   "official": false,
+   "creator": {
+    "name": "EthanSDE",
+    "handle": "EthanSDE",
+    "url": "https://x.com/EthanSDE"
+   },
+   "add": "https://x.ai/bot/138yNvmimSez4w_hTXEo0",
+   "page": "https://botsdots.site/templates/x-algo-138y",
+   "firstSeen": "2026-11-04",
+   "score": 3,
+   "license": "CC0-1.0",
+   "sources": [
+    {
+     "name": "cs68614-hash/awesome-grokbot-templates",
+     "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+    }
+   ]
+  },
+  {
+   "name": "xDoctorBot",
+   "summary": "Checks the X lists you are on each day and removes you from the mocking or hostile ones.",
+   "category": "personal-admin",
+   "cadence": "daily",
+   "risk": "low",
+   "access": [],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "Shane",
+    "handle": "ChooseGoodKarma",
+    "url": "https://x.com/ChooseGoodKarma"
+   },
+   "add": "https://x.ai/bot/raYGmOtnHIIPj0bt-hWww",
+   "page": "https://botsdots.site/templates/xdoctorbot",
+   "firstSeen": "2026-11-04",
+   "score": 5,
+   "license": "CC-BY-4.0",
+   "sources": [
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
+    }
+   ]
+  },
+  {
+   "name": "奥卡姆大师",
+   "summary": "省 Token 调度 Bot：每周自动审计你所有 Bot、例程、技能和脚本，找出烧额度和闲置的地方，确认后再改造或清理。",
+   "category": "personal-admin",
+   "cadence": "on-demand",
+   "risk": "low",
+   "access": [],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "arito_si",
+    "handle": "arito_si",
+    "url": "https://x.com/arito_si"
+   },
+   "add": "https://x.ai/bot/KAEAWzrt3thPIKUWUhQ_n",
+   "page": "https://botsdots.site/templates/kaeawzrt3thpikuwuhq-n",
+   "firstSeen": "2026-11-04",
+   "score": 3,
+   "license": "CC0-1.0",
+   "sources": [
+    {
+     "name": "cs68614-hash/awesome-grokbot-templates",
+     "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
     }
    ]
   },
   {
    "name": "Advogado do Diabo",
    "summary": "Mande uma ideia, plano, apresentação ou decisão e ele rebate de propósito: aponta furos, riscos.",
-   "category": "finance-ops",
+   "category": "teams-handoffs",
    "cadence": "on-demand",
    "risk": "low",
    "access": [],
@@ -338,12 +4005,16 @@
    "add": "https://x.ai/bot/AJyPH2uLJlaRDYi0W4RPi",
    "page": "https://botsdots.site/templates/advogado-do-diabo",
    "firstSeen": "2026-11-03",
-   "score": 3,
+   "score": 6,
    "license": "CC0-1.0",
    "sources": [
     {
      "name": "cs68614-hash/awesome-grokbot-templates",
      "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+    },
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
     }
    ]
   },
@@ -446,12 +4117,16 @@
    "add": "https://x.ai/bot/fkON_AaHLT6jKHCzgjp31",
    "page": "https://botsdots.site/templates/avatar-maker",
    "firstSeen": "2026-11-03",
-   "score": 3,
+   "score": 6,
    "license": "CC0-1.0",
    "sources": [
     {
      "name": "cs68614-hash/awesome-grokbot-templates",
      "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+    },
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
     }
    ]
   },
@@ -460,8 +4135,10 @@
    "summary": "ONLY job: protect my owner from malicious or risky Grok Bots. I audit bot templates before they're imported, audit every bot right after import.",
    "category": "teams-handoffs",
    "cadence": "on-demand",
-   "risk": "low",
-   "access": [],
+   "risk": "medium",
+   "access": [
+    "code"
+   ],
    "integrations": [],
    "official": false,
    "creator": {
@@ -472,12 +4149,16 @@
    "add": "https://x.ai/bot/5SBqQtWvbxlytLfpgf3gr",
    "page": "https://botsdots.site/templates/bot-guard",
    "firstSeen": "2026-11-03",
-   "score": 3,
+   "score": 6,
    "license": "CC0-1.0",
    "sources": [
     {
      "name": "cs68614-hash/awesome-grokbot-templates",
      "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+    },
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
     }
    ]
   },
@@ -591,23 +4272,27 @@
   },
   {
    "name": "Director",
-   "summary": "Your video director: turn briefs into short films, ads, explainers, music videos, micro-dramas, and more — plan, shoot, cut, and deliver.",
+   "summary": "Turns a video brief into a finished short film, ad, explainer or music video.",
    "category": "content-publishing",
    "cadence": "on-demand",
    "risk": "low",
    "access": [],
    "integrations": [],
    "official": true,
-   "creator": null,
+   "creator": {
+    "name": "Xi Yan",
+    "handle": null,
+    "url": null
+   },
    "add": "https://x.ai/bot/r9v2LNQY0VHF8JXe8y6VF",
    "page": "https://botsdots.site/templates/director-r9v2",
    "firstSeen": "2026-11-03",
-   "score": 10,
-   "license": "facts-only",
+   "score": 12,
+   "license": "CC-BY-4.0",
    "sources": [
     {
-     "name": "Public x.ai share page",
-     "url": "https://x.ai"
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
     }
    ]
   },
@@ -712,34 +4397,6 @@
    ]
   },
   {
-   "name": "Family Cyber Shield",
-   "summary": "Checks your email for phishing and guides you through DNS blocking, Mac firewall, passkeys, and 2FA.",
-   "category": "inbox-calendar",
-   "cadence": "on-demand",
-   "risk": "medium",
-   "access": [
-    "inbox"
-   ],
-   "integrations": [],
-   "official": false,
-   "creator": {
-    "name": "Brian",
-    "handle": null,
-    "url": null
-   },
-   "add": "https://x.ai/bot/PJS4c0UlEuodw7Uvsffjq",
-   "page": "https://botsdots.site/templates/family-cyber-shield",
-   "firstSeen": "2026-11-03",
-   "score": 3,
-   "license": "facts-only",
-   "sources": [
-    {
-     "name": "Public x.ai share page",
-     "url": "https://x.ai"
-    }
-   ]
-  },
-  {
    "name": "Fern · Cartographer of the Wilds",
    "summary": "A creative lead for builders of worlds: lore, mood boards, concept art, shot-by-shot videos, and build prompts for Cursor cloud agents.",
    "category": "customer-sales",
@@ -758,12 +4415,16 @@
    "add": "https://x.ai/bot/EOWNaMkt5FZ57oLCLQjT2",
    "page": "https://botsdots.site/templates/fern-cartographer-of-the-wilds",
    "firstSeen": "2026-11-03",
-   "score": 3,
+   "score": 6,
    "license": "CC0-1.0",
    "sources": [
     {
      "name": "cs68614-hash/awesome-grokbot-templates",
      "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+    },
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
     }
    ]
   },
@@ -810,12 +4471,42 @@
    "add": "https://x.ai/bot/Ood0IKoWBxfUbnEDNKKaG",
    "page": "https://botsdots.site/templates/first-principles-bot",
    "firstSeen": "2026-11-03",
-   "score": 3,
+   "score": 6,
    "license": "CC0-1.0",
    "sources": [
     {
      "name": "cs68614-hash/awesome-grokbot-templates",
      "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+    },
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
+    }
+   ]
+  },
+  {
+   "name": "Grok Bot Efficiency Optimizer",
+   "summary": "A weekly review of what your bots and routines use, with cheaper ways to run them.",
+   "category": "teams-handoffs",
+   "cadence": "weekly",
+   "risk": "low",
+   "access": [],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "Sawyer Merritt",
+    "handle": "SawyerMerritt",
+    "url": "https://x.com/SawyerMerritt"
+   },
+   "add": "https://x.ai/bot/6q44k3eKlHmC0keocH7He",
+   "page": "https://botsdots.site/templates/grok-bot-efficiency-optimizer",
+   "firstSeen": "2026-11-03",
+   "score": 5,
+   "license": "CC-BY-4.0",
+   "sources": [
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
     }
    ]
   },
@@ -876,8 +4567,10 @@
    "summary": "An AI job search team in one chat. Your lead bot builds four specialists (Job Hunter, Resume Optimizer, Job Applier, Company Outreach).",
    "category": "customer-sales",
    "cadence": "on-demand",
-   "risk": "low",
-   "access": [],
+   "risk": "medium",
+   "access": [
+    "code"
+   ],
    "integrations": [],
    "official": false,
    "creator": {
@@ -888,12 +4581,16 @@
    "add": "https://x.ai/bot/IZ4okiqY8WE4XR8Ujb-l3",
    "page": "https://botsdots.site/templates/job-search-agent-team",
    "firstSeen": "2026-11-03",
-   "score": 3,
+   "score": 6,
    "license": "CC0-1.0",
    "sources": [
     {
      "name": "cs68614-hash/awesome-grokbot-templates",
      "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+    },
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
     }
    ]
   },
@@ -1051,7 +4748,7 @@
    "name": "Mature Beauty Advisor",
    "summary": "A warm skin and makeup advisor for women 50+ that shares evidence-based tips, verified deals, new beauty tech, research news.",
    "category": "research-briefings",
-   "cadence": "on-demand",
+   "cadence": "weekly",
    "risk": "low",
    "access": [],
    "integrations": [],
@@ -1064,12 +4761,16 @@
    "add": "https://x.ai/bot/80-90l4AUWkrhpaOI7kfU",
    "page": "https://botsdots.site/templates/mature-beauty-advisor",
    "firstSeen": "2026-11-03",
-   "score": 3,
+   "score": 6,
    "license": "CC0-1.0",
    "sources": [
     {
      "name": "cs68614-hash/awesome-grokbot-templates",
      "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+    },
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
     }
    ]
   },
@@ -1090,12 +4791,16 @@
    "add": "https://x.ai/bot/XjVgmRXNssEllgpV6fwNW",
    "page": "https://botsdots.site/templates/music-teacher",
    "firstSeen": "2026-11-03",
-   "score": 3,
+   "score": 6,
    "license": "CC0-1.0",
    "sources": [
     {
      "name": "cs68614-hash/awesome-grokbot-templates",
      "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+    },
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
     }
    ]
   },
@@ -1118,22 +4823,28 @@
    "add": "https://x.ai/bot/cAyhe5UQimaUNYKWsgwOJ",
    "page": "https://botsdots.site/templates/never-forget-a-present-bot",
    "firstSeen": "2026-11-03",
-   "score": 3,
+   "score": 6,
    "license": "CC0-1.0",
    "sources": [
     {
      "name": "cs68614-hash/awesome-grokbot-templates",
      "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+    },
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
     }
    ]
   },
   {
    "name": "Numbers Desk",
    "summary": "A data person on call for small businesses: connect Stripe, Shopify, QuickBooks, PostHog or a Google Sheet, ask about your numbers in plain English.",
-   "category": "personal-admin",
+   "category": "customer-sales",
    "cadence": "on-demand",
    "risk": "high",
    "access": [
+    "code",
+    "chat",
     "money"
    ],
    "integrations": [
@@ -1149,12 +4860,16 @@
    "add": "https://x.ai/bot/aLyvoOKOFDQJtvd2KOT1a",
    "page": "https://botsdots.site/templates/numbers-desk",
    "firstSeen": "2026-11-03",
-   "score": 3,
+   "score": 6,
    "license": "CC0-1.0",
    "sources": [
     {
      "name": "cs68614-hash/awesome-grokbot-templates",
      "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+    },
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
     }
    ]
   },
@@ -1319,6 +5034,32 @@
    ]
   },
   {
+   "name": "Saver Bot",
+   "summary": "An animated dashboard of where your Grok Bot usage goes, with ranked saving tips.",
+   "category": "teams-handoffs",
+   "cadence": "on-demand",
+   "risk": "low",
+   "access": [],
+   "integrations": [],
+   "official": false,
+   "creator": {
+    "name": "Kaize",
+    "handle": "0x_kaize",
+    "url": "https://x.com/0x_kaize"
+   },
+   "add": "https://x.ai/bot/HwU-TfXaEV_zha7HpkG57",
+   "page": "https://botsdots.site/templates/saver-bot",
+   "firstSeen": "2026-11-03",
+   "score": 5,
+   "license": "CC-BY-4.0",
+   "sources": [
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
+    }
+   ]
+  },
+  {
    "name": "Security Lockdown",
    "summary": "Walks you step by step through locking down your personal digital security: passwords, two-factor, old accounts, identity, phone.",
    "category": "personal-admin",
@@ -1335,12 +5076,16 @@
    "add": "https://x.ai/bot/gjDlTUkU-MqM6AdxZ2E9p",
    "page": "https://botsdots.site/templates/security-lockdown",
    "firstSeen": "2026-11-03",
-   "score": 3,
+   "score": 6,
    "license": "CC0-1.0",
    "sources": [
     {
      "name": "cs68614-hash/awesome-grokbot-templates",
      "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+    },
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
     }
    ]
   },
@@ -1559,12 +5304,16 @@
    "add": "https://x.ai/bot/TB9I2IqRWkQRQGEaG2Bjd",
    "page": "https://botsdots.site/templates/usage-saver-tb9i",
    "firstSeen": "2026-11-03",
-   "score": 3,
+   "score": 6,
    "license": "CC0-1.0",
    "sources": [
     {
      "name": "cs68614-hash/awesome-grokbot-templates",
      "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+    },
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
     }
    ]
   },
@@ -1653,8 +5402,10 @@
    "summary": "Hate walking? Buddy walk makes your walk a competition of the mind, makes perceived time fly, and lets you compete worldwide.",
    "category": "personal-admin",
    "cadence": "on-demand",
-   "risk": "low",
-   "access": [],
+   "risk": "medium",
+   "access": [
+    "calendar"
+   ],
    "integrations": [],
    "official": false,
    "creator": {
@@ -1665,12 +5416,16 @@
    "add": "https://x.ai/bot/ofX7dIqaoy92jcobdTRnl",
    "page": "https://botsdots.site/templates/walk-buddy",
    "firstSeen": "2026-11-03",
-   "score": 3,
+   "score": 6,
    "license": "CC0-1.0",
    "sources": [
     {
      "name": "cs68614-hash/awesome-grokbot-templates",
      "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+    },
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
     }
    ]
   },
@@ -1693,12 +5448,16 @@
    "add": "https://x.ai/bot/3XRSSn46guqC5O1r66aMi",
    "page": "https://botsdots.site/templates/x-bags",
    "firstSeen": "2026-11-03",
-   "score": 3,
+   "score": 6,
    "license": "CC0-1.0",
    "sources": [
     {
      "name": "cs68614-hash/awesome-grokbot-templates",
      "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+    },
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
     }
    ]
   },
@@ -1706,9 +5465,11 @@
    "name": "使用量ダッシュボード",
    "summary": "Grok Botの使用量が何に使われたかを、使用量レポートの数字だけで1枚のダッシュボードにまとめ、毎週更新する係です。節約のヒントも出します。",
    "category": "personal-admin",
-   "cadence": "on-demand",
-   "risk": "low",
-   "access": [],
+   "cadence": "weekly",
+   "risk": "medium",
+   "access": [
+    "code"
+   ],
    "integrations": [],
    "official": false,
    "creator": {
@@ -1719,12 +5480,16 @@
    "add": "https://x.ai/bot/4Vl9A87B_pWPLcxeHsCKe",
    "page": "https://botsdots.site/templates/4vl9a87b-pwplcxehscke",
    "firstSeen": "2026-11-03",
-   "score": 3,
+   "score": 6,
    "license": "CC0-1.0",
    "sources": [
     {
      "name": "cs68614-hash/awesome-grokbot-templates",
      "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+    },
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
     }
    ]
   },
@@ -2613,34 +6378,6 @@
    ]
   },
   {
-   "name": "Amazon Late",
-   "summary": "Watches your shopping email for late Amazon deliveries and drafts compensation requests to Amazon Customer Service, pushing for refunds to your…",
-   "category": "inbox-calendar",
-   "cadence": "on-demand",
-   "risk": "medium",
-   "access": [
-    "inbox"
-   ],
-   "integrations": [],
-   "official": false,
-   "creator": {
-    "name": "Alex",
-    "handle": null,
-    "url": null
-   },
-   "add": "https://x.ai/bot/RlPVwGxOM9pN7s0BBL6kd",
-   "page": "https://botsdots.site/templates/amazon-late",
-   "firstSeen": "2026-11-02",
-   "score": 2,
-   "license": "facts-only",
-   "sources": [
-    {
-     "name": "Public x.ai share page",
-     "url": "https://x.ai"
-    }
-   ]
-  },
-  {
    "name": "Amazox",
    "summary": "Dedicated Amazon order, return, exchange, and refund auditor that tracks return-in-transit packages, prevents multi-item UPS drop-off retrocharges.",
    "category": "personal-admin",
@@ -3006,12 +6743,16 @@
    "add": "https://x.ai/bot/bbsuaI0s8yxRnDXmiS5RS",
    "page": "https://botsdots.site/templates/artsy-abby",
    "firstSeen": "2026-11-02",
-   "score": 2,
+   "score": 5,
    "license": "CC0-1.0",
    "sources": [
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
+    },
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
     }
    ]
   },
@@ -3899,12 +7640,16 @@
    "add": "https://x.ai/bot/TpA4Ji65MF7b4jeecYGUF",
    "page": "https://botsdots.site/templates/biology-brenda",
    "firstSeen": "2026-11-02",
-   "score": 2,
+   "score": 5,
    "license": "CC0-1.0",
    "sources": [
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
+    },
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
     }
    ]
   },
@@ -4029,12 +7774,16 @@
    "add": "https://x.ai/bot/0On8NBR5bpxB6lKYnDYvE",
    "page": "https://botsdots.site/templates/black-friday-ram-game-deals",
    "firstSeen": "2026-11-02",
-   "score": 3,
+   "score": 6,
    "license": "CC0-1.0",
    "sources": [
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
+    },
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
     }
    ]
   },
@@ -4970,32 +8719,6 @@
    ]
   },
   {
-   "name": "Botty",
-   "summary": "A music label assistant that sends a weekday news digest on music, AI music, and Bitcoin, and helps plan releases, fix cover art, and write promo.",
-   "category": "content-publishing",
-   "cadence": "on-demand",
-   "risk": "low",
-   "access": [],
-   "integrations": [],
-   "official": false,
-   "creator": {
-    "name": "Kevin",
-    "handle": null,
-    "url": null
-   },
-   "add": "https://x.ai/bot/yNyQ_Bn75aQQbd0c7XPon",
-   "page": "https://botsdots.site/templates/botty",
-   "firstSeen": "2026-11-02",
-   "score": 2,
-   "license": "facts-only",
-   "sources": [
-    {
-     "name": "Public x.ai share page",
-     "url": "https://x.ai"
-    }
-   ]
-  },
-  {
    "name": "Bounty Hunter",
    "summary": "A fraud investigator that searches public records for possible fraud against U.S.",
    "category": "research-briefings",
@@ -5526,32 +9249,6 @@
    ]
   },
   {
-   "name": "Catholic Faith",
-   "summary": "Explains the Catholic daily Mass readings each morning, covering their historical background (especially the Old Testament) and faith meaning…",
-   "category": "personal-admin",
-   "cadence": "daily",
-   "risk": "low",
-   "access": [],
-   "integrations": [],
-   "official": false,
-   "creator": {
-    "name": "Mike",
-    "handle": null,
-    "url": null
-   },
-   "add": "https://x.ai/bot/iXs5vnVMQw39FsC4g4Dn-",
-   "page": "https://botsdots.site/templates/catholic-faith",
-   "firstSeen": "2026-11-02",
-   "score": 2,
-   "license": "facts-only",
-   "sources": [
-    {
-     "name": "Public x.ai share page",
-     "url": "https://x.ai"
-    }
-   ]
-  },
-  {
    "name": "Cause Compass",
    "summary": "Helps you find a local charity to volunteer at or donate to, matched to the causes you care about and the time you have.",
    "category": "personal-admin",
@@ -5794,34 +9491,6 @@
    ]
   },
   {
-   "name": "Chart Vader · Trade Setups",
-   "summary": "Your personal chart reader for Vest markets.",
-   "category": "research-briefings",
-   "cadence": "on-demand",
-   "risk": "high",
-   "access": [
-    "money"
-   ],
-   "integrations": [],
-   "official": false,
-   "creator": {
-    "name": "dcbk2la",
-    "handle": null,
-    "url": null
-   },
-   "add": "https://x.ai/bot/NepDSF7-aKxWwjRyxk37t",
-   "page": "https://botsdots.site/templates/chart-vader-trade-setups",
-   "firstSeen": "2026-11-02",
-   "score": 3,
-   "license": "facts-only",
-   "sources": [
-    {
-     "name": "Public x.ai share page",
-     "url": "https://x.ai"
-    }
-   ]
-  },
-  {
    "name": "ChatGPT Artist",
    "summary": "A foolproof art bot for people who love ChatGPT's image generation.",
    "category": "content-publishing",
@@ -5875,12 +9544,16 @@
    "add": "https://x.ai/bot/4SzF5eTdp-3HJUgQHAoh1",
    "page": "https://botsdots.site/templates/chemistry-casey",
    "firstSeen": "2026-11-02",
-   "score": 2,
+   "score": 5,
    "license": "CC0-1.0",
    "sources": [
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
+    },
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
     }
    ]
   },
@@ -6201,12 +9874,16 @@
    "add": "https://x.ai/bot/NixYZEef9AlmcCIcdlm8s",
    "page": "https://botsdots.site/templates/civics-clara",
    "firstSeen": "2026-11-02",
-   "score": 2,
+   "score": 5,
    "license": "CC0-1.0",
    "sources": [
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
+    },
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
     }
    ]
   },
@@ -6493,12 +10170,16 @@
    "add": "https://x.ai/bot/eFdYaseSE-E37MclyuU5O",
    "page": "https://botsdots.site/templates/coder-cole",
    "firstSeen": "2026-11-02",
-   "score": 2,
+   "score": 5,
    "license": "CC0-1.0",
    "sources": [
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
+    },
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
     }
    ]
   },
@@ -6840,34 +10521,6 @@
     {
      "name": "GrokBot HQ (CC BY 4.0)",
      "url": "https://grokbothq.xyz"
-    }
-   ]
-  },
-  {
-   "name": "Creator Analytics & Channel Optimizer",
-   "summary": "Checks your X, YouTube Shorts and TikTok numbers every morning, explains what broke out and why, flags repliers worth following back, and tunes…",
-   "category": "content-publishing",
-   "cadence": "daily",
-   "risk": "low",
-   "access": [],
-   "integrations": [
-    "youtube"
-   ],
-   "official": false,
-   "creator": {
-    "name": "beastnug",
-    "handle": null,
-    "url": null
-   },
-   "add": "https://x.ai/bot/D6JBYApstxlASM1rhotGG",
-   "page": "https://botsdots.site/templates/creator-analytics-channel-optimizer",
-   "firstSeen": "2026-11-02",
-   "score": 2,
-   "license": "facts-only",
-   "sources": [
-    {
-     "name": "Public x.ai share page",
-     "url": "https://x.ai"
     }
    ]
   },
@@ -7798,12 +11451,16 @@
    "add": "https://x.ai/bot/XMMTF1EY-B5VbizW64-0T",
    "page": "https://botsdots.site/templates/diploma-dana",
    "firstSeen": "2026-11-02",
-   "score": 2,
+   "score": 5,
    "license": "CC0-1.0",
    "sources": [
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
+    },
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
     }
    ]
   },
@@ -8519,12 +12176,16 @@
    "add": "https://x.ai/bot/huz0MjNp2ozoD17fZytGu",
    "page": "https://botsdots.site/templates/earth-and-sky-eddie",
    "firstSeen": "2026-11-02",
-   "score": 2,
+   "score": 5,
    "license": "CC0-1.0",
    "sources": [
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
+    },
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
     }
    ]
   },
@@ -8615,12 +12276,16 @@
    "add": "https://x.ai/bot/Woc9bIHrg5bO8-P7FbxOf",
    "page": "https://botsdots.site/templates/econ-eli",
    "firstSeen": "2026-11-02",
-   "score": 2,
+   "score": 5,
    "license": "CC0-1.0",
    "sources": [
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
+    },
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
     }
    ]
   },
@@ -10210,12 +13875,16 @@
    "add": "https://x.ai/bot/3KC3DeMny5MVtuSKPpsqM",
    "page": "https://botsdots.site/templates/gearhead-grace",
    "firstSeen": "2026-11-02",
-   "score": 2,
+   "score": 5,
    "license": "CC0-1.0",
    "sources": [
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
+    },
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
     }
    ]
   },
@@ -10910,12 +14579,16 @@
    "add": "https://x.ai/bot/SbuZfViNYHIEvK1jaBF85",
    "page": "https://botsdots.site/templates/grok-bot-factory",
    "firstSeen": "2026-11-02",
-   "score": 2,
+   "score": 5,
    "license": "CC0-1.0",
    "sources": [
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
+    },
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
     }
    ]
   },
@@ -11143,32 +14816,6 @@
    },
    "add": "https://x.ai/bot/Yx4zhgWdXxcenCpVVDfeP",
    "page": "https://botsdots.site/templates/groundskeeper-grillie",
-   "firstSeen": "2026-11-02",
-   "score": 3,
-   "license": "facts-only",
-   "sources": [
-    {
-     "name": "Public x.ai share page",
-     "url": "https://x.ai"
-    }
-   ]
-  },
-  {
-   "name": "Grove Home",
-   "summary": "A practical home coach for gardening, home cooking, and beginner outdoor skills like fishing and safe foraging.",
-   "category": "personal-admin",
-   "cadence": "on-demand",
-   "risk": "low",
-   "access": [],
-   "integrations": [],
-   "official": false,
-   "creator": {
-    "name": "Wizard",
-    "handle": null,
-    "url": null
-   },
-   "add": "https://x.ai/bot/02FJDWSaBGXio6ocuJRG2",
-   "page": "https://botsdots.site/templates/grove-home",
    "firstSeen": "2026-11-02",
    "score": 3,
    "license": "facts-only",
@@ -13008,34 +16655,6 @@
    ]
   },
   {
-   "name": "Jordan Hunter",
-   "summary": "Tracks new and upcoming Nike Air Jordan releases and alerts you in chat each morning on drop days with price, size availability, where to buy, and…",
-   "category": "research-briefings",
-   "cadence": "daily",
-   "risk": "high",
-   "access": [
-    "money"
-   ],
-   "integrations": [],
-   "official": false,
-   "creator": {
-    "name": "TeslaAiGirl",
-    "handle": null,
-    "url": null
-   },
-   "add": "https://x.ai/bot/Gc31PBNpuJqslvJpB7jkr",
-   "page": "https://botsdots.site/templates/jordan-hunter",
-   "firstSeen": "2026-11-02",
-   "score": 2,
-   "license": "facts-only",
-   "sources": [
-    {
-     "name": "Public x.ai share page",
-     "url": "https://x.ai"
-    }
-   ]
-  },
-  {
    "name": "Josh Allen",
    "summary": "SDR sidekick that researches, drafts and stages outbound across the morning surface, prospect sheet and inbox.",
    "category": "customer-sales",
@@ -14166,18 +17785,22 @@
    "official": false,
    "creator": {
     "name": "James",
-    "handle": null,
-    "url": null
+    "handle": "jimaggie",
+    "url": "https://x.com/jimaggie"
    },
    "add": "https://x.ai/bot/zUQwIdQgoK-uaxur73Nmv",
    "page": "https://botsdots.site/templates/local-services-samantha",
    "firstSeen": "2026-11-02",
-   "score": 2,
+   "score": 7,
    "license": "CC0-1.0",
    "sources": [
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
+    },
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
     }
    ]
   },
@@ -14554,18 +18177,22 @@
    "official": false,
    "creator": {
     "name": "James",
-    "handle": null,
-    "url": null
+    "handle": "jimaggie",
+    "url": "https://x.com/jimaggie"
    },
    "add": "https://x.ai/bot/nylpBfJCwgYRyEWD1kRWO",
    "page": "https://botsdots.site/templates/mathlete-mo",
    "firstSeen": "2026-11-02",
-   "score": 2,
+   "score": 7,
    "license": "CC0-1.0",
    "sources": [
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
+    },
+    {
+     "name": "GrokBot HQ (CC BY 4.0)",
+     "url": "https://grokbothq.xyz"
     }
    ]
   },
@@ -19203,32 +22830,6 @@
    ]
   },
   {
-   "name": "Release Manager for Artists & Labels",
-   "summary": "Runs every release end to end for independent artists and small labels on any distributor, from delivery, metadata, label copy and pre-save…",
-   "category": "personal-admin",
-   "cadence": "on-demand",
-   "risk": "low",
-   "access": [],
-   "integrations": [],
-   "official": false,
-   "creator": {
-    "name": "Kenn",
-    "handle": null,
-    "url": null
-   },
-   "add": "https://x.ai/bot/U3KT_LA7TogzGxgyKbuSm",
-   "page": "https://botsdots.site/templates/release-manager-for-artists-labels",
-   "firstSeen": "2026-11-02",
-   "score": 2,
-   "license": "facts-only",
-   "sources": [
-    {
-     "name": "Public x.ai share page",
-     "url": "https://x.ai"
-    }
-   ]
-  },
-  {
    "name": "Reply Helper",
    "summary": "Drafts replies to email, social replies and DMs in your voice so you only review and send.",
    "category": "content-publishing",
@@ -19630,32 +23231,6 @@
      "name": "cs68614-hash/awesome-grokbot-templates",
      "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
     },
-    {
-     "name": "GrokBot HQ (CC BY 4.0)",
-     "url": "https://grokbothq.xyz"
-    }
-   ]
-  },
-  {
-   "name": "Roadrunner · Bot Optimizer",
-   "summary": "Weekly audit of your bots that names the top usage wastes and prices each fix.",
-   "category": "teams-handoffs",
-   "cadence": "weekly",
-   "risk": "low",
-   "access": [],
-   "integrations": [],
-   "official": false,
-   "creator": {
-    "name": "Lon",
-    "handle": "Lonbaker",
-    "url": "https://x.com/Lonbaker"
-   },
-   "add": "https://x.ai/bot/g-m5pDVEjklVWOovjOhI8",
-   "page": "https://botsdots.site/templates/roadrunner-bot-optimizer",
-   "firstSeen": "2026-11-02",
-   "score": 5,
-   "license": "CC-BY-4.0",
-   "sources": [
     {
      "name": "GrokBot HQ (CC BY 4.0)",
      "url": "https://grokbothq.xyz"
@@ -22680,34 +26255,6 @@
    ]
   },
   {
-   "name": "Switchboard",
-   "summary": "Shared message board where your Claude, Cursor and Grok Bots can hand work to each other.",
-   "category": "teams-handoffs",
-   "cadence": "on-demand",
-   "risk": "low",
-   "access": [],
-   "integrations": [
-    "cursor"
-   ],
-   "official": false,
-   "creator": {
-    "name": "Terry",
-    "handle": "Tchap248",
-    "url": "https://x.com/Tchap248"
-   },
-   "add": "https://x.ai/bot/v6ciPTT0-3DeyOSkDyzJR",
-   "page": "https://botsdots.site/templates/switchboard",
-   "firstSeen": "2026-11-02",
-   "score": 5,
-   "license": "CC-BY-4.0",
-   "sources": [
-    {
-     "name": "GrokBot HQ (CC BY 4.0)",
-     "url": "https://grokbothq.xyz"
-    }
-   ]
-  },
-  {
    "name": "System One model expert",
    "summary": "I find where fast System One models (Jev, Cloudflare Clef and Clairic, OpenAI Decisions, pplx-decider, Kev.",
    "category": "research-briefings",
@@ -23127,32 +26674,6 @@
     {
      "name": "GrokBot HQ (CC BY 4.0)",
      "url": "https://grokbothq.xyz"
-    }
-   ]
-  },
-  {
-   "name": "Tesla Light Show Maker",
-   "summary": "Builds custom Tesla light shows for any model, timed to your song and checked with Tesla's validator, with a preview and USB setup steps.",
-   "category": "content-publishing",
-   "cadence": "on-demand",
-   "risk": "low",
-   "access": [],
-   "integrations": [],
-   "official": false,
-   "creator": {
-    "name": "RJ",
-    "handle": null,
-    "url": null
-   },
-   "add": "https://x.ai/bot/l3uznrkuQpYJEu-IfcbH6",
-   "page": "https://botsdots.site/templates/tesla-light-show-maker",
-   "firstSeen": "2026-11-02",
-   "score": 2,
-   "license": "facts-only",
-   "sources": [
-    {
-     "name": "Public x.ai share page",
-     "url": "https://x.ai"
     }
    ]
   },
@@ -27508,34 +31029,6 @@
    ]
   },
   {
-   "name": "Creator Deal Scout",
-   "summary": "Finds paid sponsorship, ambassador and brand-deal opportunities for content creators in the niches they choose, with official links and published…",
-   "category": "content-publishing",
-   "cadence": "on-demand",
-   "risk": "high",
-   "access": [
-    "publishing"
-   ],
-   "integrations": [],
-   "official": false,
-   "creator": {
-    "name": "Ste",
-    "handle": null,
-    "url": null
-   },
-   "add": "https://x.ai/bot/2NiK5JRICZnRK2NsXmhlj",
-   "page": "https://botsdots.site/templates/creator-deal-scout",
-   "firstSeen": "2026-11-01",
-   "score": 2,
-   "license": "facts-only",
-   "sources": [
-    {
-     "name": "Public x.ai share page",
-     "url": "https://x.ai"
-    }
-   ]
-  },
-  {
    "name": "Daily Wisdom (by SMF Works)",
    "summary": "Every morning: one short reading from the Stoics, philosophy, or a faith tradition, plus one question to carry through the day; reply with a…",
    "category": "research-briefings",
@@ -27553,32 +31046,6 @@
    "page": "https://botsdots.site/templates/daily-wisdom-by-smf-works",
    "firstSeen": "2026-11-01",
    "score": 2,
-   "license": "facts-only",
-   "sources": [
-    {
-     "name": "Public x.ai share page",
-     "url": "https://x.ai"
-    }
-   ]
-  },
-  {
-   "name": "Early Bird",
-   "summary": "Early Bird rounds up garage, yard, moving, and estate sales near you into one short weekly list, with every address a tap-to-map link.",
-   "category": "personal-admin",
-   "cadence": "weekly",
-   "risk": "low",
-   "access": [],
-   "integrations": [],
-   "official": false,
-   "creator": {
-    "name": "Sevierly",
-    "handle": null,
-    "url": null
-   },
-   "add": "https://x.ai/bot/DriACzupa3t63tnERfmxi",
-   "page": "https://botsdots.site/templates/early-bird",
-   "firstSeen": "2026-11-01",
-   "score": 3,
    "license": "facts-only",
    "sources": [
     {
@@ -32023,32 +35490,6 @@
    },
    "add": "https://x.ai/bot/POdj0Vus4u50mS7_jUlt3",
    "page": "https://botsdots.site/templates/prismie",
-   "firstSeen": "2026-10-31",
-   "score": 3,
-   "license": "CC-BY-4.0",
-   "sources": [
-    {
-     "name": "GrokBot HQ (CC BY 4.0)",
-     "url": "https://grokbothq.xyz"
-    }
-   ]
-  },
-  {
-   "name": "Prompt Lab",
-   "summary": "Writes coding prompts you paste into several AI models to compare how well each one builds something visual in code (Three.js…",
-   "category": "coding-shipping",
-   "cadence": "on-demand",
-   "risk": "low",
-   "access": [],
-   "integrations": [],
-   "official": false,
-   "creator": {
-    "name": "Wayne",
-    "handle": null,
-    "url": null
-   },
-   "add": "https://x.ai/bot/NN5pqHjmr-wC-vJ9d27EG",
-   "page": "https://botsdots.site/templates/prompt-lab",
    "firstSeen": "2026-10-31",
    "score": 3,
    "license": "CC-BY-4.0",
@@ -36876,28 +40317,6 @@
    ]
   },
   {
-   "name": "Price Hawk",
-   "summary": "Only real deals that meet your rules, no spam.",
-   "category": "personal-admin",
-   "cadence": "daily",
-   "risk": "low",
-   "access": [],
-   "integrations": [],
-   "official": false,
-   "creator": null,
-   "add": "https://x.ai/bot/EEdDidugNLswL8k2hhGZl",
-   "page": "https://botsdots.site/templates/price-hawk",
-   "firstSeen": "2026-10-30",
-   "score": 3,
-   "license": "facts-only",
-   "sources": [
-    {
-     "name": "Public x.ai share page",
-     "url": "https://x.ai"
-    }
-   ]
-  },
-  {
    "name": "Privacy Scrub",
    "summary": "Keeps your phone numbers and email addresses off people-search sites, caller-ID and email-lookup databases, business contact databases, and…",
    "category": "personal-admin",
@@ -40037,7 +43456,7 @@
   },
   {
    "name": "千机 · Gear ｜ Skill",
-   "summary": "千机是云间工作室出品的 Skill 助手，写给有一套反复在做的做法、想让 AI 每次都照着做的人：刚和 AI 跑通的一段流程、心里的判断标准、每天重复的活，它帮你造成一个 Skill，换个 AI…",
+   "summary": "千机是云间工作室出品的 Skill 助手，写给有一套反复在做的做法、想让 AI 每次都照着做的人：把跑通的流程、判断标准、每天重复的活造成 Skill。先定试题再写，造完先试用一次；还能改、装进常用的 AI，几个配成一个专门干一件事的 Bot，给越用越笨的老…",
    "category": "coding-shipping",
    "cadence": "on-demand",
    "risk": "low",
@@ -46021,12 +49440,16 @@
    "add": "https://x.ai/bot/BR_bVaj5zOasyjWX6ygGg",
    "page": "https://botsdots.site/templates/meal-planner-brbv",
    "firstSeen": "2026-10-27",
-   "score": 7,
+   "score": 9,
    "license": "CC0-1.0",
    "sources": [
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
+    },
+    {
+     "name": "cs68614-hash/awesome-grokbot-templates",
+     "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
     },
     {
      "name": "GrokBot HQ (CC BY 4.0)",
@@ -80385,32 +83808,6 @@
    ]
   },
   {
-   "name": "Doginal Dog Art Bot",
-   "summary": "Send it an X handle or a PFP and it makes custom Doginal Dog fan art: a square still plus a looping GIF that keeps the dog's exact traits, w",
-   "category": "content-publishing",
-   "cadence": "on-demand",
-   "risk": "low",
-   "access": [],
-   "integrations": [],
-   "official": false,
-   "creator": {
-    "name": "Mav",
-    "handle": "Mavmetax",
-    "url": "https://x.com/Mavmetax"
-   },
-   "add": "https://x.ai/bot/OwB7-1LWZIQ9smmqtfwOv",
-   "page": "https://botsdots.site/templates/doginal-dog-art-bot",
-   "firstSeen": "2026-10-23",
-   "score": 5,
-   "license": "CC-BY-4.0",
-   "sources": [
-    {
-     "name": "GrokBot HQ (CC BY 4.0)",
-     "url": "https://grokbothq.xyz"
-    }
-   ]
-  },
-  {
    "name": "Don't Panic Lite",
    "summary": "Cozy desk buddy that times your tea and coffee, nudges you to drink water and reminds you to take gentle stretch breaks during work hours.",
    "category": "personal-admin",
@@ -89021,18 +92418,22 @@
    "official": false,
    "creator": {
     "name": "Matt",
-    "handle": null,
-    "url": null
+    "handle": "SideShopAi",
+    "url": "https://x.com/SideShopAi"
    },
    "add": "https://x.ai/bot/OgiEUCjlCmRFgICanBSTu",
    "page": "https://botsdots.site/templates/tim-taylor",
    "firstSeen": "2026-10-21",
-   "score": 6,
+   "score": 9,
    "license": "CC0-1.0",
    "sources": [
     {
      "name": "majiayu000/awesome-grok-bot",
      "url": "https://github.com/majiayu000/awesome-grok-bot"
+    },
+    {
+     "name": "cs68614-hash/awesome-grokbot-templates",
+     "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
     },
     {
      "name": "GrokBot HQ (CC BY 4.0)",
@@ -119342,7 +122743,7 @@
    "add": "https://x.ai/bot/36TtndSnwXMKwBZznHj28",
    "page": "https://botsdots.site/templates/draftkeeper",
    "firstSeen": "2026-10-17",
-   "score": 15,
+   "score": 11,
    "license": "CC0-1.0",
    "sources": [
     {
@@ -123155,7 +126556,7 @@
    "add": "https://x.ai/bot/FHqfVO6g1IRQTJR5rQnnS",
    "page": "https://botsdots.site/templates/usage-guard-fhqf",
    "firstSeen": "2026-10-17",
-   "score": 15,
+   "score": 11,
    "license": "CC0-1.0",
    "sources": [
     {
@@ -158095,7 +161496,7 @@
    "add": "https://x.ai/bot/RO8GwQZFXL9O95i13epqF",
    "page": "https://botsdots.site/templates/x-brief-ro8g",
    "firstSeen": "2026-10-09",
-   "score": 19,
+   "score": 15,
    "license": "CC0-1.0",
    "sources": [
     {
@@ -164073,9 +167474,9 @@
   },
   {
    "name": "OMNI Grok-Bot",
-   "summary": "A values companion for the whole person.",
-   "category": "personal-admin",
-   "cadence": "daily",
+   "summary": "OMNI Grok-Bot v1.0.7: a moral companion with PAINE gardens + 13 values scoring, Mirror mind-meld, live Space Memery, and transcript sync, plus…",
+   "category": "research-briefings",
+   "cadence": "on-demand",
    "risk": "low",
    "access": [],
    "integrations": [],
@@ -164088,7 +167489,7 @@
    "add": "https://x.ai/bot/haiga0nuygv85ctv5smwa",
    "page": "https://botsdots.site/templates/omni-grok-bot-haig",
    "firstSeen": "2026-10-07",
-   "score": 3,
+   "score": 2,
    "license": "facts-only",
    "sources": [
     {
@@ -194190,7 +197591,7 @@
    "add": "https://x.ai/bot/5tp4v8_Z22suR9biJ_9wa",
    "page": "https://botsdots.site/templates/pr-review-desk-ship-safe",
    "firstSeen": "2026-09-30",
-   "score": 17,
+   "score": 13,
    "license": "CC0-1.0",
    "sources": [
     {
